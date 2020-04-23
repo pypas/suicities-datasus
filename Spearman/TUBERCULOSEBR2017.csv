@@ -1,3717 +1,4085 @@
-﻿MUNICIPIO;QUANTIDADE
-110001 Alta Floresta D'Oeste;4
-110040 Alto Paraíso;1
-110034 Alvorada D'Oeste;1
-110002 Ariquemes;43
-110045 Buritis;5
-110004 Cacoal;28
-110080 Candeias do Jamari;10
-110005 Cerejeiras;2
-110092 Chupinguaia;1
-110006 Colorado do Oeste;2
-110007 Corumbiara;1
-110008 Costa Marques;2
-110094 Cujubim;1
-110009 Espigão D'Oeste;8
-110100 Governador Jorge Teixeira;1
-110010 Guajará-Mirim;29
-110110 Itapuã do Oeste;3
-110011 Jaru;13
-110012 Ji-Paraná;37
-110013 Machadinho D'Oeste;3
-110140 Monte Negro;2
-110014 Nova Brasilândia D'Oeste;3
-110033 Nova Mamoré;4
-110015 Ouro Preto do Oeste;7
-110018 Pimenta Bueno;8
-110146 Pimenteiras do Oeste;1
-110020 Porto Velho;513
-110025 Presidente Médici;5
-110028 Rolim de Moura;5
-110029 Santa Luzia D'Oeste;1
-110148 São Felipe D'Oeste;1
-110149 São Francisco do Guaporé;2
-110032 São Miguel do Guaporé;1
-110160 Theobroma;1
-110170 Urupá;3
-110175 Vale do Anari;1
-110180 Vale do Paraíso;2
-110030 Vilhena;24
-120001 Acrelândia;2
-120005 Assis Brasil;1
-120010 Brasiléia;9
-120013 Bujari;1
-120020 Cruzeiro do Sul;32
-120025 Epitaciolândia;1
-120030 Feijó;2
-120033 Mâncio Lima;1
-120034 Manoel Urbano;5
-120038 Plácido de Castro;13
-120080 Porto Acre;8
-120040 Rio Branco;365
-120042 Rodrigues Alves;2
-120043 Santa Rosa do Purus;3
-120050 Sena Madureira;19
-120045 Senador Guiomard;14
-120060 Tarauacá;10
-120070 Xapuri;1
-130006 Amaturá;4
-130008 Anamã;3
-130010 Anori;3
-130014 Apuí;1
-130020 Atalaia do Norte;3
-130030 Autazes;14
-130040 Barcelos;11
-130050 Barreirinha;8
-130060 Benjamin Constant;15
-130063 Beruri;9
-130068 Boa Vista do Ramos;3
-130070 Boca do Acre;26
-130080 Borba;13
-130083 Caapiranga;4
-130100 Carauari;11
-130110 Careiro;4
-130120 Coari;26
-130130 Codajás;6
-130140 Eirunepé;12
-130150 Envira;4
-130160 Fonte Boa;3
-130170 Humaitá;28
-130180 Ipixuna;4
-130185 Iranduba;13
-130190 Itacoatiara;29
-130200 Itapiranga;1
-130210 Japurá;2
-130220 Juruá;1
-130230 Jutaí;6
-130240 Lábrea;20
-130250 Manacapuru;51
-130255 Manaquiri;5
-130260 Manaus;2981
-130270 Manicoré;13
-130280 Maraã;2
-130290 Maués;47
-130300 Nhamundá;2
-130310 Nova Olinda do Norte;37
-130320 Novo Airão;3
-130330 Novo Aripuanã;8
-130340 Parintins;43
-130350 Pauini;10
-130353 Presidente Figueiredo;12
-130356 Rio Preto da Eva;3
-130360 Santa Isabel do Rio Negro;4
-130370 Santo Antônio do Içá;7
-130380 São Gabriel da Cachoeira;67
-130390 São Paulo de Olivença;8
-130400 Silves;1
-130406 Tabatinga;54
-130410 Tapauá;4
-130420 Tefé;29
-130423 Tonantins;2
-130430 Urucará;3
-130440 Urucurituba;13
-140005 Alto Alegre;2
-140010 Boa Vista;190
-140015 Bonfim;3
-140023 Caroebe;1
-140028 Iracema;1
-140030 Mucajaí;1
-140040 Normandia;2
-140045 Pacaraima;5
-140047 Rorainópolis;5
-150010 Abaetetuba;54
-150013 Abel Figueiredo;3
-150020 Acará;14
-150040 Alenquer;16
-150050 Almeirim;5
-150060 Altamira;61
-150070 Anajás;7
-150080 Ananindeua;340
-150085 Anapu;2
-150090 Augusto Corrêa;7
-150095 Aurora do Pará;3
-150100 Aveiro;1
-150110 Bagre;3
-150120 Baião;7
-150130 Barcarena;48
-150140 Belém;1826
-150145 Belterra;5
-150150 Benevides;30
-150157 Bom Jesus do Tocantins;3
-150160 Bonito;1
-150170 Bragança;69
-150172 Brasil Novo;8
-150175 Brejo Grande do Araguaia;1
-150178 Breu Branco;15
-150180 Breves;50
-150190 Bujaru;6
-150200 Cachoeira do Arari;4
-150195 Cachoeira do Piriá;5
-150210 Cametá;58
-150215 Canaã dos Carajás;17
-150220 Capanema;37
-150230 Capitão Poço;7
-150240 Castanhal;127
-150250 Chaves;1
-150260 Colares;5
-150270 Conceição do Araguaia;9
-150275 Concórdia do Pará;2
-150277 Curionópolis;8
-150280 Curralinho;4
-150285 Curuá;2
-150290 Curuçá;29
-150293 Dom Eliseu;7
-150295 Eldorado do Carajás;4
-150300 Faro;2
-150304 Floresta do Araguaia;3
-150307 Garrafão do Norte;2
-150309 Goianésia do Pará;7
-150310 Gurupá;4
-150320 Igarapé-Açu;24
-150330 Igarapé-Miri;19
-150340 Inhangapi;2
-150345 Ipixuna do Pará;7
-150350 Irituia;8
-150360 Itaituba;75
-150370 Itupiranga;9
-150375 Jacareacanga;19
-150380 Jacundá;10
-150390 Juruti;12
-150400 Limoeiro do Ajuru;7
-150405 Mãe do Rio;11
-150410 Magalhães Barata;10
-150420 Marabá;93
-150430 Maracanã;16
-150440 Marapanim;11
-150442 Marituba;140
-150445 Medicilândia;3
-150450 Melgaço;2
-150460 Mocajuba;8
-150470 Moju;11
-150475 Mojuí dos Campos;1
-150480 Monte Alegre;5
-150490 Muaná;10
-150495 Nova Esperança do Piriá;13
-150497 Nova Ipixuna;4
-150500 Nova Timboteua;4
-150503 Novo Progresso;44
-150506 Novo Repartimento;6
-150510 Óbidos;14
-150520 Oeiras do Pará;8
-150530 Oriximiná;31
-150540 Ourém;6
-150543 Ourilândia do Norte;12
-150548 Pacajá;8
-150550 Paragominas;72
-150553 Parauapebas;60
-150555 Pau D'Arco;2
-150560 Peixe-Boi;4
-150563 Piçarra;1
-150565 Placas;7
-150570 Ponta de Pedras;8
-150580 Portel;3
-150590 Porto de Moz;3
-150600 Prainha;2
-150610 Primavera;5
-150611 Quatipuru;9
-150613 Redenção;38
-150616 Rio Maria;1
-150618 Rondon do Pará;5
-150619 Rurópolis;5
-150620 Salinópolis;39
-150630 Salvaterra;10
-150635 Santa Bárbara do Pará;19
-150640 Santa Cruz do Arari;3
-150650 Santa Izabel do Pará;154
-150655 Santa Luzia do Pará;4
-150660 Santa Maria do Pará;5
-150670 Santana do Araguaia;4
-150680 Santarém;124
-150690 Santarém Novo;4
-150700 Santo Antônio do Tauá;11
-150710 São Caetano de Odivelas;8
-150715 São Domingos do Araguaia;3
-150720 São Domingos do Capim;2
-150730 São Félix do Xingu;14
-150740 São Francisco do Pará;5
-150745 São Geraldo do Araguaia;2
-150747 São João de Pirabas;6
-150750 São João do Araguaia;5
-150760 São Miguel do Guamá;21
-150770 São Sebastião da Boa Vista;9
-150775 Sapucaia;1
-150780 Senador José Porfírio;1
-150790 Soure;11
-150795 Tailândia;27
-150796 Terra Alta;9
-150797 Terra Santa;12
-150800 Tomé-Açu;28
-150803 Tracuateua;7
-150805 Trairão;6
-150808 Tucumã;9
-150810 Tucuruí;67
-150812 Ulianópolis;4
-150815 Uruará;6
-150820 Vigia;25
-150830 Viseu;15
-150835 Vitória do Xingu;4
-150840 Xinguara;5
-160010 Amapá;1
-160020 Calçoene;3
-160027 Laranjal do Jari;12
-160030 Macapá;260
-160040 Mazagão;2
-160050 Oiapoque;3
-160015 Pedra Branca do Amapari;1
-160053 Porto Grande;1
-160060 Santana;13
-160080 Vitória do Jari;2
-170040 Almas;1
-170130 Aragominas;1
-170190 Araguacema;1
-170210 Araguaína;53
-170215 Araguanã;1
-170220 Araguatins;4
-170240 Arraias;1
-170255 Augustinópolis;3
-170270 Aurora do Tocantins;1
-170300 Babaçulândia;2
-170305 Bandeirantes do Tocantins;1
-170310 Barrolândia;1
-170320 Bernardo Sayão;1
-170380 Buriti do Tocantins;1
-170390 Caseara;2
-170550 Colinas do Tocantins;2
-170610 Cristalândia;2
-170700 Dianópolis;3
-170765 Figueirópolis;1
-170770 Filadélfia;2
-170830 Goianorte;1
-170900 Goiatins;1
-170930 Guaraí;1
-170950 Gurupi;7
-171050 Itacajá;1
-171190 Lagoa da Confusão;2
-171195 Lagoa do Tocantins;1
-171200 Lajeado;1
-171215 Lavandeira;1
-171240 Lizarda;1
-171360 Monte do Carmo;1
-171420 Natividade;1
-171500 Nova Rosalândia;1
-172100 Palmas;36
-171570 Palmeirante;1
-171380 Palmeiras do Tocantins;1
-171610 Paraíso do Tocantins;5
-171620 Paranã;2
-171650 Pedro Afonso;2
-171660 Peixe;1
-171820 Porto Nacional;16
-171886 Santa Fé do Araguaia;1
-171890 Santa Rosa do Tocantins;1
-171900 Santa Tereza do Tocantins;1
-172015 São Félix do Tocantins;1
-172020 São Miguel do Tocantins;2
-172065 Silvanópolis;1
-172080 Sítio Novo do Tocantins;1
-172085 Sucupira;1
-172110 Tocantínia;1
-172120 Tocantinópolis;5
-172210 Xambioá;3
-210005 Açailândia;34
-210010 Afonso Cunha;1
-210015 Água Doce do Maranhão;1
-210020 Alcântara;3
-210030 Aldeias Altas;3
-210040 Altamira do Maranhão;3
-210043 Alto Alegre do Maranhão;3
-210047 Alto Alegre do Pindaré;12
-210050 Alto Parnaíba;2
-210055 Amapá do Maranhão;6
-210060 Amarante do Maranhão;6
-210070 Anajatuba;1
-210080 Anapurus;2
-210083 Apicum-Açu;3
-210087 Araguanã;5
-210090 Araioses;10
-210095 Arame;5
-210100 Arari;13
-210110 Axixá;1
-210120 Bacabal;34
-210130 Bacuri;4
-210140 Balsas;38
-210150 Barão de Grajaú;3
-210160 Barra do Corda;23
-210170 Barreirinhas;10
-210177 Bela Vista do Maranhão;2
-210180 Benedito Leite;4
-210190 Bequimão;5
-210193 Bernardo do Mearim;3
-210200 Bom Jardim;11
-210203 Bom Jesus das Selvas;7
-210207 Bom Lugar;3
-210210 Brejo;1
-210215 Brejo de Areia;1
-210220 Buriti;5
-210230 Buriti Bravo;4
-210232 Buriticupu;14
-210235 Buritirana;1
-210237 Cachoeira Grande;2
-210240 Cajapió;1
-210250 Cajari;3
-210255 Campestre do Maranhão;3
-210260 Cândido Mendes;4
-210270 Cantanhede;10
-210275 Capinzal do Norte;2
-210280 Carolina;12
-210290 Carutapera;8
-210300 Caxias;61
-210310 Cedral;2
-210315 Centro do Guilherme;2
-210317 Centro Novo do Maranhão;1
-210320 Chapadinha;22
-210330 Codó;27
-210340 Coelho Neto;28
-210350 Colinas;6
-210355 Conceição do Lago-Açu;4
-210360 Coroatá;26
-210370 Cururupu;7
-210375 Davinópolis;3
-210380 Dom Pedro;2
-210390 Duque Bacelar;3
-210400 Esperantinópolis;1
-210405 Estreito;3
-210408 Fernando Falcão;9
-210409 Formosa da Serra Negra;7
-210410 Fortaleza dos Nogueiras;1
-210420 Fortuna;1
-210430 Godofredo Viana;1
-210440 Gonçalves Dias;5
-210450 Governador Archer;2
-210455 Governador Edison Lobão;7
-210465 Governador Newton Bello;4
-210467 Governador Nunes Freire;16
-210480 Grajaú;27
-210500 Humberto de Campos;2
-210510 Icatu;2
-210515 Igarapé do Meio;2
-210530 Imperatriz;80
-210535 Itaipava do Grajaú;2
-210540 Itapecuru Mirim;15
-210542 Itinga do Maranhão;2
-210547 Jenipapo dos Vieiras;12
-210550 João Lisboa;5
-210560 Joselândia;4
-210570 Lago da Pedra;9
-210580 Lago do Junco;1
-210594 Lago dos Rodrigues;4
-210590 Lago Verde;7
-210592 Lagoa do Mato;2
-210596 Lagoa Grande do Maranhão;2
-210598 Lajeado Novo;1
-210600 Lima Campos;3
-210610 Loreto;1
-210620 Luís Domingues;1
-210630 Magalhães de Almeida;2
-210632 Maracaçumé;7
-210635 Marajá do Sena;1
-210637 Maranhãozinho;3
-210640 Mata Roma;2
-210650 Matinha;2
-210660 Matões;4
-210663 Matões do Norte;2
-210670 Mirador;1
-210675 Miranda do Norte;2
-210690 Monção;12
-210700 Montes Altos;2
-210710 Morros;1
-210720 Nina Rodrigues;1
-210735 Nova Olinda do Maranhão;8
-210740 Olho d'Água das Cunhãs;7
-210745 Olinda Nova do Maranhão;2
-210750 Paço do Lumiar;13
-210760 Palmeirândia;2
-210770 Paraibano;2
-210780 Parnarama;4
-210790 Passagem Franca;3
-210805 Paulino Neves;2
-210810 Paulo Ramos;4
-210820 Pedreiras;11
-210825 Pedro do Rosário;5
-210830 Penalva;7
-210845 Peritoró;6
-210850 Pindaré-Mirim;20
-210860 Pinheiro;28
-210870 Pio XII;2
-210880 Pirapemas;10
-210890 Poção de Pedras;5
-210900 Porto Franco;8
-210905 Porto Rico do Maranhão;1
-210910 Presidente Dutra;16
-210920 Presidente Juscelino;1
-210927 Presidente Sarney;2
-210945 Raposa;1
-210950 Riachão;1
-210960 Rosário;13
-210980 Santa Helena;7
-210990 Santa Inês;49
-211000 Santa Luzia;14
-211003 Santa Luzia do Paruá;13
-211010 Santa Quitéria do Maranhão;6
-211020 Santa Rita;4
-211030 Santo Antônio dos Lopes;5
-211040 São Benedito do Rio Preto;1
-211050 São Bento;5
-211060 São Bernardo;8
-211070 São Domingos do Maranhão;3
-211090 São Francisco do Maranhão;1
-211105 São João do Paraíso;1
-211107 São João do Soter;2
-211110 São João dos Patos;5
-211120 São José de Ribamar;52
-211125 São José dos Basílios;1
-211130 São Luís;1125
-211140 São Luís Gonzaga do Maranhão;6
-211150 São Mateus do Maranhão;9
-211163 São Raimundo do Doca Bezerra;2
-211170 São Vicente Ferrer;3
-211172 Satubinha;1
-211174 Senador Alexandre Costa;1
-211176 Senador La Rocque;4
-211195 Sucupira do Riachão;1
-211210 Timbiras;4
-211220 Timon;53
-211223 Trizidela do Vale;6
-211230 Tuntum;4
-211240 Turiaçu;8
-211245 Turilândia;3
-211250 Tutóia;8
-211260 Urbano Santos;2
-211270 Vargem Grande;8
-211280 Viana;13
-211290 Vitória do Mearim;10
-211300 Vitorino Freire;4
-211400 Zé Doca;13
-220005 Acauã;3
-220010 Agricolândia;1
-220020 Água Branca;3
-220025 Alagoinha do Piauí;1
-220030 Alto Longá;2
-220040 Altos;7
-220045 Alvorada do Gurguéia;1
-220050 Amarante;4
-220060 Angical do Piauí;1
-220100 Arraial;1
-220110 Avelino Lopes;2
-220115 Baixa Grande do Ribeiro;2
-220117 Barra D'Alcântara;1
-220120 Barras;6
-220140 Barro Duro;3
-220150 Batalha;4
-220160 Beneditinos;1
-220180 Bocaina;1
-220190 Bom Jesus;3
-220191 Bom Princípio do Piauí;2
-220192 Bonfim do Piauí;1
-220196 Brasileira;2
-220200 Buriti dos Lopes;4
-220205 Cabeceiras do Piauí;3
-220208 Cajueiro da Praia;2
-220213 Campo Grande do Piauí;1
-220220 Campo Maior;13
-220230 Canto do Buriti;1
-220240 Capitão de Campos;5
-220250 Caracol;1
-220255 Caridade do Piauí;2
-220260 Castelo do Piauí;4
-220270 Cocal;11
-220271 Cocal de Telha;2
-220272 Cocal dos Alves;1
-220273 Coivaras;2
-220277 Colônia do Piauí;1
-220280 Conceição do Canindé;1
-220310 Cristino Castro;1
-220320 Curimatá;1
-220327 Curral Novo do Piauí;1
-220330 Demerval Lobão;1
-220370 Esperantina;5
-220385 Floresta do Piauí;1
-220390 Floriano;18
-220410 Francisco Ayres;2
-220430 Fronteiras;1
-220440 Gilbués;1
-220455 Guaribas;1
-220465 Ilha Grande;1
-220480 Ipiranga do Piauí;3
-220500 Itainópolis;2
-220510 Itaueira;2
-220525 Jardim do Mulato;1
-220545 Joca Marques;1
-220550 José de Freitas;5
-220552 Júlio Borges;2
-220555 Lagoa Alegre;1
-220557 Lagoa de São Francisco;1
-220570 Luís Correia;10
-220580 Luzilândia;8
-220590 Manoel Emídio;1
-220605 Massapê do Piauí;1
-220610 Matias Olímpio;1
-220620 Miguel Alves;11
-220635 Milton Brandão;4
-220640 Monsenhor Gil;1
-220650 Monsenhor Hipólito;3
-220660 Monte Alegre do Piauí;1
-220667 Morro do Chapéu do Piauí;1
-220672 Nazária;1
-220680 Nossa Senhora dos Remédios;1
-220795 Nova Santa Rita;1
-220690 Novo Oriente do Piauí;2
-220700 Oeiras;8
-220720 Padre Marcos;3
-220730 Paes Landim;2
-220740 Palmeira do Piauí;1
-220750 Palmeirais;3
-220770 Parnaíba;72
-220777 Patos do Piauí;1
-220780 Paulistana;1
-220790 Pedro II;2
-220800 Picos;11
-220810 Pimenteiras;3
-220830 Piracuruca;6
-220840 Piripiri;18
-220850 Porto;1
-220865 Queimada Nova;1
-220870 Redenção do Gurguéia;1
-220880 Regeneração;2
-220890 Ribeiro Gonçalves;1
-220910 Santa Cruz do Piauí;2
-220920 Santa Filomena;2
-220937 Santa Rosa do Piauí;1
-220950 Santo Inácio do Piauí;1
-220970 São Francisco do Piauí;1
-220987 São João da Fronteira;2
-220995 São João da Varjota;1
-221000 São João do Piauí;3
-221005 São José do Divino;1
-221020 São José do Piauí;1
-221030 São Julião;4
-221039 São Miguel do Fidalgo;1
-221040 São Miguel do Tapuio;5
-221050 São Pedro do Piauí;1
-221060 São Raimundo Nonato;7
-221070 Simões;3
-221080 Simplício Mendes;3
-221093 Sussuapara;1
-221100 Teresina;392
-221110 União;5
-221120 Uruçuí;4
-221130 Valença do Piauí;1
-221135 Várzea Branca;1
-221170 Wall Ferraz;1
-230010 Abaiara;1
-230015 Acarape;2
-230020 Acaraú;16
-230030 Acopiara;13
-230040 Aiuaba;1
-230050 Alcântaras;3
-230060 Altaneira;8
-230070 Alto Santo;2
-230075 Amontada;6
-230090 Apuiarés;1
-230100 Aquiraz;25
-230110 Aracati;17
-230120 Aracoiaba;7
-230125 Ararendá;2
-230140 Aratuba;3
-230150 Arneiroz;2
-230160 Assaré;1
-230170 Aurora;4
-230185 Banabuiú;8
-230190 Barbalha;26
-230195 Barreira;2
-230200 Barro;3
-230205 Barroquinha;3
-230210 Baturité;7
-230220 Beberibe;12
-230230 Bela Cruz;11
-230240 Boa Viagem;5
-230250 Brejo Santo;5
-230260 Camocim;18
-230270 Campos Sales;1
-230280 Canindé;23
-230290 Capistrano;1
-230300 Caridade;3
-230310 Cariré;8
-230320 Caririaçu;2
-230330 Cariús;3
-230340 Carnaubal;5
-230350 Cascavel;18
-230360 Catarina;4
-230365 Catunda;7
-230370 Caucaia;170
-230380 Cedro;2
-230390 Chaval;7
-230393 Choró;1
-230395 Chorozinho;3
-230400 Coreaú;11
-230410 Crateús;24
-230420 Crato;31
-230423 Croatá;3
-230425 Cruz;1
-230426 Deputado Irapuan Pinheiro;1
-230427 Ererê;1
-230428 Eusébio;29
-230435 Forquilha;12
-230440 Fortaleza;2139
-230445 Fortim;4
-230450 Frecheirinha;2
-230460 General Sampaio;2
-230465 Graça;3
-230470 Granja;27
-230490 Groaíras;2
-230495 Guaiúba;4
-230500 Guaraciaba do Norte;7
-230510 Guaramiranga;1
-230520 Hidrolândia;8
-230523 Horizonte;40
-230526 Ibaretama;1
-230530 Ibiapina;6
-230533 Ibicuitinga;5
-230535 Icapuí;1
-230540 Icó;14
-230550 Iguatu;14
-230560 Independência;3
-230565 Ipaporanga;2
-230570 Ipaumirim;2
-230580 Ipu;11
-230590 Ipueiras;12
-230610 Irauçuba;2
-230620 Itaiçaba;4
-230625 Itaitinga;204
-230630 Itapagé;26
-230640 Itapipoca;35
-230650 Itapiúna;1
-230655 Itarema;12
-230660 Itatira;9
-230690 Jaguaribe;2
-230700 Jaguaruana;10
-230710 Jardim;5
-230720 Jati;1
-230725 Jijoca de Jericoacoara;2
-230730 Juazeiro do Norte;115
-230740 Jucás;4
-230750 Lavras da Mangabeira;4
-230760 Limoeiro do Norte;11
-230765 Maracanaú;170
-230770 Maranguape;36
-230780 Marco;9
-230790 Martinópole;4
-230800 Massapê;6
-230810 Mauriti;9
-230820 Meruoca;2
-230830 Milagres;11
-230835 Milhã;2
-230837 Miraíma;1
-230840 Missão Velha;13
-230850 Mombaça;9
-230860 Monsenhor Tabosa;4
-230870 Morada Nova;8
-230880 Moraújo;1
-230890 Morrinhos;6
-230900 Mucambo;6
-230920 Nova Olinda;3
-230930 Nova Russas;13
-230940 Novo Oriente;7
-230945 Ocara;5
-230950 Orós;3
-230960 Pacajus;43
-230970 Pacatuba;31
-230990 Pacujá;3
-231000 Palhano;2
-231010 Palmácia;2
-231020 Paracuru;15
-231025 Paraipaba;6
-231030 Parambu;3
-231040 Paramoti;2
-231050 Pedra Branca;5
-231060 Penaforte;2
-231070 Pentecoste;10
-231080 Pereiro;1
-231085 Pindoretama;8
-231090 Piquet Carneiro;2
-231095 Pires Ferreira;4
-231100 Poranga;2
-231110 Porteiras;1
-231126 Quiterianópolis;3
-231130 Quixadá;27
-231140 Quixeramobim;23
-231150 Quixeré;2
-231160 Redenção;3
-231170 Reriutaba;8
-231180 Russas;11
-231190 Saboeiro;3
-231195 Salitre;2
-231220 Santa Quitéria;9
-231200 Santana do Acaraú;8
-231210 Santana do Cariri;4
-231230 São Benedito;13
-231240 São Gonçalo do Amarante;15
-231250 São João do Jaguaribe;1
-231260 São Luís do Curu;1
-231270 Senador Pompeu;9
-231290 Sobral;195
-231300 Solonópole;2
-231310 Tabuleiro do Norte;6
-231320 Tamboril;4
-231330 Tauá;17
-231335 Tejuçuoca;3
-231340 Tianguá;13
-231350 Trairi;10
-231355 Tururu;3
-231360 Ubajara;5
-231370 Umari;1
-231375 Umirim;20
-231380 Uruburetama;11
-231390 Uruoca;3
-231395 Varjota;8
-231400 Várzea Alegre;6
-231410 Viçosa do Ceará;9
-240020 Açu;7
-240030 Afonso Bezerra;3
-240040 Água Nova;1
-240050 Alexandria;2
-240070 Alto do Rodrigues;2
-240090 Antônio Martins;3
-240100 Apodi;6
-240110 Areia Branca;6
-240120 Arês;4
-240130 Augusto Severo;2
-240140 Baía Formosa;2
-240145 Baraúna;5
-240150 Barcelona;1
-240170 Bom Jesus;1
-240180 Brejinho;4
-240185 Caiçara do Norte;1
-240190 Caiçara do Rio do Vento;1
-240200 Caicó;15
-240220 Canguaretama;4
-240240 Carnaúba dos Dantas;2
-240250 Carnaubais;1
-240260 Ceará-Mirim;31
-240270 Cerro Corá;1
-240300 Cruzeta;1
-240310 Currais Novos;9
-240320 Doutor Severiano;2
-240360 Extremoz;10
-240380 Florânia;2
-240390 Francisco Dantas;1
-240400 Frutuoso Gomes;1
-240410 Galinhos;1
-240420 Goianinha;9
-240430 Governador Dix-Sept Rosado;4
-240440 Grossos;7
-240450 Guamaré;5
-240460 Ielmo Marinho;3
-240470 Ipanguaçu;2
-240485 Itajá;3
-240500 Jaçanã;1
-240510 Jandaíra;3
-240570 Jardim do Seridó;3
-240580 João Câmara;9
-240610 Jucurutu;1
-240620 Lagoa d'Anta;1
-240630 Lagoa de Pedras;1
-240650 Lagoa Nova;1
-240670 Lajes;1
-240710 Macaíba;18
-240720 Macau;11
-240725 Major Sales;1
-240740 Martins;1
-240750 Maxaranguape;5
-240770 Montanhas;2
-240780 Monte Alegre;5
-240800 Mossoró;144
-240810 Natal;659
-240820 Nísia Floresta;96
-240830 Nova Cruz;14
-240870 Paraú;1
-240890 Parelhas;2
-240325 Parnamirim;76
-240920 Passagem;1
-240930 Patu;2
-240940 Pau dos Ferros;3
-240980 Pedro Velho;5
-240990 Pendências;5
-241020 Portalegre;3
-241040 Pureza;1
-241070 Riacho da Cruz;4
-241090 Riachuelo;1
-241100 Rodolfo Fernandes;1
-241110 Ruy Barbosa;1
-241120 Santa Cruz;7
-240933 Santa Maria;1
-241140 Santana do Matos;4
-241150 Santo Antônio;2
-241160 São Bento do Norte;1
-241170 São Bento do Trairí;1
-241190 São Francisco do Oeste;1
-241200 São Gonçalo do Amarante;36
-241210 São João do Sabugi;1
-241220 São José de Mipibu;11
-241230 São José do Campestre;3
-241250 São Miguel;3
-241255 São Miguel do Gostoso;2
-241260 São Paulo do Potengi;3
-241280 São Rafael;1
-241290 São Tomé;1
-241030 Serra Caiada;1
-241340 Serra Negra do Norte;2
-241390 Taipu;2
-241400 Tangará;2
-241410 Tenente Ananias;1
-241105 Tibau;1
-241420 Tibau do Sul;9
-241440 Touros;2
-241450 Umarizal;1
-241480 Vera Cruz;3
-250030 Alagoa Grande;10
-250040 Alagoa Nova;3
-250050 Alagoinha;2
-250053 Alcantil;1
-250057 Algodão de Jandaíra;1
-250060 Alhandra;3
-250077 Aparecida;2
-250080 Araçagi;3
-250090 Arara;3
-250100 Araruna;3
-250110 Areia;4
-250120 Areial;2
-250130 Aroeiras;1
-250135 Assunção;2
-250140 Baía da Traição;1
-250150 Bananeiras;2
-250160 Barra de Santa Rosa;1
-250157 Barra de Santana;3
-250180 Bayeux;11
-250190 Belém;11
-250200 Belém do Brejo do Cruz;1
-250215 Boa Vista;1
-250220 Bom Jesus;1
-250230 Bom Sucesso;1
-250250 Boqueirão;2
-250280 Brejo do Cruz;3
-250290 Brejo dos Santos;1
-250300 Caaporã;2
-250320 Cabedelo;10
-250330 Cachoeira dos Índios;5
-250355 Cacimbas;1
-250360 Caiçara;1
-250370 Cajazeiras;25
-250375 Cajazeirinhas;1
-250400 Campina Grande;162
-250403 Capim;1
-250407 Caraúbas;1
-250430 Catolé do Rocha;6
-250435 Caturité;1
-250440 Conceição;2
-250450 Condado;2
-250470 Congo;1
-250480 Coremas;2
-250500 Cubati;1
-250540 Desterro;3
-250570 Dona Inês;1
-250600 Esperança;7
-250610 Fagundes;3
-250625 Gado Bravo;2
-250630 Guarabira;19
-250260 Igaracy;2
-250680 Ingá;3
-250690 Itabaiana;9
-250700 Itaporanga;3
-250710 Itapororoca;1
-250720 Itatuba;1
-250730 Jacaraú;1
-250740 Jericó;1
-250750 João Pessoa;808
-251365 Joca Claudino;2
-250780 Junco do Seridó;2
-250790 Juripiranga;1
-250830 Lagoa Seca;4
-250840 Lastro;1
-250850 Livramento;1
-250860 Lucena;1
-250880 Malta;1
-250890 Mamanguape;3
-250920 Massaranduba;4
-250930 Mataraca;1
-250933 Matinhas;3
-250950 Montadas;1
-250970 Monteiro;6
-250980 Mulungu;1
-251020 Nova Olinda;1
-251030 Nova Palmeira;1
-251040 Olho d'Água;1
-251080 Patos;25
-251090 Paulista;1
-251110 Pedra Lavrada;2
-251130 Piancó;1
-251140 Picuí;1
-251150 Pilar;1
-251160 Pilões;1
-251170 Pilõezinhos;1
-251200 Pocinhos;6
-251210 Pombal;5
-251220 Prata;1
-251240 Puxinanã;6
-251250 Queimadas;8
-251270 Remígio;1
-251275 Riachão do Bacamarte;1
-251278 Riacho de Santo Antônio;1
-251280 Riacho dos Cavalos;1
-251310 Salgado de São Félix;1
-251320 Santa Cruz;2
-251335 Santa Inês;1
-251340 Santa Luzia;3
-251370 Santa Rita;11
-251390 São Bento;3
-251398 São Francisco;1
-251400 São João do Cariri;1
-250070 São João do Rio do Peixe;1
-251410 São João do Tigre;1
-251440 São José de Espinharas;1
-251450 São José de Piranhas;3
-251490 São Mamede;2
-251510 São Sebastião de Lagoa de Roça;2
-251540 São Vicente do Seridó;2
-251530 Sapé;2
-251550 Serra Branca;3
-251580 Serra Redonda;1
-251590 Serraria;1
-251593 Sertãozinho;1
-251600 Solânea;10
-251610 Soledade;1
-251620 Sousa;12
-251630 Sumé;3
-251650 Taperoá;3
-251660 Tavares;1
-251670 Teixeira;2
-251680 Triunfo;1
-251690 Uiraúna;1
-251700 Umbuzeiro;2
-251720 Vieirópolis;4
-260005 Abreu e Lima;130
-260010 Afogados da Ingazeira;4
-260020 Afrânio;4
-260030 Agrestina;3
-260040 Água Preta;11
-260050 Águas Belas;6
-260060 Alagoinha;1
-260070 Aliança;28
-260080 Altinho;2
-260090 Amaraji;3
-260100 Angelim;2
-260105 Araçoiaba;8
-260110 Araripina;25
-260120 Arcoverde;53
-260130 Barra de Guabiraba;2
-260140 Barreiros;21
-260150 Belém de Maria;1
-260160 Belém do São Francisco;4
-260170 Belo Jardim;25
-260180 Betânia;1
-260190 Bezerros;19
-260200 Bodocó;6
-260210 Bom Conselho;8
-260220 Bom Jardim;6
-260230 Bonito;9
-260240 Brejão;1
-260250 Brejinho;1
-260260 Brejo da Madre de Deus;8
-260270 Buenos Aires;1
-260280 Buíque;14
-260290 Cabo de Santo Agostinho;106
-260300 Cabrobó;14
-260310 Cachoeirinha;5
-260320 Caetés;4
-260330 Calçado;2
-260340 Calumbi;1
-260345 Camaragibe;77
-260350 Camocim de São Félix;2
-260360 Camutanga;2
-260370 Canhotinho;24
-260390 Carnaíba;3
-260392 Carnaubeira da Penha;2
-260400 Carpina;32
-260410 Caruaru;266
-260415 Casinhas;2
-260420 Catende;12
-260430 Cedro;1
-260440 Chã de Alegria;4
-260450 Chã Grande;7
-260460 Condado;9
-260470 Correntes;3
-260480 Cortês;12
-260490 Cumaru;2
-260500 Cupira;4
-260510 Custódia;5
-260515 Dormentes;1
-260520 Escada;36
-260530 Exu;3
-260540 Feira Nova;6
-260550 Ferreiros;6
-260560 Flores;1
-260570 Floresta;2
-260580 Frei Miguelinho;5
-260590 Gameleira;11
-260600 Garanhuns;49
-260610 Glória do Goitá;8
-260620 Goiana;57
-260630 Granito;1
-260640 Gravatá;35
-260650 Iati;1
-260660 Ibimirim;2
-260680 Igarassu;47
-260690 Iguaracy;1
-260760 Ilha de Itamaracá;164
-260700 Inajá;2
-260710 Ingazeira;1
-260720 Ipojuca;36
-260730 Ipubi;9
-260740 Itacuruba;3
-260750 Itaíba;2
-260765 Itambé;4
-260770 Itapetim;4
-260775 Itapissuma;141
-260780 Itaquitinga;8
-260790 Jaboatão dos Guararapes;313
-260795 Jaqueira;2
-260800 Jataúba;3
-260805 Jatobá;6
-260810 João Alfredo;3
-260820 Joaquim Nabuco;7
-260825 Jucati;3
-260830 Jupi;2
-260840 Jurema;1
-260850 Lagoa de Itaenga;6
-260845 Lagoa do Carro;4
-260860 Lagoa do Ouro;2
-260875 Lagoa Grande;7
-260880 Lajedo;13
-260890 Limoeiro;33
-260900 Macaparana;14
-260915 Manari;2
-260920 Maraial;3
-260930 Mirandiba;2
-261430 Moreilândia;4
-260940 Moreno;12
-260950 Nazaré da Mata;7
-260960 Olinda;237
-260970 Orobó;2
-260980 Orocó;2
-260990 Ouricuri;20
-261000 Palmares;94
-261020 Panelas;4
-261030 Paranatama;5
-261040 Parnamirim;4
-261050 Passira;3
-261060 Paudalho;15
-261070 Paulista;194
-261080 Pedra;4
-261090 Pesqueira;34
-261100 Petrolândia;8
-261110 Petrolina;110
-261120 Poção;1
-261130 Pombos;2
-261140 Primavera;3
-261150 Quipapá;1
-261153 Quixaba;1
-261160 Recife;2658
-261170 Riacho das Almas;1
-261180 Ribeirão;13
-261190 Rio Formoso;5
-261200 Sairé;1
-261210 Salgadinho;2
-261220 Salgueiro;26
-261240 Sanharó;5
-261245 Santa Cruz;1
-261247 Santa Cruz da Baixa Verde;1
-261250 Santa Cruz do Capibaribe;26
-261255 Santa Filomena;1
-261260 Santa Maria da Boa Vista;3
-261270 Santa Maria do Cambucá;2
-261290 São Benedito do Sul;2
-261300 São Bento do Una;6
-261310 São Caitano;7
-261320 São João;3
-261330 São Joaquim do Monte;4
-261340 São José da Coroa Grande;11
-261350 São José do Belmonte;3
-261360 São José do Egito;8
-261370 São Lourenço da Mata;57
-261380 São Vicente Ferrer;7
-261390 Serra Talhada;30
-261400 Serrita;11
-261410 Sertânia;7
-261420 Sirinhaém;20
-261450 Surubim;11
-261460 Tabira;4
-261470 Tacaimbó;9
-261480 Tacaratu;7
-261485 Tamandaré;11
-261500 Taquaritinga do Norte;8
-261520 Terra Nova;2
-261530 Timbaúba;22
-261540 Toritama;18
-261550 Tracunhaém;1
-261560 Trindade;9
-261570 Triunfo;2
-261580 Tupanatinga;1
-261590 Tuparetama;1
-261600 Venturosa;2
-261610 Verdejante;1
-261620 Vertentes;6
-261630 Vicência;4
-261640 Vitória de Santo Antão;77
-261650 Xexéu;6
-270010 Água Branca;3
-270020 Anadia;2
-270030 Arapiraca;74
-270040 Atalaia;12
-270050 Barra de Santo Antônio;2
-270060 Barra de São Miguel;3
-270070 Batalha;3
-270100 Boca da Mata;7
-270120 Cacimbinhas;1
-270130 Cajueiro;3
-270135 Campestre;1
-270140 Campo Alegre;9
-270150 Campo Grande;1
-270160 Canapi;3
-270170 Capela;2
-270190 Chã Preta;1
-270210 Colônia Leopoldina;5
-270220 Coqueiro Seco;4
-270230 Coruripe;12
-270235 Craíbas;4
-270240 Delmiro Gouveia;5
-270250 Dois Riachos;2
-270255 Estrela de Alagoas;2
-270260 Feira Grande;4
-270280 Flexeiras;3
-270290 Girau do Ponciano;6
-270310 Igaci;5
-270320 Igreja Nova;3
-270330 Inhapi;2
-270350 Jacuípe;7
-270370 Jaramataia;3
-270375 Jequiá da Praia;3
-270380 Joaquim Gomes;11
-270400 Junqueiro;2
-270410 Lagoa da Canoa;1
-270430 Maceió;755
-270440 Major Isidoro;2
-270450 Maragogi;4
-270460 Maravilha;1
-270470 Marechal Deodoro;12
-270480 Maribondo;3
-270500 Mata Grande;3
-270510 Matriz de Camaragibe;7
-270520 Messias;2
-270550 Murici;5
-270560 Novo Lino;1
-270570 Olho d'Água das Flores;2
-270580 Olho d'Água do Casado;3
-270590 Olho d'Água Grande;1
-270600 Olivença;2
-270610 Ouro Branco;4
-270620 Palestina;1
-270630 Palmeira dos Índios;32
-270640 Pão de Açúcar;3
-270642 Pariconha;3
-270644 Paripueira;3
-270650 Passo de Camaragibe;1
-270660 Paulo Jacinto;1
-270670 Penedo;22
-270680 Piaçabuçu;12
-270690 Pilar;11
-270700 Pindoba;1
-270710 Piranhas;5
-270720 Poço das Trincheiras;4
-270730 Porto Calvo;4
-270750 Porto Real do Colégio;2
-270760 Quebrangulo;3
-270770 Rio Largo;27
-270780 Roteiro;1
-270790 Santa Luzia do Norte;1
-270800 Santana do Ipanema;15
-270810 Santana do Mundaú;1
-270830 São José da Laje;5
-270840 São José da Tapera;3
-270850 São Luís do Quitunde;8
-270860 São Miguel dos Campos;18
-270880 São Sebastião;6
-270890 Satuba;7
-270900 Tanque d'Arca;1
-270910 Taquarana;1
-270915 Teotônio Vilela;15
-270930 União dos Palmares;11
-270940 Viçosa;3
-280030 Aracaju;408
-280040 Arauá;1
-280050 Areia Branca;6
-280060 Barra dos Coqueiros;5
-280067 Boquim;5
-280070 Brejo Grande;1
-280100 Campo do Brito;5
-280120 Canindé de São Francisco;3
-280130 Capela;3
-280140 Carira;1
-280150 Carmópolis;1
-280160 Cedro de São João;1
-280170 Cristinápolis;3
-280200 Divina Pastora;1
-280210 Estância;25
-280230 Frei Paulo;1
-280250 General Maynard;1
-280270 Ilha das Flores;2
-280280 Indiaroba;2
-280290 Itabaiana;28
-280300 Itabaianinha;2
-280320 Itaporanga d'Ajuda;11
-280330 Japaratuba;8
-280340 Japoatã;3
-280350 Lagarto;35
-280360 Laranjeiras;8
-280380 Malhada dos Bois;1
-280400 Maruim;3
-280420 Monte Alegre de Sergipe;1
-280430 Muribeca;1
-280440 Neópolis;8
-280450 Nossa Senhora da Glória;13
-280460 Nossa Senhora das Dores;3
-280470 Nossa Senhora de Lourdes;1
-280480 Nossa Senhora do Socorro;52
-280490 Pacatuba;3
-280510 Pedrinhas;2
-280520 Pinhão;1
-280530 Pirambu;2
-280540 Poço Redondo;2
-280550 Poço Verde;4
-280560 Porto da Folha;1
-280570 Propriá;21
-280580 Riachão do Dantas;2
-280590 Riachuelo;2
-280600 Ribeirópolis;2
-280610 Rosário do Catete;4
-280620 Salgado;5
-280630 Santa Luzia do Itanhy;1
-280640 Santana do São Francisco;1
-280660 Santo Amaro das Brotas;2
-280670 São Cristóvão;87
-280710 Simão Dias;4
-280720 Siriri;2
-280730 Telha;1
-280740 Tobias Barreto;21
-280750 Tomar do Geru;2
-280760 Umbaúba;8
-290030 Acajutiba;1
-290040 Água Fria;2
-290060 Aiquara;2
-290070 Alagoinhas;34
-290080 Alcobaça;14
-290090 Almadina;1
-290100 Amargosa;6
-290110 Amélia Rodrigues;5
-290115 América Dourada;8
-290120 Anagé;3
-290130 Andaraí;2
-290135 Andorinha;2
-290140 Angical;10
-290160 Antas;2
-290170 Antônio Cardoso;3
-290180 Antônio Gonçalves;3
-290190 Aporá;6
-290195 Apuarema;1
-290205 Araças;2
-290200 Aracatu;2
-290210 Araci;13
-290220 Aramari;2
-290225 Arataca;9
-290230 Aratuípe;1
-290240 Aurelino Leal;1
-290250 Baianópolis;1
-290265 Banzaê;1
-290270 Barra;13
-290290 Barra do Choça;4
-290300 Barra do Mendes;3
-290310 Barra do Rocha;3
-290320 Barreiras;75
-290323 Barro Alto;3
-290327 Barrocas;4
-290340 Belmonte;13
-290350 Belo Campo;3
-290360 Biritinga;1
-290370 Boa Nova;1
-290380 Boa Vista do Tupim;2
-290390 Bom Jesus da Lapa;19
-290395 Bom Jesus da Serra;1
-290400 Boninal;2
-290410 Boquira;4
-290420 Botuporã;3
-290430 Brejões;1
-290440 Brejolândia;2
-290450 Brotas de Macaúbas;2
-290460 Brumado;7
-290470 Buerarema;5
-290475 Buritirama;3
-290485 Cabaceiras do Paraguaçu;3
-290490 Cachoeira;9
-290500 Caculé;2
-290510 Caém;3
-290515 Caetanos;7
-290520 Caetité;5
-290530 Cafarnaum;1
-290540 Cairu;14
-290550 Caldeirão Grande;4
-290560 Camacan;20
-290570 Camaçari;89
-290580 Camamu;9
-290600 Campo Formoso;18
-290610 Canápolis;5
-290620 Canarana;4
-290630 Canavieiras;16
-290650 Candeias;30
-290680 Cansanção;2
-290682 Canudos;2
-290685 Capela do Alto Alegre;1
-290687 Capim Grosso;10
-290689 Caraíbas;3
-290690 Caravelas;6
-290700 Cardeal da Silva;3
-290710 Carinhanha;8
-290720 Casa Nova;15
-290730 Castro Alves;7
-290740 Catolândia;2
-290750 Catu;10
-290760 Central;10
-290770 Chorrochó;2
-290780 Cícero Dantas;3
-290790 Cipó;4
-290800 Coaraci;5
-290810 Cocos;2
-290820 Conceição da Feira;5
-290830 Conceição do Almeida;3
-290840 Conceição do Coité;7
-290850 Conceição do Jacuípe;9
-290860 Conde;7
-290880 Contendas do Sincorá;1
-290890 Coração de Maria;2
-290910 Coribe;3
-290930 Correntina;2
-290940 Cotegipe;7
-290950 Cravolândia;1
-290960 Crisópolis;2
-290970 Cristópolis;4
-290980 Cruz das Almas;7
-290990 Curaçá;6
-291005 Dias d'Ávila;23
-291010 Dom Basílio;1
-291040 Encruzilhada;3
-291050 Entre Rios;8
-291060 Esplanada;8
-291070 Euclides da Cunha;9
-291072 Eunápolis;51
-291075 Fátima;2
-291080 Feira de Santana;238
-291085 Filadélfia;3
-291090 Firmino Alves;1
-291100 Floresta Azul;1
-291110 Formosa do Rio Preto;3
-291120 Gandu;12
-291125 Gavião;1
-291130 Gentio do Ouro;2
-291150 Gongogi;5
-291160 Governador Mangabeira;5
-291165 Guajeru;3
-291170 Guanambi;17
-291180 Guaratinga;7
-291185 Heliópolis;5
-291190 Iaçu;7
-291210 Ibicaraí;9
-291220 Ibicoara;3
-291230 Ibicuí;1
-291240 Ibipeba;2
-291250 Ibipitanga;5
-291270 Ibirapitanga;7
-291290 Ibirataia;10
-291300 Ibitiara;3
-291310 Ibititá;2
-291320 Ibotirama;7
-291330 Ichu;1
-291345 Igrapiúna;3
-291350 Iguaí;7
-291360 Ilhéus;146
-291370 Inhambupe;7
-291380 Ipecaetá;1
-291390 Ipiaú;18
-291400 Ipirá;6
-291440 Iraquara;4
-291450 Irará;5
-291460 Irecê;29
-291465 Itabela;15
-291470 Itaberaba;13
-291480 Itabuna;176
-291490 Itacaré;10
-291500 Itaeté;1
-291510 Itagi;2
-291520 Itagibá;3
-291530 Itagimirim;2
-291540 Itaju do Colônia;2
-291550 Itajuípe;8
-291560 Itamaraju;27
-291570 Itamari;5
-291580 Itambé;3
-291590 Itanagra;1
-291600 Itanhém;3
-291610 Itaparica;5
-291620 Itapé;11
-291630 Itapebi;2
-291640 Itapetinga;37
-291650 Itapicuru;5
-291660 Itapitanga;1
-291680 Itarantim;8
-291685 Itatim;1
-291690 Itiruçu;2
-291700 Itiúba;6
-291710 Itororó;7
-291730 Ituberá;10
-291733 Iuiú;4
-291735 Jaborandi;1
-291740 Jacaraci;1
-291750 Jacobina;26
-291760 Jaguaquara;3
-291770 Jaguarari;7
-291780 Jaguaripe;1
-291790 Jandaíra;3
-291800 Jequié;68
-291810 Jeremoabo;3
-291820 Jiquiriçá;2
-291830 Jitaúna;4
-291835 João Dourado;5
-291840 Juazeiro;85
-291845 Jucuruçu;2
-291850 Jussara;1
-291855 Jussari;2
-291860 Jussiape;2
-291880 Laje;4
-291905 Lajedo do Tabocal;2
-291910 Lamarão;2
-291915 Lapão;4
-291920 Lauro de Freitas;80
-291930 Lençóis;3
-291940 Licínio de Almeida;1
-291950 Livramento de Nossa Senhora;6
-291955 Luís Eduardo Magalhães;14
-291960 Macajuba;2
-291970 Macarani;5
-291980 Macaúbas;12
-291992 Madre de Deus;10
-292000 Maiquinique;3
-292010 Mairi;2
-292020 Malhada;9
-292040 Manoel Vitorino;1
-292050 Maracás;2
-292060 Maragogipe;5
-292070 Maraú;5
-292080 Marcionílio Souza;1
-292090 Mascote;4
-292100 Mata de São João;13
-292110 Medeiros Neto;7
-292120 Miguel Calmon;2
-292130 Milagres;2
-292140 Mirangaba;1
-292145 Mirante;2
-292150 Monte Santo;8
-292160 Morpará;2
-292170 Morro do Chapéu;6
-292190 Mucugê;1
-292200 Mucuri;13
-292205 Mulungu do Morro;1
-292210 Mundo Novo;3
-292220 Muniz Ferreira;1
-292225 Muquém de São Francisco;1
-292230 Muritiba;7
-292240 Mutuípe;1
-292250 Nazaré;11
-292265 Nordestina;6
-292270 Nova Canaã;1
-292273 Nova Fátima;1
-292275 Nova Ibiá;3
-292280 Nova Itarana;2
-292290 Nova Soure;7
-292300 Nova Viçosa;9
-292303 Novo Horizonte;1
-292305 Novo Triunfo;4
-292310 Olindina;6
-292320 Oliveira dos Brejinhos;2
-292335 Ourolândia;7
-292340 Palmas de Monte Alto;1
-292350 Palmeiras;1
-292360 Paramirim;8
-292370 Paratinga;14
-292380 Paripiranga;6
-292390 Pau Brasil;9
-292400 Paulo Afonso;37
-292405 Pé de Serra;5
-292410 Pedrão;1
-292420 Pedro Alexandre;1
-292430 Piatã;3
-292440 Pilão Arcado;7
-292450 Pindaí;1
-292460 Pindobaçu;23
-292465 Pintadas;2
-292467 Piraí do Norte;2
-292480 Piritiba;3
-292500 Planalto;1
-292510 Poções;9
-292520 Pojuca;7
-292525 Ponto Novo;3
-292530 Porto Seguro;70
-292540 Potiraguá;4
-292550 Prado;7
-292560 Presidente Dutra;2
-292570 Presidente Jânio Quadros;3
-292575 Presidente Tancredo Neves;7
-292580 Queimadas;6
-292590 Quijingue;9
-292593 Quixabeira;3
-292595 Rafael Jambeiro;3
-292600 Remanso;5
-292610 Retirolândia;4
-292620 Riachão das Neves;3
-292630 Riachão do Jacuípe;8
-292640 Riacho de Santana;4
-292650 Ribeira do Amparo;1
-292660 Ribeira do Pombal;22
-292670 Rio de Contas;2
-292700 Rio Real;3
-292710 Rodelas;1
-292720 Ruy Barbosa;1
-292730 Salinas da Margarida;2
-292740 Salvador;2287
-292750 Santa Bárbara;5
-292760 Santa Brígida;3
-292770 Santa Cruz Cabrália;8
-292780 Santa Cruz da Vitória;2
-292805 Santa Luzia;5
-292810 Santa Maria da Vitória;9
-292840 Santa Rita de Cássia;2
-292800 Santaluz;10
-292820 Santana;4
-292830 Santanópolis;1
-292860 Santo Amaro;19
-292870 Santo Antônio de Jesus;22
-292880 Santo Estêvão;15
-292890 São Desidério;4
-292895 São Domingos;3
-292910 São Felipe;4
-292900 São Félix;1
-292905 São Félix do Coribe;2
-292920 São Francisco do Conde;21
-292925 São Gabriel;6
-292930 São Gonçalo dos Campos;4
-292935 São José da Vitória;3
-292940 São Miguel das Matas;1
-292950 São Sebastião do Passé;17
-292960 Sapeaçu;2
-292970 Sátiro Dias;4
-292975 Saubara;1
-292980 Saúde;4
-292990 Seabra;5
-293000 Sebastião Laranjeiras;1
-293010 Senhor do Bonfim;34
-293020 Sento Sé;2
-293015 Serra do Ramalho;7
-293040 Serra Preta;2
-293050 Serrinha;30
-293060 Serrolândia;1
-293070 Simões Filho;29
-293075 Sítio do Mato;5
-293076 Sítio do Quinto;11
-293077 Sobradinho;2
-293080 Souto Soares;2
-293120 Taperoá;5
-293135 Teixeira de Freitas;63
-293140 Teodoro Sampaio;3
-293150 Teofilândia;1
-293160 Teolândia;1
-293170 Terra Nova;1
-293180 Tremedal;3
-293190 Tucano;10
-293200 Uauá;3
-293210 Ubaíra;4
-293220 Ubaitaba;4
-293230 Ubatã;4
-293240 Uibaí;4
-293245 Umburanas;2
-293250 Una;18
-293270 Uruçuca;12
-293280 Utinga;4
-293290 Valença;53
-293300 Valente;4
-293305 Várzea da Roça;1
-293315 Várzea Nova;1
-293317 Varzedo;3
-293320 Vera Cruz;6
-293330 Vitória da Conquista;65
-293340 Wagner;1
-293345 Wanderley;4
-293350 Wenceslau Guimarães;5
-293360 Xique-Xique;13
-310010 Abadia dos Dourados;1
-310020 Abaeté;4
-310040 Acaiaca;1
-310050 Açucena;3
-310060 Água Boa;3
-310080 Aguanil;1
-310090 Águas Formosas;4
-310100 Águas Vermelhas;4
-310110 Aimorés;4
-310120 Aiuruoca;5
-310150 Além Paraíba;25
-310160 Alfenas;12
-310170 Almenara;6
-310190 Alpinópolis;2
-310200 Alterosa;2
-310205 Alto Caparaó;1
-315350 Alto Jequitibá;2
-310210 Alto Rio Doce;2
-310220 Alvarenga;1
-310230 Alvinópolis;2
-310260 Andradas;5
-310300 Antônio Dias;1
-310340 Araçuaí;10
-310350 Araguari;12
-310375 Araporã;2
-310390 Araújos;2
-310400 Araxá;5
-310410 Arceburgo;3
-310420 Arcos;3
-310430 Areado;2
-310450 Arinos;3
-310460 Astolfo Dutra;1
-310470 Ataléia;1
-310490 Baependi;1
-310510 Bambuí;6
-310520 Bandeira;1
-310530 Bandeira do Sul;1
-310540 Barão de Cocais;3
-310550 Barão de Monte Alto;2
-310560 Barbacena;18
-310590 Barroso;2
-310600 Bela Vista de Minas;2
-310620 Belo Horizonte;892
-310630 Belo Oriente;7
-310640 Belo Vale;2
-310665 Berizal;1
-310670 Betim;59
-310690 Bicas;2
-310700 Biquinhas;1
-310710 Boa Esperança;2
-310720 Bocaina de Minas;1
-310730 Bocaiúva;7
-310740 Bom Despacho;8
-310790 Bom Repouso;2
-310800 Bom Sucesso;3
-310810 Bonfim;2
-310825 Bonito de Minas;1
-310830 Borda da Mata;2
-310870 Brás Pires;2
-310860 Brasília de Minas;5
-310900 Brumadinho;5
-310930 Buritis;1
-310940 Buritizeiro;3
-310950 Cabo Verde;1
-310270 Cachoeira de Pajeú;1
-310980 Cachoeira Dourada;1
-310990 Caetanópolis;1
-311000 Caeté;1
-311010 Caiana;2
-311020 Cajuri;1
-311030 Caldas;1
-311050 Camanducaia;2
-311060 Cambuí;3
-311070 Cambuquira;1
-311090 Campanha;2
-311110 Campina Verde;1
-311120 Campo Belo;4
-311130 Campo do Meio;4
-311140 Campo Florido;1
-311160 Campos Gerais;4
-311180 Canápolis;2
-311200 Candeias;1
-311230 Capelinha;2
-311240 Capetinga;2
-311260 Capinópolis;1
-311270 Capitão Enéas;2
-311280 Capitólio;1
-311300 Caraí;4
-311320 Carandaí;4
-311330 Carangola;3
-311340 Caratinga;16
-311370 Carlos Chagas;2
-311400 Carmo da Mata;2
-311410 Carmo de Minas;1
-311420 Carmo do Cajuru;1
-311430 Carmo do Paranaíba;2
-311440 Carmo do Rio Claro;2
-311455 Carneirinho;3
-311460 Carrancas;1
-311480 Carvalhos;1
-311510 Cássia;1
-311530 Cataguases;21
-311535 Catas Altas;5
-311545 Catuji;1
-311550 Caxambu;6
-311570 Central de Minas;1
-311580 Centralina;3
-311590 Chácara;1
-311630 Cipotânea;1
-311650 Claro dos Poções;1
-311660 Cláudio;1
-311710 Conceição da Aparecida;2
-311730 Conceição das Alagoas;2
-311750 Conceição do Mato Dentro;4
-311780 Conceição dos Ouros;1
-311787 Confins;1
-311800 Congonhas;3
-311830 Conselheiro Lafaiete;14
-311840 Conselheiro Pena;6
-311860 Contagem;71
-311880 Coração de Jesus;2
-311930 Coromandel;1
-311940 Coronel Fabriciano;27
-311950 Coronel Murta;3
-311980 Córrego Danta;1
-311990 Córrego do Bom Jesus;3
-312015 Crisólita;1
-312050 Cristina;1
-312060 Crucilândia;1
-312080 Cruzília;4
-312083 Cuparaque;1
-312090 Curvelo;17
-312110 Delfim Moreira;1
-312125 Delta;4
-312160 Diamantina;10
-312180 Dionísio;1
-312190 Divinésia;3
-312200 Divino;2
-312230 Divinópolis;33
-312250 Dom Cavati;1
-312310 Dores de Guanhães;3
-312320 Dores do Indaiá;4
-312340 Doresópolis;1
-312370 Engenheiro Caldas;1
-312380 Engenheiro Navarro;3
-312410 Esmeraldas;1
-312420 Espera Feliz;3
-312430 Espinosa;6
-312460 Estrela Dalva;2
-312470 Estrela do Indaiá;2
-312480 Estrela do Sul;2
-312500 Ewbank da Câmara;1
-312510 Extrema;8
-312560 Felisburgo;2
-312570 Felixlândia;1
-312590 Ferros;3
-312595 Fervedouro;1
-312610 Formiga;7
-312630 Fortaleza de Minas;1
-312650 Francisco Badaró;2
-312670 Francisco Sá;2
-312680 Frei Gaspar;1
-312690 Frei Inocêncio;2
-312700 Fronteira;2
-312705 Fronteira dos Vales;2
-312710 Frutal;8
-312730 Galiléia;1
-312733 Gameleiras;1
-312770 Governador Valadares;100
-312780 Grão Mogol;1
-312800 Guanhães;2
-312810 Guapé;2
-312820 Guaraciaba;1
-312830 Guaranésia;4
-312840 Guarani;1
-312870 Guaxupé;6
-312900 Guiricema;1
-312930 Iapu;3
-312950 Ibiá;3
-312965 Ibiracatu;1
-312970 Ibiraci;1
-312980 Ibirité;16
-313005 Icaraí de Minas;1
-313010 Igarapé;2
-313030 Iguatama;3
-313040 Ijaci;1
-313050 Ilicínea;1
-313060 Inconfidentes;1
-313065 Indaiabira;1
-313090 Inhapim;1
-313100 Inhaúma;1
-313110 Inimutaba;1
-313115 Ipaba;4
-313120 Ipanema;2
-313130 Ipatinga;71
-313170 Itabira;15
-313180 Itabirinha;2
-313190 Itabirito;2
-313210 Itacarambi;13
-313220 Itaguara;1
-313230 Itaipé;2
-313240 Itajubá;34
-313250 Itamarandiba;1
-313270 Itambacuri;6
-313280 Itambé do Mato Dentro;1
-313290 Itamogi;4
-313310 Itanhandu;3
-313330 Itaobim;6
-313340 Itapagipe;3
-313370 Itatiaiuçu;1
-313380 Itaúna;16
-313400 Itinga;10
-313420 Ituiutaba;20
-313430 Itumirim;2
-313440 Iturama;6
-313460 Jaboticatubas;6
-313490 Jacutinga;3
-313500 Jaguaraçu;1
-313505 Jaíba;5
-313507 Jampruca;1
-313510 Janaúba;27
-313520 Januária;19
-313535 Japonvar;2
-313540 Jeceaba;1
-313545 Jenipapo de Minas;5
-313550 Jequeri;3
-313580 Jequitinhonha;10
-313590 Jesuânia;2
-313620 João Monlevade;15
-313630 João Pinheiro;9
-313640 Joaquim Felício;1
-313657 Josenópolis;2
-313665 Juatuba;7
-313670 Juiz de Fora;344
-313695 Juvenília;1
-313700 Ladainha;1
-313710 Lagamar;2
-313720 Lagoa da Prata;5
-313760 Lagoa Santa;8
-313770 Lajinha;3
-313810 Lassance;1
-313820 Lavras;22
-313840 Leopoldina;17
-313860 Lima Duarte;3
-313862 Limeira do Oeste;1
-313867 Luisburgo;1
-313880 Luz;6
-313890 Machacalis;3
-313900 Machado;2
-313920 Malacacheta;1
-313930 Manga;14
-313940 Manhuaçu;15
-313950 Manhumirim;5
-313960 Mantena;6
-313990 Maria da Fé;2
-314000 Mariana;12
-314050 Martinho Campos;1
-314055 Mata Verde;1
-314070 Mateus Leme;1
-317150 Mathias Lobato;1
-314080 Matias Barbosa;3
-314085 Matias Cardoso;1
-314090 Matipó;1
-314100 Mato Verde;1
-314110 Matozinhos;1
-314130 Medeiros;1
-314140 Medina;3
-314160 Mercês;1
-314170 Mesquita;1
-314180 Minas Novas;2
-314200 Mirabela;5
-314210 Miradouro;1
-314220 Miraí;4
-314225 Miravânia;1
-314240 Moema;1
-314270 Montalvânia;9
-314280 Monte Alegre de Minas;2
-314290 Monte Azul;3
-314310 Monte Carmelo;5
-314320 Monte Santo de Minas;3
-314340 Monte Sião;3
-314330 Montes Claros;128
-314390 Muriaé;37
-314430 Nanuque;9
-314450 Nazareno;2
-314467 Nova Belém;1
-314470 Nova Era;6
-314480 Nova Lima;29
-314500 Nova Ponte;3
-314505 Nova Porteirinha;1
-314520 Nova Serrana;8
-314530 Novo Cruzeiro;4
-314535 Novo Oriente de Minas;1
-314537 Novorizonte;2
-314550 Olímpio Noronha;1
-314560 Oliveira;12
-314590 Ouro Branco;5
-314600 Ouro Fino;8
-314610 Ouro Preto;14
-314620 Ouro Verde de Minas;1
-314630 Padre Paraíso;2
-314640 Paineiras;1
-314650 Pains;1
-314670 Palma;1
-314690 Papagaios;1
-314710 Pará de Minas;7
-314700 Paracatu;15
-314720 Paraguaçu;2
-314740 Paraopeba;2
-314760 Passa Quatro;1
-314790 Passos;34
-314795 Patis;1
-314800 Patos de Minas;6
-314810 Patrocínio;8
-314820 Patrocínio do Muriaé;1
-314830 Paula Cândido;1
-314850 Pavão;2
-314860 Peçanha;1
-314870 Pedra Azul;5
-314875 Pedra Bonita;1
-314910 Pedralva;1
-314915 Pedras de Maria da Cruz;2
-314930 Pedro Leopoldo;10
-314950 Pequeri;1
-314995 Periquito;1
-315015 Piedade de Caratinga;1
-315030 Piedade do Rio Grande;1
-315040 Piedade dos Gerais;1
-315053 Pingo-d'Água;1
-315057 Pintópolis;2
-315080 Piranga;2
-315090 Piranguçu;1
-315110 Pirapetinga;4
-315120 Pirapora;15
-315130 Piraúba;3
-315140 Pitangui;3
-315150 Piumhi;3
-315170 Poço Fundo;1
-315180 Poços de Caldas;22
-315190 Pocrane;2
-315200 Pompéu;1
-315210 Ponte Nova;31
-315213 Ponto Chique;2
-315217 Ponto dos Volantes;1
-315220 Porteirinha;2
-315240 Poté;3
-315250 Pouso Alegre;30
-315280 Prata;9
-315290 Pratápolis;1
-315360 Prudente de Morais;2
-315390 Raposos;1
-315400 Raul Soares;5
-315410 Recreio;1
-315415 Reduto;2
-315420 Resende Costa;1
-315430 Resplendor;8
-315460 Ribeirão das Neves;42
-315480 Rio Acima;2
-315490 Rio Casca;3
-315510 Rio do Prado;3
-315540 Rio Novo;1
-315560 Rio Pardo de Minas;2
-315570 Rio Piracicaba;2
-315580 Rio Pomba;5
-315630 Rodeiro;3
-315645 Rosário da Limeira;1
-315650 Rubelita;2
-315660 Rubim;3
-315670 Sabará;28
-315680 Sabinópolis;4
-315690 Sacramento;2
-315700 Salinas;5
-315710 Salto da Divisa;1
-315720 Santa Bárbara;11
-315733 Santa Cruz de Minas;2
-315760 Santa Fé de Minas;1
-315765 Santa Helena de Minas;1
-315780 Santa Luzia;49
-315800 Santa Maria de Itabira;2
-315810 Santa Maria do Salto;2
-315820 Santa Maria do Suaçuí;3
-315935 Santa Rita de Minas;1
-315950 Santa Rita do Itueto;2
-315960 Santa Rita do Sapucaí;3
-315980 Santa Vitória;3
-315860 Santana do Deserto;1
-315890 Santana do Manhuaçu;1
-315895 Santana do Paraíso;6
-316030 Santo Antônio do Jacinto;2
-316040 Santo Antônio do Monte;1
-316070 Santos Dumont;4
-316090 São Brás do Suaçuí;3
-316110 São Francisco;14
-316140 São Francisco do Glória;2
-316150 São Geraldo;3
-316165 São Geraldo do Baixio;1
-316170 São Gonçalo do Abaeté;1
-316190 São Gonçalo do Rio Abaixo;1
-312550 São Gonçalo do Rio Preto;1
-316200 São Gonçalo do Sapucaí;1
-316210 São Gotardo;2
-316225 São João da Lagoa;1
-316240 São João da Ponte;3
-316245 São João das Missões;4
-316250 São João del Rei;11
-316255 São João do Manhuaçu;1
-316260 São João do Oriente;3
-316270 São João do Paraíso;2
-316290 São João Nepomuceno;7
-316292 São Joaquim de Bicas;9
-316294 São José da Barra;2
-316300 São José da Safira;3
-316350 São José do Jacuri;1
-316370 São Lourenço;24
-316400 São Pedro dos Ferros;1
-316420 São Romão;1
-316430 São Roque de Minas;1
-316443 São Sebastião da Vargem Alegre;1
-316447 São Sebastião do Anta;1
-316470 São Sebastião do Paraíso;12
-316500 São Tiago;1
-316510 São Tomás de Aquino;2
-316530 São Vicente de Minas;1
-316540 Sapucaí-Mirim;5
-316553 Sarzedo;3
-316570 Senador Firmino;1
-316600 Senhora de Oliveira;1
-316630 Sericita;1
-316660 Serra da Saudade;1
-316680 Serra do Salitre;2
-316690 Serrania;6
-316710 Serro;2
-316720 Sete Lagoas;46
-316555 Setubinha;2
-316750 Simão Pereira;1
-316760 Simonésia;2
-316790 Tabuleiro;1
-316800 Taiobeiras;2
-316840 Tarumirim;1
-316850 Teixeiras;1
-316860 Teófilo Otoni;41
-316870 Timóteo;16
-316880 Tiradentes;1
-316900 Tocantins;9
-316920 Tombos;2
-316930 Três Corações;14
-316935 Três Marias;1
-316940 Três Pontas;8
-316950 Tumiritinga;2
-316960 Tupaciguara;9
-316970 Turmalina;1
-316990 Ubá;52
-317000 Ubaí;4
-317010 Uberaba;89
-317020 Uberlândia;126
-317040 Unaí;13
-317050 Urucânia;5
-317070 Varginha;22
-317075 Varjão de Minas;1
-317080 Várzea da Palma;5
-317090 Varzelândia;3
-317100 Vazante;2
-317103 Verdelândia;4
-317107 Veredinha;1
-317120 Vespasiano;21
-317130 Viçosa;10
-317140 Vieiras;2
-317160 Virgem da Lapa;3
-317170 Virgínia;1
-317180 Virginópolis;4
-317200 Visconde do Rio Branco;13
-320010 Afonso Cláudio;4
-320016 Água Doce do Norte;1
-320013 Águia Branca;1
-320020 Alegre;5
-320030 Alfredo Chaves;1
-320040 Anchieta;5
-320050 Apiacá;7
-320060 Aracruz;21
-320070 Atilio Vivacqua;2
-320080 Baixo Guandu;4
-320090 Barra de São Francisco;6
-320100 Boa Esperança;1
-320110 Bom Jesus do Norte;4
-320115 Brejetuba;4
-320120 Cachoeiro de Itapemirim;76
-320130 Cariacica;131
-320140 Castelo;6
-320150 Colatina;46
-320160 Conceição da Barra;6
-320190 Domingos Martins;5
-320200 Dores do Rio Preto;1
-320210 Ecoporanga;3
-320220 Fundão;4
-320230 Guaçuí;5
-320240 Guarapari;44
-320245 Ibatiba;2
-320250 Ibiraçu;2
-320260 Iconha;7
-320265 Irupi;1
-320270 Itaguaçu;3
-320280 Itapemirim;14
-320290 Itarana;2
-320305 Jaguaré;6
-320310 Jerônimo Monteiro;6
-320316 Laranja da Terra;1
-320320 Linhares;47
-320332 Marataízes;24
-320334 Marechal Floriano;1
-320335 Marilândia;2
-320340 Mimoso do Sul;5
-320350 Montanha;9
-320370 Muniz Freire;3
-320380 Muqui;1
-320390 Nova Venécia;10
-320400 Pancas;2
-320405 Pedro Canário;18
-320410 Pinheiros;5
-320420 Piúma;5
-320425 Ponto Belo;1
-320435 Rio Bananal;3
-320440 Rio Novo do Sul;4
-320450 Santa Leopoldina;9
-320455 Santa Maria de Jetibá;2
-320460 Santa Teresa;3
-320465 São Domingos do Norte;1
-320480 São José do Calçado;3
-320490 São Mateus;31
-320500 Serra;173
-320501 Sooretama;7
-320503 Vargem Alta;2
-320506 Venda Nova do Imigrante;2
-320510 Viana;76
-320517 Vila Valério;2
-320520 Vila Velha;176
-320530 Vitória;256
-330010 Angra dos Reis;120
-330015 Aperibé;2
-330020 Araruama;37
-330022 Areal;2
-330023 Armação dos Búzios;17
-330025 Arraial do Cabo;11
-330030 Barra do Piraí;23
-330040 Barra Mansa;30
-330045 Belford Roxo;232
-330050 Bom Jardim;4
-330060 Bom Jesus do Itabapoana;12
-330070 Cabo Frio;136
-330080 Cachoeiras de Macacu;13
-330090 Cambuci;4
-330100 Campos dos Goytacazes;348
-330110 Cantagalo;5
-330093 Carapebus;2
-330115 Cardoso Moreira;3
-330120 Carmo;3
-330130 Casimiro de Abreu;16
-330095 Comendador Levy Gasparian;3
-330140 Conceição de Macabu;3
-330150 Cordeiro;1
-330160 Duas Barras;5
-330170 Duque de Caxias;739
-330180 Engenheiro Paulo de Frontin;2
-330185 Guapimirim;34
-330187 Iguaba Grande;11
-330190 Itaboraí;141
-330200 Itaguaí;88
-330205 Italva;2
-330210 Itaocara;1
-330220 Itaperuna;69
-330225 Itatiaia;16
-330227 Japeri;78
-330230 Laje do Muriaé;3
-330240 Macaé;108
-330245 Macuco;1
-330250 Magé;135
-330260 Mangaratiba;23
-330270 Maricá;61
-330280 Mendes;13
-330285 Mesquita;110
-330290 Miguel Pereira;6
-330300 Miracema;14
-330310 Natividade;5
-330320 Nilópolis;98
-330330 Niterói;308
-330340 Nova Friburgo;53
-330350 Nova Iguaçu;743
-330360 Paracambi;31
-330370 Paraíba do Sul;15
-330380 Paraty;37
-330385 Paty do Alferes;10
-330390 Petrópolis;111
-330395 Pinheiral;6
-330400 Piraí;14
-330410 Porciúncula;3
-330411 Porto Real;9
-330412 Quatis;5
-330414 Queimados;120
-330415 Quissamã;4
-330420 Resende;47
-330430 Rio Bonito;29
-330440 Rio Claro;4
-330452 Rio das Ostras;50
-330455 Rio de Janeiro;8045
-330470 Santo Antônio de Pádua;15
-330480 São Fidélis;10
-330475 São Francisco de Itabapoana;1
-330490 São Gonçalo;564
-330500 São João da Barra;2
-330510 São João de Meriti;410
-330513 São José de Ubá;1
-330515 São José do Vale do Rio Preto;2
-330520 São Pedro da Aldeia;36
-330530 São Sebastião do Alto;6
-330540 Sapucaia;1
-330550 Saquarema;37
-330555 Seropédica;27
-330560 Silva Jardim;9
-330570 Sumidouro;2
-330575 Tanguá;7
-330580 Teresópolis;59
-330590 Trajano de Moraes;1
-330600 Três Rios;47
-330610 Valença;15
-330620 Vassouras;12
-330630 Volta Redonda;183
-350010 Adamantina;5
-350020 Adolfo;1
-350030 Aguaí;7
-350050 Águas de Lindóia;5
-350070 Agudos;7
-350100 Altinópolis;2
-350110 Alto Alegre;3
-350115 Alumínio;3
-350130 Álvares Machado;1
-350140 Álvaro de Carvalho;39
-350150 Alvinlândia;2
-350160 Americana;45
-350170 Américo Brasiliense;29
-350190 Amparo;16
-350210 Andradina;36
-350220 Angatuba;2
-350250 Aparecida;16
-350270 Apiaí;2
-350275 Araçariguama;4
-350280 Araçatuba;40
-350290 Araçoiaba da Serra;2
-350320 Araraquara;33
-350330 Araras;40
-350350 Areias;1
-350380 Artur Nogueira;2
-350390 Arujá;21
-350400 Assis;29
-350410 Atibaia;47
-350420 Auriflama;3
-350440 Avanhandava;29
-350450 Avaré;16
-350460 Bady Bassitt;4
-350470 Balbinos;77
-350520 Bariri;3
-350530 Barra Bonita;7
-350540 Barra do Turvo;2
-350550 Barretos;36
-350560 Barrinha;8
-350570 Barueri;138
-350580 Bastos;3
-350590 Batatais;3
-350600 Bauru;267
-350610 Bebedouro;40
-350630 Bernardino de Campos;27
-350635 Bertioga;34
-350650 Birigui;26
-350660 Biritiba-Mirim;10
-350670 Boa Esperança do Sul;7
-350680 Bocaina;2
-350690 Bofete;1
-350700 Boituva;13
-350710 Bom Jesus dos Perdões;2
-350715 Bom Sucesso de Itararé;1
-350740 Borborema;1
-350750 Botucatu;72
-350760 Bragança Paulista;40
-350775 Brejo Alegre;1
-350780 Brodowski;4
-350790 Brotas;3
-350810 Buritama;4
-350830 Cabrália Paulista;1
-350840 Cabreúva;12
-350850 Caçapava;18
-350860 Cachoeira Paulista;1
-350870 Caconde;2
-350880 Cafelândia;1
-350900 Caieiras;25
-350910 Caiuá;8
-350920 Cajamar;20
-350925 Cajati;20
-350930 Cajobi;1
-350950 Campinas;542
-350960 Campo Limpo Paulista;18
-350970 Campos do Jordão;10
-350980 Campos Novos Paulista;1
-350990 Cananéia;11
-350995 Canas;1
-351000 Cândido Mota;3
-351015 Canitar;3
-351020 Capão Bonito;4
-351030 Capela do Alto;53
-351040 Capivari;13
-351050 Caraguatatuba;116
-351060 Carapicuíba;205
-351070 Cardoso;3
-351080 Casa Branca;22
-351100 Castilho;4
-351110 Catanduva;23
-351120 Catiguá;1
-351130 Cedral;1
-351140 Cerqueira César;58
-351150 Cerquilho;6
-351160 Cesário Lange;2
-351170 Charqueada;3
-355720 Chavantes;2
-351190 Clementina;1
-351200 Colina;2
-351220 Conchal;7
-351230 Conchas;6
-351240 Cordeirópolis;8
-351260 Coronel Macedo;1
-351270 Corumbataí;1
-351280 Cosmópolis;24
-351290 Cosmorama;1
-351300 Cotia;83
-351310 Cravinhos;1
-351340 Cruzeiro;34
-351350 Cubatão;96
-351360 Cunha;4
-351370 Descalvado;5
-351380 Diadema;173
-351390 Divinolândia;1
-351410 Dois Córregos;2
-351430 Dourado;1
-351440 Dracena;44
-351450 Duartina;4
-351470 Echaporã;1
-351480 Eldorado;4
-351490 Elias Fausto;4
-351500 Embu das Artes;110
-351510 Embu-Guaçu;30
-351512 Emilianópolis;2
-351515 Engenheiro Coelho;3
-351518 Espírito Santo do Pinhal;9
-351519 Espírito Santo do Turvo;1
-351520 Estrela d'Oeste;1
-351535 Euclides da Cunha Paulista;1
-351540 Fartura;3
-351560 Fernando Prestes;2
-351550 Fernandópolis;12
-351565 Fernão;1
-351570 Ferraz de Vasconcelos;62
-351600 Flórida Paulista;38
-351610 Florínia;3
-351620 Franca;76
-351630 Francisco Morato;70
-351640 Franco da Rocha;178
-351650 Gabriel Monteiro;3
-351660 Gália;2
-351670 Garça;5
-351680 Gastão Vidigal;1
-351700 Getulina;40
-351710 Glicério;1
-351740 Guaíra;4
-351760 Guapiara;2
-351770 Guará;9
-351780 Guaraçaí;2
-351790 Guaraci;6
-351810 Guarantã;1
-351820 Guararapes;8
-351830 Guararema;3
-351840 Guaratinguetá;37
-351850 Guareí;40
-351860 Guariba;3
-351870 Guarujá;492
-351880 Guarulhos;524
-351907 Hortolândia;135
-351910 Iacanga;3
-351925 Iaras;6
-351930 Ibaté;5
-351940 Ibirá;2
-351950 Ibirarema;2
-351960 Ibitinga;16
-351970 Ibiúna;20
-351980 Icém;6
-351990 Iepê;3
-352000 Igaraçu do Tietê;12
-352010 Igarapava;4
-352030 Iguape;16
-352042 Ilha Comprida;6
-352044 Ilha Solteira;1
-352040 Ilhabela;8
-352050 Indaiatuba;51
-352060 Indiana;2
-352070 Indiaporã;1
-352090 Ipaussu;6
-352100 Iperó;54
-352110 Ipeúna;1
-352130 Ipuã;3
-352140 Iracemápolis;5
-352150 Irapuã;1
-352160 Irapuru;31
-352180 Itaí;9
-352190 Itajobi;1
-352210 Itanhaém;102
-352220 Itapecerica da Serra;107
-352230 Itapetininga;74
-352240 Itapeva;43
-352250 Itapevi;111
-352260 Itapira;9
-352265 Itapirapuã Paulista;1
-352270 Itápolis;4
-352280 Itaporanga;4
-352290 Itapuí;2
-352310 Itaquaquecetuba;126
-352320 Itararé;11
-352330 Itariri;10
-352340 Itatiba;29
-352350 Itatinga;1
-352360 Itirapina;27
-352390 Itu;40
-352400 Itupeva;8
-352410 Ituverava;9
-352420 Jaborandi;1
-352430 Jaboticabal;9
-352440 Jacareí;54
-352450 Jaci;2
-352460 Jacupiranga;3
-352470 Jaguariúna;11
-352480 Jales;15
-352500 Jandira;29
-352510 Jardinópolis;30
-352520 Jarinu;15
-352530 Jaú;33
-352550 Joanópolis;1
-352570 José Bonifácio;2
-352590 Jundiaí;154
-352600 Junqueirópolis;75
-352610 Juquiá;6
-352620 Juquitiba;12
-352630 Lagoinha;1
-352640 Laranjal Paulista;15
-352650 Lavínia;141
-352670 Leme;27
-352680 Lençóis Paulista;29
-352690 Limeira;73
-352710 Lins;15
-352720 Lorena;38
-352730 Louveira;5
-352740 Lucélia;44
-352800 Macatuba;5
-352820 Macedônia;1
-352830 Magda;1
-352840 Mairinque;20
-352850 Mairiporã;24
-352870 Marabá Paulista;28
-352900 Marília;102
-352920 Martinópolis;79
-352930 Matão;11
-352940 Mauá;188
-352950 Mendonça;1
-352965 Mesópolis;3
-352970 Miguelópolis;6
-352980 Mineiros do Tietê;6
-352990 Miracatu;7
-353010 Mirandópolis;91
-353020 Mirante do Paranapanema;1
-353030 Mirassol;5
-353050 Mococa;9
-353060 Mogi das Cruzes;189
-353070 Mogi Guaçu;38
-353080 Mogi Mirim;17
-353110 Mongaguá;111
-353130 Monte Alto;7
-353140 Monte Aprazível;2
-353150 Monte Azul Paulista;2
-353160 Monte Castelo;2
-353180 Monte Mor;13
-353190 Morro Agudo;9
-353220 Narandiba;3
-353240 Nazaré Paulista;2
-353282 Nova Campina;3
-353330 Nova Luzitânia;1
-353340 Nova Odessa;7
-353350 Novo Horizonte;4
-353360 Nuporanga;1
-353390 Olímpia;9
-353420 Orindiúva;1
-353430 Orlândia;4
-353440 Osasco;315
-353460 Osvaldo Cruz;29
-353470 Ourinhos;40
-353480 Ouro Verde;1
-353475 Ouroeste;3
-353490 Pacaembu;127
-353520 Palmeira d'Oeste;1
-353530 Palmital;6
-353540 Panorama;1
-353550 Paraguaçu Paulista;23
-353580 Paranapanema;3
-353600 Parapuã;1
-353610 Pardinho;2
-353620 Pariquera-Açu;24
-353630 Patrocínio Paulista;1
-353650 Paulínia;32
-353660 Paulo de Faria;1
-353670 Pederneiras;4
-353710 Pedreira;7
-353720 Pedro de Toledo;4
-353730 Penápolis;10
-353740 Pereira Barreto;3
-353750 Pereiras;6
-353760 Peruíbe;96
-353780 Piedade;14
-353790 Pilar do Sul;5
-353800 Pindamonhangaba;36
-353810 Pindorama;1
-353830 Piquerobi;2
-353850 Piquete;5
-353860 Piracaia;4
-353870 Piracicaba;228
-353880 Piraju;8
-353890 Pirajuí;78
-353900 Pirangi;1
-353910 Pirapora do Bom Jesus;5
-353920 Pirapozinho;4
-353930 Pirassununga;20
-353940 Piratininga;3
-353950 Pitangueiras;7
-353970 Platina;1
-353980 Poá;37
-354000 Pompéia;1
-354020 Pontal;20
-354025 Pontalinda;1
-354040 Populina;2
-354050 Porangaba;2
-354060 Porto Feliz;61
-354070 Porto Ferreira;8
-354075 Potim;106
-354085 Pracinha;15
-354100 Praia Grande;301
-354105 Pratânia;2
-354120 Presidente Bernardes;100
-354130 Presidente Epitácio;9
-354140 Presidente Prudente;93
-354150 Presidente Venceslau;18
-354160 Promissão;10
-354170 Quatá;1
-354180 Queiroz;1
-354190 Queluz;1
-354210 Rafard;1
-354220 Rancharia;8
-354240 Regente Feijó;1
-354250 Reginópolis;32
-354260 Registro;39
-354280 Ribeira;2
-354290 Ribeirão Bonito;4
-354300 Ribeirão Branco;1
-354330 Ribeirão Pires;23
-354340 Ribeirão Preto;343
-354370 Rincão;3
-354380 Rinópolis;1
-354390 Rio Claro;42
-354400 Rio das Pedras;5
-354410 Rio Grande da Serra;11
-354420 Riolândia;33
-354350 Riversul;3
-354425 Rosana;1
-354430 Roseira;1
-354450 Rubinéia;1
-354470 Sagres;1
-354490 Sales Oliveira;2
-354500 Salesópolis;3
-354520 Salto;30
-354530 Salto de Pirapora;6
-354540 Salto Grande;2
-354580 Santa Bárbara d'Oeste;20
-354600 Santa Branca;4
-354610 Santa Clara d'Oeste;1
-354620 Santa Cruz da Conceição;1
-354630 Santa Cruz das Palmeiras;5
-354640 Santa Cruz do Rio Pardo;11
-354650 Santa Ernestina;1
-354660 Santa Fé do Sul;5
-354670 Santa Gertrudes;4
-354680 Santa Isabel;30
-354690 Santa Lúcia;2
-354710 Santa Mercedes;2
-354740 Santa Rita d'Oeste;1
-354750 Santa Rita do Passa Quatro;7
-354765 Santa Salete;1
-354730 Santana de Parnaíba;34
-354770 Santo Anastácio;3
-354780 Santo André;255
-354800 Santo Antônio de Posse;3
-354805 Santo Antônio do Aracanguá;3
-354810 Santo Antônio do Jardim;1
-354830 Santo Expedito;1
-354850 Santos;386
-354870 São Bernardo do Campo;283
-354880 São Caetano do Sul;20
-354890 São Carlos;54
-354900 São Francisco;1
-354910 São João da Boa Vista;20
-354925 São João de Iracema;1
-354930 São João do Pau d'Alho;2
-354940 São Joaquim da Barra;7
-354960 São José do Barreiro;2
-354970 São José do Rio Pardo;11
-354980 São José do Rio Preto;184
-354990 São José dos Campos;212
-354995 São Lourenço da Serra;5
-355000 São Luís do Paraitinga;2
-355010 São Manuel;3
-355020 São Miguel Arcanjo;9
-355030 São Paulo;8037
-355040 São Pedro;4
-355050 São Pedro do Turvo;1
-355060 São Roque;16
-355070 São Sebastião;50
-355080 São Sebastião da Grama;1
-355090 São Simão;6
-355100 São Vicente;605
-355120 Sarutaiá;1
-355140 Serra Azul;30
-355160 Serra Negra;7
-355150 Serrana;5
-355170 Sertãozinho;41
-355180 Sete Barras;3
-355190 Severínia;3
-355210 Socorro;8
-355220 Sorocaba;240
-355240 Sumaré;60
-355250 Suzano;99
-355270 Tabatinga;4
-355280 Taboão da Serra;118
-355300 Taguaí;1
-355310 Taiaçu;1
-355320 Taiúva;4
-355330 Tambaú;4
-355340 Tanabi;1
-355350 Tapiraí;3
-355370 Taquaritinga;10
-355380 Taquarituba;51
-355385 Taquarivaí;3
-355390 Tarabai;1
-355395 Tarumã;3
-355400 Tatuí;29
-355410 Taubaté;141
-355430 Teodoro Sampaio;2
-355440 Terra Roxa;1
-355450 Tietê;9
-355460 Timburi;2
-355475 Trabiju;1
-355480 Tremembé;111
-355490 Três Fronteiras;1
-355495 Tuiuti;1
-355500 Tupã;22
-355510 Tupi Paulista;87
-355535 Ubarana;1
-355540 Ubatuba;37
-355580 Urânia;4
-355600 Urupês;1
-355620 Valinhos;5
-355630 Valparaíso;85
-355640 Vargem Grande do Sul;6
-355645 Vargem Grande Paulista;7
-355650 Várzea Paulista;40
-355660 Vera Cruz;1
-355670 Vinhedo;8
-355680 Viradouro;1
-355700 Votorantim;34
-355710 Votuporanga;17
-355715 Zacarias;1
-410030 Agudos do Sul;1
-410040 Almirante Tamandaré;18
-410060 Alto Paraná;7
-410050 Altônia;2
-410080 Alvorada do Sul;3
-410100 Ampére;1
-410105 Anahy;1
-410110 Andirá;1
-410120 Antonina;9
-410130 Antônio Olinto;1
-410140 Apucarana;24
-410150 Arapongas;45
-410160 Arapoti;4
-410170 Araruna;1
-410180 Araucária;24
-410190 Assaí;1
-410200 Assis Chateaubriand;5
-410210 Astorga;4
-410240 Bandeirantes;9
-410280 Bela Vista do Paraíso;4
-410290 Bituruna;3
-410302 Boa Esperança do Iguaçu;1
-410305 Boa Vista da Aparecida;1
-410310 Bocaiúva do Sul;1
-410320 Bom Sucesso;1
-410330 Borrazópolis;2
-410345 Cafelândia;3
-410347 Cafezal do Sul;1
-410350 Califórnia;1
-410360 Cambará;4
-410370 Cambé;19
-410390 Campina da Lagoa;4
-410395 Campina do Simão;1
-410400 Campina Grande do Sul;36
-410410 Campo do Tenente;1
-410420 Campo Largo;32
-410425 Campo Magro;2
-410430 Campo Mourão;21
-410440 Cândido de Abreu;2
-410442 Candói;3
-410445 Cantagalo;1
-410450 Capanema;3
-410460 Capitão Leônidas Marques;1
-410465 Carambeí;3
-410470 Carlópolis;6
-410480 Cascavel;58
-410490 Castro;23
-410500 Catanduvas;3
-410510 Centenário do Sul;2
-410520 Cerro Azul;2
-410540 Chopinzinho;1
-410550 Cianorte;7
-410580 Colombo;39
-410590 Colorado;3
-410600 Congonhinhas;1
-410610 Conselheiro Mairinck;1
-410620 Contenda;3
-410630 Corbélia;1
-410640 Cornélio Procópio;7
-410650 Coronel Vivida;6
-410657 Cruzeiro do Iguaçu;1
-410660 Cruzeiro do Oeste;6
-410670 Cruzeiro do Sul;2
-410690 Curitiba;433
-410700 Curiúva;4
-410715 Diamante D'Oeste;1
-410712 Diamante do Sul;1
-410720 Dois Vizinhos;5
-410725 Douradina;1
-410753 Entre Rios do Oeste;1
-410752 Esperança Nova;1
-410765 Fazenda Rio Grande;15
-410770 Fênix;2
-410775 Figueira;2
-410800 Florestópolis;5
-410810 Flórida;2
-410830 Foz do Iguaçu;108
-410832 Francisco Alves;5
-410840 Francisco Beltrão;4
-410850 General Carneiro;4
-410860 Goioerê;10
-410865 Goioxim;2
-410880 Guaíra;14
-410890 Guairaçá;3
-410900 Guapirama;2
-410920 Guaraci;1
-410940 Guarapuava;40
-410960 Guaratuba;14
-410970 Ibaiti;12
-410980 Ibiporã;14
-411005 Iguatu;1
-411007 Imbaú;2
-411010 Imbituva;3
-411060 Iporã;4
-411070 Irati;12
-411090 Itaguajé;1
-411095 Itaipulândia;1
-411110 Itambé;1
-411125 Itaperuçu;2
-411150 Ivaiporã;5
-411155 Ivaté;2
-411180 Jacarezinho;8
-411190 Jaguapitã;1
-411200 Jaguariaíva;6
-411210 Jandaia do Sul;2
-411220 Janiópolis;1
-411240 Japurá;3
-411250 Jardim Alegre;1
-411270 Jataizinho;4
-411275 Jesuítas;1
-411300 Jussara;1
-411310 Kaloré;1
-411320 Lapa;28
-411330 Laranjeiras do Sul;9
-411345 Lindoeste;2
-411350 Loanda;3
-411370 Londrina;192
-411375 Lunardelli;1
-411380 Lupionópolis;3
-411400 Mamborê;3
-411410 Mandaguaçu;1
-411420 Mandaguari;1
-411430 Mandirituba;1
-411460 Marechal Cândido Rondon;12
-411480 Marialva;4
-411490 Marilândia do Sul;1
-411500 Marilena;2
-411520 Maringá;71
-411535 Maripá;1
-411560 Matelândia;2
-411570 Matinhos;15
-411575 Mauá da Serra;2
-411580 Medianeira;8
-411585 Mercedes;1
-411590 Mirador;2
-411610 Moreira Sales;1
-411620 Morretes;6
-411640 Nossa Senhora das Graças;1
-411690 Nova Esperança;2
-411700 Nova Fátima;1
-411705 Nova Laranjeiras;2
-411720 Nova Olímpia;2
-411722 Nova Santa Rosa;3
-411727 Nova Tebas;1
-411729 Novo Itacolomi;1
-411730 Ortigueira;2
-411750 Paiçandu;8
-411760 Palmas;5
-411770 Palmeira;5
-411780 Palmital;1
-411790 Palotina;4
-411800 Paraíso do Norte;3
-411810 Paranacity;4
-411820 Paranaguá;110
-411840 Paranavaí;24
-411850 Pato Branco;11
-411880 Peabiru;2
-411900 Pérola d'Oeste;1
-411915 Pinhais;86
-411920 Pinhalão;1
-411930 Pinhão;1
-411940 Piraí do Sul;2
-411950 Piraquara;14
-411960 Pitanga;3
-411970 Planaltina do Paraná;1
-411990 Ponta Grossa;61
-411995 Pontal do Paraná;15
-412000 Porecatu;2
-412035 Pranchita;2
-412050 Primeiro de Maio;2
-412060 Prudentópolis;1
-412080 Quatro Barras;8
-412090 Quedas do Iguaçu;4
-412100 Querência do Norte;6
-412120 Quitandinha;2
-412125 Ramilândia;1
-412130 Rancho Alegre;1
-412135 Rancho Alegre D'Oeste;1
-412140 Realeza;1
-412150 Rebouças;2
-412170 Reserva;5
-412180 Ribeirão Claro;4
-412190 Ribeirão do Pinhal;2
-412215 Rio Bonito do Iguaçu;2
-412220 Rio Branco do Sul;6
-412230 Rio Negro;3
-412240 Rolândia;7
-412250 Roncador;1
-412270 Sabáudia;1
-412290 Salto do Itararé;4
-412300 Salto do Lontra;2
-412350 Santa Helena;3
-412380 Santa Izabel do Oeste;3
-412382 Santa Lúcia;1
-412385 Santa Maria do Oeste;1
-412390 Santa Mariana;2
-412402 Santa Tereza do Oeste;2
-412405 Santa Terezinha de Itaipu;5
-412400 Santana do Itararé;4
-412410 Santo Antônio da Platina;7
-412430 Santo Antônio do Paraíso;1
-412440 Santo Antônio do Sudoeste;3
-412470 São Jerônimo da Serra;2
-412490 São João do Caiuá;3
-412500 São João do Ivaí;1
-412520 São Jorge d'Oeste;1
-412545 São José das Palmeiras;3
-412550 São José dos Pinhais;51
-412560 São Mateus do Sul;2
-412570 São Miguel do Iguaçu;7
-412575 São Pedro do Iguaçu;3
-412600 São Sebastião da Amoreira;1
-412610 São Tomé;1
-412625 Sarandi;32
-412630 Sengés;1
-412650 Sertanópolis;3
-412660 Siqueira Campos;2
-412680 Tapejara;3
-412690 Tapira;2
-412700 Teixeira Soares;1
-412710 Telêmaco Borba;20
-412720 Terra Boa;2
-412730 Terra Rica;3
-412750 Tibagi;1
-412760 Tijucas do Sul;4
-412770 Toledo;24
-412780 Tomazina;1
-412785 Três Barras do Paraná;2
-412795 Tupãssi;2
-412800 Ubiratã;2
-412810 Umuarama;93
-412820 União da Vitória;14
-412840 Uraí;1
-412853 Ventania;1
-412855 Vera Cruz do Oeste;2
-412865 Virmond;1
-412870 Vitorino;1
-412850 Wenceslau Braz;9
-420005 Abdon Batista;1
-420010 Abelardo Luz;2
-420050 Águas de Chapecó;1
-420060 Águas Mornas;1
-420070 Alfredo Wagner;1
-420080 Anchieta;1
-420120 Antônio Carlos;2
-420130 Araquari;11
-420140 Araranguá;48
-420150 Armazém;2
-420170 Ascurra;1
-420195 Balneário Arroio do Silva;2
-420205 Balneário Barra do Sul;3
-420200 Balneário Camboriú;73
-421280 Balneário Piçarras;11
-422000 Balneário Rincão;10
-420210 Barra Velha;20
-420213 Bela Vista do Toldo;3
-420220 Benedito Novo;3
-420230 Biguaçu;35
-420240 Blumenau;135
-420245 Bombinhas;5
-420270 Botuverá;1
-420280 Braço do Norte;8
-420285 Braço do Trombudo;1
-420290 Brusque;36
-420300 Caçador;12
-420310 Caibi;1
-420320 Camboriú;42
-420330 Campo Alegre;1
-420340 Campo Belo do Sul;2
-420350 Campo Erê;1
-420360 Campos Novos;4
-420370 Canelinha;9
-420380 Canoinhas;9
-420395 Capivari de Baixo;2
-420400 Catanduvas;1
-420420 Chapecó;31
-420425 Cocal do Sul;4
-420430 Concórdia;7
-420445 Coronel Martins;1
-420455 Correia Pinto;2
-420450 Corupá;1
-420460 Criciúma;77
-420470 Cunha Porã;2
-420480 Curitibanos;7
-420490 Descanso;1
-420535 Flor do Sertão;1
-420540 Florianópolis;380
-420543 Formosa do Sul;1
-420545 Forquilhinha;8
-420550 Fraiburgo;3
-420555 Frei Rogério;1
-420570 Garopaba;6
-420580 Garuva;4
-420590 Gaspar;24
-420630 Guabiruba;4
-420640 Guaraciaba;1
-420650 Guaramirim;4
-420665 Guatambú;2
-420670 Herval d'Oeste;2
-420700 Içara;8
-420720 Imaruí;1
-420730 Imbituba;8
-420750 Indaial;13
-420765 Iporã do Oeste;2
-420780 Irani;1
-420800 Itá;1
-420810 Itaiópolis;2
-420820 Itajaí;187
-420830 Itapema;18
-420845 Itapoá;3
-420850 Ituporanga;7
-420870 Jacinto Machado;1
-420880 Jaguaruna;5
-420890 Jaraguá do Sul;21
-420900 Joaçaba;5
-420910 Joinville;242
-420930 Lages;42
-420940 Laguna;16
-420960 Lauro Muller;5
-421010 Mafra;3
-421040 Maracajá;1
-421050 Maravilha;4
-421060 Massaranduba;1
-421080 Meleiro;1
-421100 Mondaí;1
-421110 Monte Castelo;1
-421120 Morro da Fumaça;7
-421130 Navegantes;53
-421140 Nova Erechim;4
-421150 Nova Trento;4
-421160 Nova Veneza;1
-421170 Orleans;6
-421175 Otacílio Costa;2
-421190 Palhoça;34
-421210 Palmitos;2
-421220 Papanduva;3
-421225 Passo de Torres;2
-421230 Paulo Lopes;2
-421250 Penha;21
-421270 Petrolândia;2
-421290 Pinhalzinho;2
-421300 Pinheiro Preto;1
-421310 Piratuba;1
-421320 Pomerode;1
-421340 Ponte Serrada;2
-421350 Porto Belo;9
-421360 Porto União;26
-421380 Praia Grande;2
-421420 Quilombo;1
-421480 Rio do Sul;32
-421470 Rio dos Cedros;1
-421490 Rio Fortuna;1
-421500 Rio Negrinho;4
-421505 Rio Rufino;1
-421510 Rodeio;1
-421540 Salto Veloso;1
-421545 Sangão;4
-421550 Santa Cecília;1
-421555 Santa Helena;1
-421560 Santa Rosa de Lima;1
-421565 Santa Rosa do Sul;1
-421570 Santo Amaro da Imperatriz;9
-421580 São Bento do Sul;9
-421605 São Cristovão do Sul;2
-421620 São Francisco do Sul;27
-421630 São João Batista;2
-421650 São Joaquim;1
-421660 São José;103
-421690 São Lourenço do Oeste;1
-421720 São Miguel do Oeste;8
-421725 São Pedro de Alcântara;12
-421740 Schroeder;1
-421750 Seara;1
-421755 Serra Alta;1
-421760 Siderópolis;3
-421770 Sombrio;2
-421775 Sul Brasil;1
-421780 Taió;2
-421790 Tangará;1
-421800 Tijucas;11
-421810 Timbé do Sul;1
-421820 Timbó;7
-421830 Três Barras;9
-421870 Tubarão;44
-421880 Turvo;1
-421890 Urubici;1
-421900 Urussanga;3
-421930 Videira;7
-421950 Xanxerê;9
-421970 Xaxim;11
-430005 Água Santa;1
-430010 Agudo;2
-430020 Ajuricaba;2
-430030 Alecrim;2
-430040 Alegrete;27
-430050 Alpestre;1
-430060 Alvorada;177
-430064 Ametista do Sul;1
-430080 Antônio Prado;4
-430085 Arambaré;2
-430087 Araricá;6
-430090 Aratiba;1
-430100 Arroio do Meio;3
-430120 Arroio do Tigre;4
-430110 Arroio dos Ratos;15
-430130 Arroio Grande;3
-430140 Arvorezinha;1
-430150 Augusto Pestana;1
-430155 Áurea;1
-430160 Bagé;57
-430163 Balneário Pinhal;7
-430170 Barão de Cotegipe;2
-430190 Barra do Ribeiro;10
-430200 Barros Cassal;1
-430205 Benjamin Constant do Sul;1
-430210 Bento Gonçalves;29
-430215 Boa Vista das Missões;2
-430223 Boa Vista do Incra;1
-430230 Bom Jesus;2
-430235 Bom Princípio;1
-430240 Bom Retiro do Sul;2
-430250 Bossoroca;1
-430270 Butiá;7
-430280 Caçapava do Sul;10
-430290 Cacequi;6
-430300 Cachoeira do Sul;40
-430310 Cachoeirinha;46
-430350 Camaquã;30
-430355 Camargo;1
-430360 Cambará do Sul;1
-430370 Campina das Missões;1
-430380 Campinas do Sul;1
-430390 Campo Bom;8
-430400 Campo Novo;1
-430420 Candelária;5
-430435 Candiota;1
-430440 Canela;10
-430450 Canguçu;1
-430460 Canoas;227
-430463 Capão da Canoa;42
-430466 Capão do Leão;2
-430468 Capela de Santana;2
-430471 Caraá;8
-430470 Carazinho;14
-430480 Carlos Barbosa;2
-430490 Casca;1
-430500 Catuípe;1
-430510 Caxias do Sul;256
-430511 Centenário;1
-430512 Cerrito;1
-430517 Cerro Grande do Sul;2
-430520 Cerro Largo;4
-430535 Charqueadas;105
-430537 Charrua;2
-430545 Cidreira;12
-430558 Colinas;1
-430600 Crissiumal;2
-430605 Cristal;2
-430610 Cruz Alta;17
-430620 Cruzeiro do Sul;3
-430630 David Canabarro;2
-430632 Derrubadas;1
-430635 Dezesseis de Novembro;1
-430640 Dois Irmãos;3
-430645 Dois Lajeados;2
-430660 Dom Pedrito;6
-430676 Eldorado do Sul;14
-430680 Encantado;8
-430690 Encruzilhada do Sul;5
-430700 Erechim;27
-430730 Erval Seco;1
-430750 Espumoso;4
-430760 Estância Velha;29
-430770 Esteio;48
-430780 Estrela;10
-430781 Estrela Velha;1
-430783 Eugênio de Castro;1
-430790 Farroupilha;18
-430800 Faxinal do Soturno;2
-430810 Feliz;1
-430820 Flores da Cunha;4
-430830 Fontoura Xavier;3
-430850 Frederico Westphalen;5
-430860 Garibaldi;2
-430870 Gaurama;2
-430885 Gentil;2
-430900 Giruá;1
-430905 Glorinha;2
-430910 Gramado;4
-430920 Gravataí;153
-430930 Guaíba;43
-430940 Guaporé;8
-430960 Horizontina;1
-431000 Ibirubá;1
-431010 Igrejinha;5
-431020 Ijuí;23
-431030 Ilópolis;1
-431043 Ipê;3
-431046 Ipiranga do Sul;1
-431050 Iraí;2
-431053 Itaara;3
-431060 Itaqui;6
-431080 Ivoti;6
-431090 Jacutinga;3
-431100 Jaguarão;12
-431113 Jari;1
-431120 Júlio de Castilhos;1
-431123 Lagoa Bonita do Sul;3
-431130 Lagoa Vermelha;7
-431125 Lagoão;1
-431140 Lajeado;66
-431142 Lajeado do Bugre;1
-431150 Lavras do Sul;2
-431160 Liberato Salzano;6
-431162 Lindolfo Collor;1
-431164 Linha Nova;1
-431179 Maratá;1
-431180 Marau;11
-431190 Marcelino Ramos;1
-431215 Mato Leitão;2
-431220 Maximiliano de Almeida;1
-431225 Minas do Leão;6
-431235 Montauri;1
-431238 Monte Belo do Sul;1
-431240 Montenegro;57
-431247 Morro Reuter;3
-431250 Mostardas;2
-431260 Muçum;1
-431265 Não-Me-Toque;7
-431270 Nonoai;6
-431300 Nova Bréscia;2
-431306 Nova Hartz;4
-431310 Nova Palma;1
-431320 Nova Petrópolis;1
-431337 Nova Santa Rita;1
-431340 Novo Hamburgo;116
-431350 Osório;25
-431360 Paim Filho;1
-431365 Palmares do Sul;2
-431370 Palmeira das Missões;12
-431380 Palmitinho;2
-431395 Pantano Grande;4
-431405 Parobé;12
-431407 Passo do Sobrado;1
-431410 Passo Fundo;132
-431420 Pedro Osório;3
-431440 Pelotas;232
-431442 Picada Café;3
-431446 Pinhal da Serra;1
-431447 Pinhal Grande;1
-431449 Pinheirinho do Vale;2
-431450 Pinheiro Machado;4
-431454 Pinto Bandeira;1
-431460 Piratini;3
-431480 Portão;8
-431490 Porto Alegre;2320
-431510 Porto Xavier;2
-431515 Progresso;3
-431520 Putinga;1
-431532 Quevedos;1
-431535 Quinze de Novembro;1
-431540 Redentora;1
-431545 Relvado;1
-431550 Restinga Seca;3
-431555 Rio dos Índios;3
-431560 Rio Grande;281
-431570 Rio Pardo;14
-431575 Riozinho;1
-431580 Roca Sales;1
-431590 Rodeio Bonito;2
-431600 Rolante;6
-431610 Ronda Alta;2
-431620 Rondinha;1
-431630 Roque Gonzales;4
-431640 Rosário do Sul;14
-431645 Salto do Jacuí;2
-431647 Salvador das Missões;2
-431660 Sananduva;1
-431710 Sant'Ana do Livramento;18
-431680 Santa Cruz do Sul;88
-431697 Santa Margarida do Sul;1
-431690 Santa Maria;152
-431720 Santa Rosa;15
-431730 Santa Vitória do Palmar;10
-431700 Santana da Boa Vista;1
-431740 Santiago;15
-431750 Santo Ângelo;7
-431760 Santo Antônio da Patrulha;16
-431770 Santo Antônio das Missões;2
-431780 Santo Augusto;1
-431800 São Borja;20
-431805 São Domingos do Sul;1
-431810 São Francisco de Assis;3
-431820 São Francisco de Paula;3
-431830 São Gabriel;12
-431840 São Jerônimo;9
-431850 São José do Norte;10
-431862 São José dos Ausentes;2
-431870 São Leopoldo;122
-431880 São Lourenço do Sul;12
-431890 São Luiz Gonzaga;14
-431900 São Marcos;10
-431920 São Nicolau;1
-431940 São Pedro do Sul;2
-431950 São Sebastião do Caí;10
-431960 São Sepé;4
-431980 São Vicente do Sul;1
-431990 Sapiranga;22
-432000 Sapucaia do Sul;98
-432010 Sarandi;4
-432020 Seberi;2
-432026 Segredo;7
-432040 Serafina Corrêa;1
-432055 Sertão Santana;1
-432065 Silveira Martins;1
-432070 Sobradinho;5
-432080 Soledade;3
-432085 Tabaí;1
-432090 Tapejara;8
-432110 Tapes;4
-432120 Taquara;16
-432130 Taquari;7
-432140 Tenente Portela;6
-432143 Terra de Areia;1
-432145 Teutônia;1
-432146 Tio Hugo;1
-432147 Tiradentes do Sul;1
-432150 Torres;23
-432160 Tramandaí;24
-432166 Três Cachoeiras;2
-432170 Três Coroas;3
-432190 Três Passos;8
-432200 Triunfo;8
-432210 Tucunduva;1
-432220 Tupanciretã;11
-432230 Tuparendi;1
-432232 Turuçu;1
-432235 União da Serra;1
-432240 Uruguaiana;75
-432250 Vacaria;45
-432252 Vale Verde;1
-432260 Venâncio Aires;34
-432270 Vera Cruz;11
-432280 Veranópolis;5
-432290 Viadutos;1
-432300 Viamão;122
-432320 Victor Graeff;1
-432370 Vista Gaúcha;1
-432375 Vitória das Missões;2
-432377 Westfalia;1
-432380 Xangri-lá;5
-500020 Água Clara;10
-500060 Amambai;52
-500070 Anastácio;6
-500080 Anaurilândia;1
-500085 Angélica;1
-500090 Antônio João;2
-500100 Aparecida do Taboado;3
-500110 Aquidauana;32
-500124 Aral Moreira;2
-500150 Bandeirantes;1
-500190 Bataguassu;6
-500200 Batayporã;1
-500210 Bela Vista;8
-500215 Bodoquena;3
-500220 Bonito;6
-500230 Brasilândia;1
-500240 Caarapó;13
-500260 Camapuã;3
-500270 Campo Grande;445
-500280 Caracol;2
-500295 Chapadão do Sul;4
-500310 Corguinho;2
-500315 Coronel Sapucaia;10
-500320 Corumbá;76
-500325 Costa Rica;3
-500330 Coxim;13
-500345 Deodápolis;3
-500348 Dois Irmãos do Buriti;6
-500350 Douradina;1
-500370 Dourados;136
-500375 Eldorado;3
-500380 Fátima do Sul;8
-500400 Glória de Dourados;2
-500410 Guia Lopes da Laguna;1
-500430 Iguatemi;8
-500440 Inocência;2
-500450 Itaporã;3
-500460 Itaquiraí;2
-500470 Ivinhema;3
-500490 Jaraguari;1
-500500 Jardim;21
-500510 Jateí;1
-500515 Juti;1
-500520 Ladário;13
-500525 Laguna Carapã;2
-500540 Maracaju;9
-500560 Miranda;8
-500568 Mundo Novo;4
-500570 Naviraí;25
-500580 Nioaque;2
-500600 Nova Alvorada do Sul;3
-500620 Nova Andradina;9
-500625 Novo Horizonte do Sul;2
-500630 Paranaíba;16
-500635 Paranhos;16
-500640 Pedro Gomes;1
-500660 Ponta Porã;29
-500690 Porto Murtinho;2
-500710 Ribas do Rio Pardo;11
-500720 Rio Brilhante;8
-500730 Rio Negro;2
-500740 Rio Verde de Mato Grosso;6
-500750 Rochedo;1
-500769 São Gabriel do Oeste;5
-500780 Selvíria;1
-500770 Sete Quedas;3
-500790 Sidrolândia;4
-500793 Sonora;3
-500795 Tacuru;9
-500800 Terenos;7
-500830 Três Lagoas;42
-500840 Vicentina;1
-510020 Água Boa;12
-510025 Alta Floresta;23
-510050 Alto Paraguai;1
-510060 Alto Taquari;1
-510080 Apiacás;2
-510125 Araputanga;4
-510130 Arenápolis;5
-510140 Aripuanã;2
-510170 Barra do Bugres;13
-510180 Barra do Garças;25
-510190 Brasnorte;1
-510250 Cáceres;31
-510260 Campinápolis;6
-510263 Campo Novo do Parecis;11
-510267 Campo Verde;2
-510268 Campos de Júlio;1
-510270 Canarana;4
-510279 Carlinda;2
-510300 Chapada dos Guimarães;7
-510310 Cocalinho;1
-510320 Colíder;21
-510325 Colniza;3
-510330 Comodoro;5
-510335 Confresa;4
-510336 Conquista D'Oeste;2
-510337 Cotriguaçu;2
-510340 Cuiabá;550
-510343 Curvelândia;1
-510345 Denise;1
-510350 Diamantino;3
-510370 Feliz Natal;3
-510385 Gaúcha do Norte;2
-510390 General Carneiro;2
-510410 Guarantã do Norte;7
-510420 Guiratinga;4
-510452 Ipiranga do Norte;1
-510455 Itaúba;1
-510460 Itiquira;1
-510480 Jaciara;2
-510490 Jangada;2
-510500 Jauru;1
-510510 Juara;1
-510515 Juína;12
-510517 Juruena;2
-510520 Juscimeira;2
-510523 Lambari D'Oeste;1
-510525 Lucas do Rio Verde;23
-510558 Marcelândia;2
-510560 Matupá;3
-510562 Mirassol d'Oeste;3
-510590 Nobres;6
-510610 Nossa Senhora do Livramento;4
-510615 Nova Bandeirantes;3
-510620 Nova Brasilândia;1
-510621 Nova Canaã do Norte;3
-510618 Nova Lacerda;3
-510890 Nova Maringá;1
-510895 Nova Monte Verde;2
-510622 Nova Mutum;12
-510617 Nova Nazaré;1
-510623 Nova Olímpia;5
-510624 Nova Ubiratã;1
-510625 Nova Xavantina;5
-510627 Novo Horizonte do Norte;1
-510626 Novo Mundo;2
-510631 Novo Santo Antônio;2
-510628 Novo São Joaquim;1
-510629 Paranaíta;5
-510630 Paranatinga;9
-510642 Peixoto de Azevedo;46
-510645 Planalto da Serra;1
-510650 Poconé;21
-510665 Pontal do Araguaia;1
-510675 Pontes e Lacerda;17
-510685 Porto Estrela;2
-510700 Poxoréo;2
-510704 Primavera do Leste;10
-510706 Querência;2
-510718 Ribeirão Cascalheira;2
-510760 Rondonópolis;91
-510770 Rosário Oeste;4
-510724 Santa Carmem;1
-510774 Santa Cruz do Xingu;1
-510776 Santa Rita do Trivelato;2
-510777 Santa Terezinha;5
-510780 Santo Antônio do Leverger;7
-510785 São Félix do Araguaia;5
-510730 São José do Rio Claro;3
-510735 São José do Xingu;1
-510710 São José dos Quatro Marcos;4
-510740 São Pedro da Cipa;1
-510787 Sapezal;11
-510790 Sinop;31
-510792 Sorriso;18
-510795 Tangará da Serra;43
-510800 Tapurah;2
-510805 Terra Nova do Norte;1
-510835 Vale de São Domingos;1
-510840 Várzea Grande;176
-510550 Vila Bela da Santíssima Trindade;19
-510860 Vila Rica;4
-520005 Abadia de Goiás;1
-520013 Acreúna;3
-520025 Águas Lindas de Goiás;18
-520030 Alexânia;3
-520055 Alto Horizonte;1
-520060 Alto Paraíso de Goiás;6
-520080 Alvorada do Norte;1
-520082 Amaralina;1
-520085 Americano do Brasil;1
-520110 Anápolis;45
-520140 Aparecida de Goiânia;204
-520170 Aragarças;1
-520250 Aruanã;2
-520330 Bela Vista de Goiás;7
-520350 Bom Jesus de Goiás;1
-520355 Bonfinópolis;4
-520396 Buritinópolis;1
-520400 Cabeceiras;3
-520425 Cachoeira Dourada;1
-520440 Caiapônia;2
-520450 Caldas Novas;11
-520455 Caldazinha;2
-520470 Campinorte;3
-520480 Campo Alegre de Goiás;1
-520485 Campo Limpo de Goiás;1
-520490 Campos Belos;2
-520495 Campos Verdes;2
-520500 Carmo do Rio Verde;1
-520505 Castelândia;1
-520510 Catalão;8
-520530 Cavalcante;1
-520540 Ceres;7
-520549 Cidade Ocidental;1
-520551 Cocalzinho de Goiás;3
-520620 Cristalina;8
-520640 Crixás;5
-520660 Cumari;2
-520710 Diorama;1
-520830 Divinópolis de Goiás;1
-520740 Edéia;1
-520753 Faina;2
-520790 Flores de Goiás;1
-520800 Formosa;18
-520810 Formoso;1
-520840 Goianápolis;1
-520860 Goianésia;7
-520870 Goiânia;425
-520880 Goianira;16
-520890 Goiás;10
-520910 Goiatuba;2
-520920 Guapó;2
-520970 Hidrolândia;3
-520980 Hidrolina;1
-520990 Iaciara;7
-520995 Indiara;3
-521000 Inhumas;2
-521010 Ipameri;2
-521020 Iporá;3
-521040 Itaberaí;2
-521080 Itajá;1
-521090 Itapaci;1
-521100 Itapirapuã;2
-521120 Itapuranga;1
-521130 Itarumã;1
-521150 Itumbiara;13
-521190 Jataí;8
-521220 Jussara;2
-521250 Luziânia;14
-521300 Maurilândia;2
-521308 Minaçu;3
-521310 Mineiros;8
-521350 Monte Alegre de Goiás;1
-521375 Montividiu;1
-521377 Montividiu do Norte;7
-521390 Mossâmedes;1
-521400 Mozarlândia;1
-521405 Mundo Novo;1
-521440 Nazário;1
-521450 Nerópolis;4
-521460 Niquelândia;4
-521483 Nova Crixás;3
-521486 Nova Glória;1
-521523 Novo Gama;10
-521560 Padre Bernardo;6
-521570 Palmeiras de Goiás;1
-521580 Palmelo;1
-521630 Paranaiguara;1
-521640 Paraúna;3
-521680 Petrolina de Goiás;1
-521690 Pilar de Goiás;2
-521710 Piracanjuba;3
-521720 Piranhas;1
-521730 Pirenópolis;3
-521740 Pires do Rio;3
-521760 Planaltina;13
-521770 Pontalina;2
-521800 Porangatu;6
-521810 Portelândia;1
-521830 Posse;1
-521850 Quirinópolis;1
-521878 Rio Quente;1
-521880 Rio Verde;33
-521890 Rubiataba;1
-521920 Santa Cruz de Goiás;1
-521930 Santa Helena de Goiás;7
-521973 Santo Antônio de Goiás;2
-521975 Santo Antônio do Descoberto;2
-522000 São João d'Aliança;2
-522010 São Luís de Montes Belos;2
-522020 São Miguel do Araguaia;14
-522040 São Simão;4
-522045 Senador Canedo;18
-522060 Silvânia;2
-522068 Simolândia;1
-522100 Taquaral de Goiás;1
-522119 Terezópolis de Goiás;2
-522140 Trindade;32
-522155 Turvelândia;2
-522157 Uirapuru;3
-522160 Uruaçu;5
-522185 Valparaíso de Goiás;22
-522200 Vianópolis;1
-522205 Vicentinópolis;1
-530010 Brasília;420
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
+,MUNCOD,QUANTIDADE
+0,110001,4
+1,110040,4
+2,110034,1
+3,110002,36
+4,110045,5
+5,110060,1
+6,110004,26
+7,110070,2
+8,110080,18
+9,110005,2
+10,110092,2
+11,110006,3
+12,110007,1
+13,110008,2
+14,110094,2
+15,110009,8
+16,110100,2
+17,110010,33
+18,110110,8
+19,110011,15
+20,110012,38
+21,110013,5
+22,110140,2
+23,110014,3
+24,110033,5
+25,110015,7
+26,110018,9
+27,110146,1
+28,110020,481
+29,110025,5
+30,110026,2
+31,110028,6
+32,110029,1
+33,110148,1
+34,110149,2
+35,110032,1
+36,110155,1
+37,110160,2
+38,110170,3
+39,110175,1
+40,110180,2
+41,110030,20
+42,120001,3
+43,120005,3
+44,120010,12
+45,120013,4
+46,120017,1
+47,120020,17
+48,120025,1
+49,120030,4
+50,120033,1
+51,120034,10
+52,120035,7
+53,120038,15
+54,120080,11
+55,120039,2
+56,120040,333
+57,120042,3
+58,120043,6
+59,120050,20
+60,120045,18
+61,120060,11
+62,120070,2
+63,130002,2
+64,130006,5
+65,130008,3
+66,130010,6
+67,130014,1
+68,130020,5
+69,130030,21
+70,130040,15
+71,130050,15
+72,130060,18
+73,130063,12
+74,130068,5
+75,130070,28
+76,130080,27
+77,130083,5
+78,130090,3
+79,130100,14
+80,130110,12
+81,130115,3
+82,130120,35
+83,130130,13
+84,130140,14
+85,130150,4
+86,130160,5
+87,130170,28
+88,130180,7
+89,130185,48
+90,130190,50
+91,130200,2
+92,130210,1
+93,130220,1
+94,130230,9
+95,130240,23
+96,130250,67
+97,130255,6
+98,130260,2734
+99,130270,19
+100,130280,8
+101,130290,53
+102,130300,6
+103,130310,30
+104,130320,6
+105,130330,9
+106,130340,47
+107,130350,10
+108,130353,16
+109,130356,17
+110,130360,8
+111,130370,7
+112,130380,77
+113,130390,9
+114,130395,2
+115,130400,2
+116,130406,55
+117,130410,8
+118,130420,36
+119,130423,3
+120,130430,6
+121,130440,17
+122,140005,17
+123,140002,3
+124,140010,150
+125,140015,6
+126,140017,3
+127,140020,2
+128,140023,1
+129,140028,2
+130,140030,2
+131,140040,5
+132,140045,7
+133,140047,9
+134,140070,1
+135,150010,58
+136,150013,2
+137,150020,21
+138,150030,4
+139,150040,16
+140,150050,5
+141,150060,83
+142,150070,8
+143,150080,378
+144,150085,3
+145,150090,11
+146,150095,4
+147,150100,1
+148,150110,8
+149,150120,8
+150,150130,56
+151,150140,1649
+152,150145,6
+153,150150,38
+154,150157,4
+155,150160,3
+156,150170,64
+157,150172,7
+158,150175,1
+159,150178,18
+160,150180,46
+161,150190,9
+162,150200,6
+163,150195,8
+164,150210,61
+165,150215,18
+166,150220,32
+167,150230,10
+168,150240,110
+169,150250,3
+170,150260,6
+171,150270,9
+172,150275,5
+173,150276,8
+174,150277,9
+175,150280,5
+176,150285,2
+177,150290,33
+178,150293,8
+179,150295,4
+180,150300,2
+181,150304,3
+182,150307,4
+183,150309,9
+184,150310,8
+185,150320,25
+186,150330,25
+187,150340,1
+188,150345,7
+189,150350,12
+190,150360,80
+191,150370,10
+192,150375,20
+193,150380,13
+194,150390,17
+195,150400,8
+196,150405,13
+197,150410,12
+198,150420,87
+199,150430,15
+200,150440,12
+201,150442,148
+202,150445,4
+203,150450,3
+204,150460,9
+205,150470,17
+206,150475,1
+207,150480,9
+208,150490,12
+209,150495,12
+210,150497,5
+211,150500,6
+212,150503,16
+213,150506,7
+214,150510,15
+215,150520,10
+216,150530,36
+217,150540,6
+218,150543,13
+219,150548,12
+220,150550,69
+221,150553,65
+222,150555,4
+223,150560,4
+224,150563,2
+225,150565,8
+226,150570,9
+227,150580,4
+228,150590,5
+229,150600,2
+230,150610,6
+231,150611,10
+232,150613,26
+233,150616,2
+234,150618,7
+235,150619,5
+236,150620,36
+237,150630,12
+238,150635,20
+239,150640,4
+240,150650,175
+241,150655,7
+242,150658,2
+243,150660,7
+244,150670,7
+245,150680,104
+246,150690,6
+247,150700,15
+248,150710,11
+249,150715,3
+250,150720,4
+251,150730,15
+252,150740,5
+253,150745,3
+254,150746,2
+255,150747,8
+256,150750,6
+257,150760,26
+258,150770,8
+259,150780,2
+260,150790,13
+261,150795,28
+262,150796,12
+263,150797,13
+264,150800,29
+265,150803,8
+266,150805,7
+267,150808,8
+268,150810,61
+269,150812,5
+270,150815,8
+271,150820,30
+272,150830,18
+273,150835,6
+274,150840,8
+275,160010,1
+276,160020,8
+277,160021,3
+278,160023,2
+279,160025,1
+280,160027,15
+281,160030,200
+282,160040,6
+283,160050,5
+284,160015,1
+285,160053,7
+286,160060,30
+287,160070,3
+288,160080,4
+289,170040,1
+290,170100,1
+291,170130,2
+292,170190,1
+293,170210,33
+294,170215,1
+295,170220,5
+296,170230,1
+297,170255,1
+298,170270,1
+299,170300,2
+300,170305,1
+301,170310,1
+302,170320,1
+303,170380,1
+304,170390,2
+305,170550,5
+306,170555,2
+307,170610,2
+308,170700,3
+309,170710,1
+310,170765,1
+311,170770,3
+312,170820,2
+313,170830,1
+314,170900,3
+315,170930,1
+316,170950,7
+317,171050,4
+318,171070,2
+319,171180,1
+320,171190,6
+321,171195,1
+322,171200,1
+323,171215,1
+324,171240,1
+325,171320,1
+326,171360,2
+327,171420,1
+328,171488,2
+329,171500,1
+330,171525,1
+331,171550,1
+332,172100,21
+333,171570,1
+334,171380,1
+335,171610,6
+336,171620,2
+337,171630,1
+338,171650,3
+339,171660,1
+340,171665,1
+341,171700,1
+342,171750,2
+343,171820,14
+344,171830,1
+345,171886,2
+346,171890,1
+347,171900,1
+348,172015,1
+349,172020,2
+350,172065,1
+351,172080,1
+352,172085,1
+353,172110,1
+354,172120,5
+355,172208,1
+356,172210,4
+357,210005,41
+358,210015,2
+359,210020,10
+360,210030,4
+361,210040,3
+362,210043,4
+363,210047,16
+364,210050,2
+365,210055,6
+366,210060,6
+367,210070,3
+368,210080,2
+369,210083,5
+370,210087,5
+371,210090,10
+372,210095,5
+373,210100,16
+374,210110,2
+375,210120,37
+376,210125,6
+377,210130,4
+378,210135,2
+379,210140,41
+380,210150,4
+381,210160,22
+382,210170,8
+383,210177,2
+384,210180,4
+385,210190,7
+386,210193,4
+387,210200,12
+388,210203,7
+389,210207,3
+390,210210,3
+391,210215,1
+392,210220,6
+393,210230,5
+394,210232,15
+395,210235,1
+396,210237,3
+397,210240,1
+398,210250,4
+399,210255,4
+400,210260,5
+401,210270,12
+402,210275,2
+403,210280,13
+404,210290,8
+405,210300,59
+406,210310,3
+407,210315,2
+408,210317,3
+409,210320,28
+410,210330,30
+411,210340,29
+412,210350,7
+413,210355,5
+414,210360,27
+415,210370,10
+416,210375,3
+417,210380,4
+418,210390,3
+419,210400,1
+420,210405,3
+421,210408,10
+422,210409,7
+423,210410,1
+424,210420,1
+425,210430,2
+426,210440,5
+427,210450,2
+428,210455,7
+429,210465,5
+430,210467,15
+431,210480,25
+432,210500,6
+433,210510,4
+434,210515,2
+435,210530,79
+436,210535,4
+437,210540,23
+438,210542,2
+439,210547,15
+440,210550,6
+441,210560,4
+442,210570,11
+443,210580,1
+444,210594,4
+445,210590,8
+446,210592,2
+447,210596,2
+448,210598,1
+449,210600,5
+450,210610,1
+451,210620,2
+452,210630,3
+453,210632,7
+454,210635,1
+455,210637,6
+456,210640,2
+457,210650,4
+458,210660,7
+459,210663,3
+460,210670,2
+461,210675,4
+462,210690,12
+463,210700,2
+464,210710,3
+465,210720,1
+466,210735,10
+467,210740,8
+468,210745,4
+469,210750,59
+470,210760,2
+471,210770,2
+472,210780,5
+473,210790,4
+474,210805,5
+475,210810,6
+476,210820,12
+477,210825,6
+478,210830,12
+479,210845,6
+480,210850,21
+481,210860,23
+482,210870,4
+483,210880,13
+484,210890,5
+485,210900,6
+486,210905,1
+487,210910,14
+488,210920,1
+489,210927,4
+490,210940,2
+491,210945,14
+492,210950,2
+493,210960,22
+494,210980,11
+495,210990,53
+496,211000,20
+497,211003,16
+498,211010,7
+499,211020,9
+500,211023,1
+501,211030,4
+502,211040,2
+503,211050,7
+504,211060,8
+505,211070,4
+506,211090,1
+507,211100,1
+508,211105,1
+509,211107,2
+510,211110,8
+511,211120,126
+512,211125,1
+513,211130,811
+514,211140,8
+515,211150,19
+516,211153,1
+517,211163,3
+518,211170,5
+519,211172,1
+520,211174,1
+521,211176,4
+522,211195,1
+523,211210,4
+524,211220,59
+525,211223,6
+526,211230,4
+527,211240,11
+528,211245,5
+529,211250,9
+530,211260,4
+531,211270,9
+532,211280,17
+533,211290,14
+534,211300,7
+535,211400,14
+536,220005,3
+537,220010,3
+538,220020,4
+539,220025,2
+540,220030,2
+541,220040,7
+542,220045,1
+543,220050,4
+544,220060,1
+545,220100,1
+546,220105,2
+547,220110,2
+548,220115,2
+549,220117,2
+550,220120,6
+551,220140,3
+552,220150,7
+553,220160,2
+554,220170,1
+555,220180,1
+556,220190,6
+557,220191,2
+558,220192,1
+559,220196,2
+560,220198,1
+561,220200,5
+562,220205,4
+563,220208,3
+564,220213,1
+565,220220,18
+566,220230,2
+567,220240,6
+568,220250,1
+569,220253,1
+570,220255,2
+571,220260,6
+572,220270,11
+573,220271,3
+574,220272,1
+575,220273,1
+576,220277,1
+577,220280,1
+578,220290,1
+579,220310,1
+580,220320,1
+581,220327,1
+582,220330,4
+583,220370,7
+584,220385,1
+585,220390,18
+586,220410,2
+587,220430,2
+588,220440,1
+589,220450,1
+590,220455,2
+591,220465,1
+592,220470,2
+593,220480,4
+594,220500,3
+595,220510,4
+596,220525,1
+597,220530,1
+598,220545,2
+599,220550,5
+600,220552,2
+601,220555,2
+602,220557,1
+603,220554,2
+604,220560,1
+605,220570,10
+606,220580,11
+607,220590,1
+608,220595,1
+609,220605,1
+610,220610,1
+611,220620,13
+612,220635,4
+613,220640,1
+614,220650,3
+615,220660,1
+616,220667,2
+617,220670,1
+618,220672,2
+619,220680,3
+620,220795,1
+621,220690,2
+622,220695,1
+623,220700,10
+624,220720,3
+625,220730,2
+626,220740,2
+627,220750,5
+628,220760,1
+629,220770,71
+630,220777,1
+631,220780,2
+632,220790,5
+633,220800,12
+634,220810,3
+635,220830,7
+636,220840,23
+637,220850,1
+638,220865,1
+639,220870,1
+640,220880,3
+641,220890,1
+642,220900,1
+643,220910,2
+644,220915,2
+645,220920,2
+646,220937,1
+647,220950,1
+648,220970,1
+649,220987,2
+650,220995,2
+651,221000,4
+652,221005,1
+653,221020,1
+654,221030,5
+655,221038,1
+656,221039,2
+657,221040,6
+658,221050,1
+659,221060,7
+660,221062,1
+661,221070,4
+662,221080,6
+663,221093,1
+664,221100,260
+665,221110,8
+666,221120,6
+667,221130,1
+668,221135,1
+669,221170,1
+670,230010,1
+671,230015,4
+672,230020,19
+673,230030,14
+674,230040,1
+675,230050,3
+676,230060,8
+677,230070,3
+678,230075,8
+679,230090,1
+680,230100,38
+681,230110,20
+682,230120,8
+683,230125,2
+684,230130,1
+685,230140,2
+686,230150,2
+687,230160,1
+688,230170,4
+689,230185,8
+690,230190,24
+691,230195,2
+692,230200,3
+693,230205,4
+694,230210,8
+695,230220,13
+696,230230,11
+697,230240,5
+698,230250,5
+699,230260,20
+700,230270,1
+701,230280,27
+702,230290,2
+703,230300,4
+704,230310,8
+705,230320,2
+706,230330,3
+707,230340,5
+708,230350,19
+709,230360,4
+710,230365,9
+711,230370,217
+712,230380,3
+713,230390,7
+714,230393,1
+715,230395,6
+716,230400,14
+717,230410,24
+718,230420,38
+719,230423,4
+720,230425,1
+721,230426,1
+722,230427,1
+723,230428,34
+724,230435,13
+725,230440,2045
+726,230445,4
+727,230450,2
+728,230460,3
+729,230465,5
+730,230470,30
+731,230490,2
+732,230495,5
+733,230500,8
+734,230510,1
+735,230520,8
+736,230523,47
+737,230526,2
+738,230530,7
+739,230533,5
+740,230535,2
+741,230540,18
+742,230550,14
+743,230560,3
+744,230565,3
+745,230570,2
+746,230580,13
+747,230590,15
+748,230610,3
+749,230620,4
+750,230625,137
+751,230630,28
+752,230640,35
+753,230650,1
+754,230655,12
+755,230660,9
+756,230680,1
+757,230690,6
+758,230700,12
+759,230710,5
+760,230720,1
+761,230725,4
+762,230730,105
+763,230740,4
+764,230750,5
+765,230760,11
+766,230765,148
+767,230770,40
+768,230780,9
+769,230790,4
+770,230800,9
+771,230810,10
+772,230820,3
+773,230830,11
+774,230835,2
+775,230837,1
+776,230840,15
+777,230850,11
+778,230860,5
+779,230870,10
+780,230880,1
+781,230890,6
+782,230900,8
+783,230920,3
+784,230930,13
+785,230940,7
+786,230945,7
+787,230950,4
+788,230960,51
+789,230970,53
+790,230980,2
+791,230990,4
+792,231000,2
+793,231010,3
+794,231020,14
+795,231025,8
+796,231030,3
+797,231040,2
+798,231050,6
+799,231060,2
+800,231070,11
+801,231080,1
+802,231085,7
+803,231090,1
+804,231095,4
+805,231100,3
+806,231110,1
+807,231126,3
+808,231130,30
+809,231140,24
+810,231150,2
+811,231160,3
+812,231170,9
+813,231180,11
+814,231190,4
+815,231195,2
+816,231220,10
+817,231200,9
+818,231210,4
+819,231230,14
+820,231240,17
+821,231250,1
+822,231260,2
+823,231270,10
+824,231280,2
+825,231290,156
+826,231300,3
+827,231310,9
+828,231320,4
+829,231330,18
+830,231335,3
+831,231340,15
+832,231350,13
+833,231355,5
+834,231360,5
+835,231370,1
+836,231375,23
+837,231380,11
+838,231390,3
+839,231395,9
+840,231400,6
+841,231410,9
+842,240010,1
+843,240020,8
+844,240030,4
+845,240040,1
+846,240050,2
+847,240070,3
+848,240080,1
+849,240090,3
+850,240100,8
+851,240110,12
+852,240120,5
+853,240130,2
+854,240140,6
+855,240145,8
+856,240150,1
+857,240170,1
+858,240180,6
+859,240185,3
+860,240190,1
+861,240200,17
+862,240210,2
+863,240220,9
+864,240240,2
+865,240250,1
+866,240260,41
+867,240270,1
+868,240300,2
+869,240310,11
+870,240320,3
+871,240350,1
+872,240360,17
+873,240370,2
+874,240375,1
+875,240380,3
+876,240390,1
+877,240400,1
+878,240410,1
+879,240420,11
+880,240430,7
+881,240440,12
+882,240450,5
+883,240460,5
+884,240470,2
+885,240485,4
+886,240500,1
+887,240510,4
+888,240560,1
+889,240570,3
+890,240580,11
+891,240610,4
+892,240620,1
+893,240630,1
+894,240650,1
+895,240670,3
+896,240710,24
+897,240720,12
+898,240725,1
+899,240740,1
+900,240750,9
+901,240770,3
+902,240780,5
+903,240800,121
+904,240810,565
+905,240820,23
+906,240830,14
+907,240870,1
+908,240880,1
+909,240890,2
+910,240325,113
+911,240920,1
+912,240930,2
+913,240940,2
+914,240970,1
+915,240980,8
+916,240990,5
+917,241010,1
+918,241020,3
+919,241040,1
+920,241070,4
+921,241090,1
+922,240895,4
+923,241100,1
+924,241110,1
+925,241120,8
+926,240933,1
+927,241140,4
+928,241150,2
+929,241160,1
+930,241170,1
+931,241190,1
+932,241200,65
+933,241210,1
+934,241220,11
+935,241230,4
+936,241250,3
+937,241255,2
+938,241260,3
+939,241280,1
+940,241290,2
+941,241030,4
+942,241335,1
+943,241340,2
+944,241370,1
+945,241390,2
+946,241400,2
+947,241410,1
+948,241105,2
+949,241420,10
+950,241440,8
+951,241450,1
+952,241480,3
+953,250030,12
+954,250040,5
+955,250050,5
+956,250053,1
+957,250057,1
+958,250060,11
+959,250077,2
+960,250080,5
+961,250090,3
+962,250100,6
+963,250110,5
+964,250120,2
+965,250130,3
+966,250135,2
+967,250140,2
+968,250150,3
+969,250160,1
+970,250157,3
+971,250180,55
+972,250190,13
+973,250200,1
+974,250215,1
+975,250220,1
+976,250230,2
+977,250240,1
+978,250250,2
+979,250280,3
+980,250290,1
+981,250300,14
+982,250320,34
+983,250330,6
+984,250340,1
+985,250350,1
+986,250355,1
+987,250360,1
+988,250370,24
+989,250375,1
+990,250380,2
+991,250390,1
+992,250400,145
+993,250403,1
+994,250407,1
+995,250430,6
+996,250435,1
+997,250440,2
+998,250450,3
+999,250460,7
+1000,250470,3
+1001,250480,4
+1002,250490,5
+1003,250500,1
+1004,250520,2
+1005,250540,3
+1006,250570,1
+1007,250580,3
+1008,250600,10
+1009,250610,4
+1010,250625,2
+1011,250630,32
+1012,250640,6
+1013,250260,2
+1014,250680,5
+1015,250690,15
+1016,250700,7
+1017,250710,6
+1018,250720,1
+1019,250730,8
+1020,250740,1
+1021,250750,470
+1022,251365,2
+1023,250760,1
+1024,250780,2
+1025,250790,2
+1026,250830,4
+1027,250840,1
+1028,250850,1
+1029,250860,2
+1030,250880,1
+1031,250890,15
+1032,250905,2
+1033,250910,5
+1034,250920,5
+1035,250930,2
+1036,250933,3
+1037,250940,5
+1038,250950,1
+1039,250970,7
+1040,250980,2
+1041,250990,2
+1042,251010,1
+1043,251020,1
+1044,251030,1
+1045,251040,1
+1046,251080,29
+1047,251090,1
+1048,251110,2
+1049,251120,7
+1050,251130,1
+1051,251140,1
+1052,251150,5
+1053,251160,1
+1054,251170,2
+1055,251180,1
+1056,251190,6
+1057,251200,6
+1058,251210,5
+1059,251220,1
+1060,251230,1
+1061,251240,8
+1062,251250,9
+1063,251270,1
+1064,251275,1
+1065,251278,1
+1066,251280,2
+1067,251290,3
+1068,251310,3
+1069,251320,2
+1070,251335,1
+1071,251340,3
+1072,251370,64
+1073,251380,1
+1074,251390,6
+1075,251398,1
+1076,251400,1
+1077,250070,2
+1078,251410,1
+1079,251440,1
+1080,251450,4
+1081,251470,1
+1082,251445,3
+1083,251490,2
+1084,251500,1
+1085,251510,3
+1086,251540,2
+1087,251530,27
+1088,251550,3
+1089,251560,1
+1090,251580,2
+1091,251590,1
+1092,251593,2
+1093,251597,2
+1094,251600,16
+1095,251610,1
+1096,251620,19
+1097,251630,3
+1098,251650,3
+1099,251660,2
+1100,251670,3
+1101,251680,1
+1102,251690,2
+1103,251700,3
+1104,251720,4
+1105,260005,148
+1106,260010,4
+1107,260020,4
+1108,260030,7
+1109,260040,19
+1110,260050,6
+1111,260060,2
+1112,260070,33
+1113,260080,4
+1114,260090,6
+1115,260100,3
+1116,260105,11
+1117,260110,25
+1118,260120,46
+1119,260130,2
+1120,260140,34
+1121,260150,1
+1122,260160,7
+1123,260170,30
+1124,260180,1
+1125,260190,25
+1126,260200,7
+1127,260210,9
+1128,260220,8
+1129,260230,9
+1130,260240,2
+1131,260250,1
+1132,260260,9
+1133,260270,4
+1134,260280,16
+1135,260290,130
+1136,260300,14
+1137,260310,6
+1138,260320,4
+1139,260330,2
+1140,260340,2
+1141,260345,101
+1142,260350,5
+1143,260360,4
+1144,260370,25
+1145,260390,3
+1146,260392,2
+1147,260400,44
+1148,260410,229
+1149,260415,4
+1150,260420,19
+1151,260430,1
+1152,260440,4
+1153,260450,11
+1154,260460,13
+1155,260470,4
+1156,260480,14
+1157,260490,4
+1158,260500,8
+1159,260510,10
+1160,260515,1
+1161,260520,43
+1162,260530,3
+1163,260540,8
+1164,260550,8
+1165,260560,1
+1166,260570,3
+1167,260580,5
+1168,260590,12
+1169,260600,42
+1170,260610,9
+1171,260620,64
+1172,260630,2
+1173,260640,51
+1174,260650,3
+1175,260660,3
+1176,260680,77
+1177,260690,1
+1178,260760,169
+1179,260700,4
+1180,260710,1
+1181,260720,49
+1182,260730,9
+1183,260740,3
+1184,260750,3
+1185,260765,6
+1186,260770,4
+1187,260775,147
+1188,260780,9
+1189,260790,479
+1190,260795,3
+1191,260800,3
+1192,260805,6
+1193,260810,3
+1194,260820,11
+1195,260825,4
+1196,260830,2
+1197,260840,2
+1198,260850,12
+1199,260845,8
+1200,260860,2
+1201,260870,1
+1202,260875,8
+1203,260880,14
+1204,260890,35
+1205,260900,14
+1206,260915,3
+1207,260920,3
+1208,260930,4
+1209,261430,4
+1210,260940,20
+1211,260950,10
+1212,260960,345
+1213,260970,4
+1214,260980,2
+1215,260990,16
+1216,261000,74
+1217,261010,1
+1218,261020,8
+1219,261030,7
+1220,261040,5
+1221,261050,4
+1222,261060,19
+1223,261070,207
+1224,261080,6
+1225,261090,36
+1226,261100,9
+1227,261110,114
+1228,261120,1
+1229,261130,4
+1230,261140,7
+1231,261150,3
+1232,261153,1
+1233,261160,1975
+1234,261170,4
+1235,261180,21
+1236,261190,6
+1237,261200,2
+1238,261210,2
+1239,261220,22
+1240,261240,6
+1241,261245,1
+1242,261247,1
+1243,261250,33
+1244,261255,1
+1245,261260,4
+1246,261270,2
+1247,261290,3
+1248,261300,10
+1249,261310,9
+1250,261320,4
+1251,261330,6
+1252,261340,14
+1253,261350,3
+1254,261360,9
+1255,261370,83
+1256,261380,7
+1257,261390,30
+1258,261400,11
+1259,261410,10
+1260,261420,25
+1261,261450,17
+1262,261460,5
+1263,261470,9
+1264,261480,7
+1265,261485,14
+1266,261500,10
+1267,261520,2
+1268,261530,30
+1269,261540,22
+1270,261550,3
+1271,261560,11
+1272,261570,2
+1273,261580,3
+1274,261590,1
+1275,261600,2
+1276,261610,2
+1277,261620,7
+1278,261630,8
+1279,261640,89
+1280,261650,8
+1281,270010,3
+1282,270020,2
+1283,270030,69
+1284,270040,18
+1285,270050,4
+1286,270060,4
+1287,270070,5
+1288,270090,1
+1289,270100,7
+1290,270110,1
+1291,270120,3
+1292,270130,4
+1293,270135,2
+1294,270140,13
+1295,270150,2
+1296,270160,3
+1297,270170,4
+1298,270190,1
+1299,270200,1
+1300,270210,8
+1301,270220,7
+1302,270230,12
+1303,270235,4
+1304,270240,8
+1305,270250,3
+1306,270255,2
+1307,270260,5
+1308,270270,1
+1309,270280,5
+1310,270290,4
+1311,270300,2
+1312,270310,9
+1313,270320,4
+1314,270330,2
+1315,270350,8
+1316,270370,3
+1317,270375,3
+1318,270380,17
+1319,270400,5
+1320,270410,4
+1321,270430,597
+1322,270440,4
+1323,270450,6
+1324,270460,1
+1325,270470,20
+1326,270480,6
+1327,270500,3
+1328,270510,10
+1329,270520,5
+1330,270540,1
+1331,270550,9
+1332,270560,5
+1333,270570,2
+1334,270580,3
+1335,270590,1
+1336,270600,2
+1337,270610,7
+1338,270620,3
+1339,270630,35
+1340,270640,3
+1341,270642,3
+1342,270644,6
+1343,270650,2
+1344,270660,1
+1345,270670,22
+1346,270680,15
+1347,270690,16
+1348,270700,1
+1349,270710,5
+1350,270720,4
+1351,270730,7
+1352,270740,2
+1353,270750,5
+1354,270760,4
+1355,270770,43
+1356,270780,2
+1357,270790,1
+1358,270800,15
+1359,270810,2
+1360,270830,10
+1361,270840,3
+1362,270850,12
+1363,270860,26
+1364,270870,1
+1365,270880,7
+1366,270890,10
+1367,270900,1
+1368,270910,3
+1369,270915,18
+1370,270920,1
+1371,270930,15
+1372,270940,7
+1373,280020,2
+1374,280030,313
+1375,280040,1
+1376,280050,7
+1377,280060,8
+1378,280067,5
+1379,280070,1
+1380,280100,6
+1381,280120,5
+1382,280130,5
+1383,280140,4
+1384,280150,3
+1385,280160,2
+1386,280170,5
+1387,280200,1
+1388,280210,18
+1389,280230,1
+1390,280250,2
+1391,280270,2
+1392,280280,3
+1393,280290,25
+1394,280300,2
+1395,280320,17
+1396,280330,10
+1397,280340,4
+1398,280350,33
+1399,280360,14
+1400,280380,1
+1401,280400,7
+1402,280410,2
+1403,280420,2
+1404,280430,1
+1405,280440,8
+1406,280450,13
+1407,280460,4
+1408,280470,1
+1409,280480,68
+1410,280490,4
+1411,280510,2
+1412,280520,1
+1413,280530,2
+1414,280540,2
+1415,280550,7
+1416,280560,5
+1417,280570,25
+1418,280580,4
+1419,280590,3
+1420,280600,2
+1421,280610,6
+1422,280620,7
+1423,280630,3
+1424,280650,1
+1425,280640,1
+1426,280660,4
+1427,280670,94
+1428,280710,9
+1429,280720,3
+1430,280730,1
+1431,280740,25
+1432,280750,4
+1433,280760,11
+1434,290030,1
+1435,290040,2
+1436,290060,3
+1437,290070,33
+1438,290080,14
+1439,290090,2
+1440,290100,7
+1441,290110,5
+1442,290115,8
+1443,290120,3
+1444,290130,3
+1445,290135,3
+1446,290140,14
+1447,290160,4
+1448,290170,3
+1449,290180,3
+1450,290190,7
+1451,290195,3
+1452,290205,2
+1453,290200,2
+1454,290210,14
+1455,290220,2
+1456,290225,9
+1457,290230,2
+1458,290240,2
+1459,290250,1
+1460,290265,2
+1461,290270,13
+1462,290290,4
+1463,290300,2
+1464,290310,3
+1465,290320,63
+1466,290323,3
+1467,290327,5
+1468,290340,13
+1469,290350,3
+1470,290360,1
+1471,290370,1
+1472,290380,2
+1473,290390,20
+1474,290395,1
+1475,290400,2
+1476,290410,5
+1477,290420,3
+1478,290430,1
+1479,290440,2
+1480,290450,3
+1481,290460,8
+1482,290470,6
+1483,290475,3
+1484,290485,6
+1485,290490,9
+1486,290500,2
+1487,290510,3
+1488,290515,7
+1489,290520,7
+1490,290530,1
+1491,290540,15
+1492,290550,4
+1493,290560,21
+1494,290570,112
+1495,290580,12
+1496,290590,1
+1497,290600,19
+1498,290610,5
+1499,290620,4
+1500,290630,19
+1501,290640,1
+1502,290650,38
+1503,290680,2
+1504,290682,1
+1505,290685,1
+1506,290687,13
+1507,290689,3
+1508,290690,6
+1509,290700,3
+1510,290710,8
+1511,290720,17
+1512,290730,8
+1513,290740,2
+1514,290750,12
+1515,290760,10
+1516,290770,3
+1517,290780,3
+1518,290790,4
+1519,290800,5
+1520,290810,3
+1521,290820,6
+1522,290830,3
+1523,290840,7
+1524,290850,9
+1525,290860,11
+1526,290880,1
+1527,290890,2
+1528,290910,3
+1529,290930,1
+1530,290940,10
+1531,290950,1
+1532,290960,3
+1533,290970,3
+1534,290980,9
+1535,290990,7
+1536,291005,28
+1537,291010,1
+1538,291040,4
+1539,291050,9
+1540,290050,1
+1541,291060,7
+1542,291070,10
+1543,291072,48
+1544,291075,2
+1545,291080,236
+1546,291085,2
+1547,291090,1
+1548,291100,1
+1549,291110,5
+1550,291120,13
+1551,291125,1
+1552,291130,3
+1553,291150,5
+1554,291160,7
+1555,291165,3
+1556,291170,17
+1557,291180,7
+1558,291185,5
+1559,291190,7
+1560,291210,9
+1561,291220,3
+1562,291230,1
+1563,291240,2
+1564,291250,6
+1565,291270,7
+1566,291290,9
+1567,291300,4
+1568,291310,2
+1569,291320,8
+1570,291330,1
+1571,291345,4
+1572,291350,7
+1573,291360,125
+1574,291370,10
+1575,291380,1
+1576,291390,19
+1577,291400,7
+1578,291410,2
+1579,291440,4
+1580,291450,5
+1581,291460,30
+1582,291465,18
+1583,291470,13
+1584,291480,173
+1585,291490,10
+1586,291500,2
+1587,291510,4
+1588,291520,5
+1589,291530,2
+1590,291540,2
+1591,291550,8
+1592,291560,28
+1593,291570,5
+1594,291580,3
+1595,291590,2
+1596,291600,3
+1597,291610,10
+1598,291620,11
+1599,291630,3
+1600,291640,37
+1601,291650,6
+1602,291660,1
+1603,291680,8
+1604,291685,1
+1605,291690,2
+1606,291700,6
+1607,291710,8
+1608,291730,12
+1609,291733,4
+1610,291735,1
+1611,291740,1
+1612,291750,28
+1613,291760,3
+1614,291770,7
+1615,291780,1
+1616,291790,3
+1617,291800,63
+1618,291810,5
+1619,291820,2
+1620,291830,4
+1621,291835,5
+1622,291840,66
+1623,291845,2
+1624,291850,1
+1625,291855,2
+1626,291860,2
+1627,291880,4
+1628,291905,2
+1629,291910,2
+1630,291915,4
+1631,291920,103
+1632,291930,4
+1633,291940,1
+1634,291950,6
+1635,291955,14
+1636,291960,2
+1637,291970,5
+1638,291980,11
+1639,291992,11
+1640,292000,3
+1641,292010,2
+1642,292020,10
+1643,292040,1
+1644,292050,2
+1645,292060,8
+1646,292070,6
+1647,292080,1
+1648,292090,5
+1649,292100,16
+1650,292110,7
+1651,292120,3
+1652,292130,2
+1653,292140,1
+1654,292145,2
+1655,292150,8
+1656,292160,2
+1657,292170,7
+1658,292190,1
+1659,292200,12
+1660,292205,1
+1661,292210,3
+1662,292220,1
+1663,292225,2
+1664,292230,7
+1665,292240,2
+1666,292250,13
+1667,292265,6
+1668,292270,1
+1669,292273,1
+1670,292275,3
+1671,292280,2
+1672,292290,7
+1673,292300,9
+1674,292303,1
+1675,292305,4
+1676,292310,7
+1677,292320,2
+1678,292335,7
+1679,292340,1
+1680,292350,1
+1681,292360,6
+1682,292370,14
+1683,292380,7
+1684,292390,10
+1685,292400,38
+1686,292405,5
+1687,292410,1
+1688,292420,1
+1689,292430,3
+1690,292440,7
+1691,292450,1
+1692,292460,26
+1693,292465,2
+1694,292467,2
+1695,292480,3
+1696,292500,1
+1697,292510,9
+1698,292520,9
+1699,292525,4
+1700,292530,68
+1701,292540,4
+1702,292550,7
+1703,292560,2
+1704,292570,3
+1705,292575,7
+1706,292580,6
+1707,292590,9
+1708,292593,3
+1709,292595,3
+1710,292600,5
+1711,292610,4
+1712,292620,5
+1713,292630,8
+1714,292640,4
+1715,292650,1
+1716,292660,25
+1717,292670,2
+1718,292700,3
+1719,292710,1
+1720,292720,4
+1721,292730,2
+1722,292740,2070
+1723,292750,5
+1724,292760,3
+1725,292770,10
+1726,292780,2
+1727,292790,1
+1728,292805,5
+1729,292810,11
+1730,292840,2
+1731,292800,10
+1732,292820,5
+1733,292830,1
+1734,292860,30
+1735,292870,24
+1736,292880,15
+1737,292890,5
+1738,292895,3
+1739,292910,6
+1740,292900,2
+1741,292905,2
+1742,292920,21
+1743,292925,6
+1744,292930,4
+1745,292935,3
+1746,292940,2
+1747,292950,20
+1748,292960,2
+1749,292970,4
+1750,292975,3
+1751,292980,4
+1752,292990,7
+1753,293000,1
+1754,293010,35
+1755,293020,2
+1756,293015,7
+1757,293040,2
+1758,293050,30
+1759,293060,1
+1760,293070,55
+1761,293075,5
+1762,293076,11
+1763,293077,3
+1764,293080,2
+1765,293120,8
+1766,293135,63
+1767,293140,4
+1768,293150,1
+1769,293160,1
+1770,293170,2
+1771,293180,3
+1772,293190,16
+1773,293200,5
+1774,293210,4
+1775,293220,6
+1776,293230,5
+1777,293240,4
+1778,293245,5
+1779,293250,23
+1780,293260,1
+1781,293270,16
+1782,293280,5
+1783,293290,51
+1784,293300,4
+1785,293305,2
+1786,293315,1
+1787,293317,4
+1788,293320,13
+1789,293330,64
+1790,293340,1
+1791,293345,5
+1792,293350,7
+1793,293360,13
+1794,310010,1
+1795,310020,5
+1796,310030,1
+1797,310040,1
+1798,310050,4
+1799,310060,3
+1800,310080,1
+1801,310090,4
+1802,310100,4
+1803,310110,4
+1804,310120,3
+1805,310150,24
+1806,310160,8
+1807,310163,1
+1808,310170,7
+1809,310180,3
+1810,310190,2
+1811,310200,2
+1812,310205,1
+1813,315350,3
+1814,310210,2
+1815,310220,1
+1816,310230,1
+1817,310250,1
+1818,310260,5
+1819,310300,1
+1820,310340,8
+1821,310350,12
+1822,310360,1
+1823,310375,2
+1824,310390,3
+1825,310400,9
+1826,310410,3
+1827,310420,3
+1828,310430,2
+1829,310445,1
+1830,310450,3
+1831,310460,1
+1832,310470,1
+1833,310480,1
+1834,310490,1
+1835,310510,6
+1836,310520,1
+1837,310530,2
+1838,310540,3
+1839,310550,2
+1840,310560,17
+1841,310570,1
+1842,310590,2
+1843,310600,2
+1844,310620,647
+1845,310630,8
+1846,310640,2
+1847,310665,1
+1848,310670,62
+1849,310690,2
+1850,310700,1
+1851,310710,3
+1852,310720,2
+1853,310730,6
+1854,310740,9
+1855,310780,4
+1856,310790,2
+1857,310800,3
+1858,310810,2
+1859,310825,1
+1860,310830,3
+1861,310870,2
+1862,310860,5
+1863,310890,1
+1864,310900,7
+1865,310925,1
+1866,310930,1
+1867,310940,3
+1868,310945,1
+1869,310950,1
+1870,310270,1
+1871,310980,1
+1872,310990,1
+1873,311000,3
+1874,311010,2
+1875,311020,1
+1876,311030,1
+1877,311050,2
+1878,311060,3
+1879,311070,1
+1880,311090,3
+1881,311110,1
+1882,311120,5
+1883,311130,4
+1884,311140,2
+1885,311150,1
+1886,311160,5
+1887,311180,2
+1888,311200,1
+1889,311220,1
+1890,311230,2
+1891,311240,2
+1892,311250,1
+1893,311260,1
+1894,311270,4
+1895,311280,2
+1896,311290,1
+1897,311300,3
+1898,311320,3
+1899,311330,5
+1900,311340,19
+1901,311370,3
+1902,311390,1
+1903,311400,3
+1904,311410,2
+1905,311420,1
+1906,311430,3
+1907,311440,2
+1908,311450,1
+1909,311455,3
+1910,311460,1
+1911,311480,1
+1912,311510,1
+1913,311530,17
+1914,311535,8
+1915,311545,1
+1916,311547,1
+1917,311550,6
+1918,311570,1
+1919,311580,3
+1920,311590,3
+1921,311615,2
+1922,311630,1
+1923,311650,1
+1924,311660,1
+1925,311710,2
+1926,311730,2
+1927,311750,3
+1928,311780,2
+1929,311787,1
+1930,311790,1
+1931,311800,3
+1932,311810,3
+1933,311830,14
+1934,311840,7
+1935,311860,109
+1936,311880,2
+1937,311910,3
+1938,311930,1
+1939,311940,28
+1940,311950,4
+1941,311980,1
+1942,311990,3
+1943,311995,4
+1944,312015,1
+1945,312050,1
+1946,312060,1
+1947,312080,4
+1948,312083,3
+1949,312090,14
+1950,312100,1
+1951,312110,1
+1952,312125,5
+1953,312130,1
+1954,312160,1
+1955,312180,3
+1956,312190,3
+1957,312200,2
+1958,312230,30
+1959,312250,2
+1960,312290,1
+1961,312310,3
+1962,312320,4
+1963,312340,1
+1964,312370,1
+1965,312380,3
+1966,312410,5
+1967,312420,3
+1968,312430,6
+1969,312460,2
+1970,312470,2
+1971,312480,3
+1972,312500,2
+1973,312510,6
+1974,312560,3
+1975,312570,2
+1976,312590,3
+1977,312595,1
+1978,312610,5
+1979,312630,1
+1980,312650,2
+1981,312660,1
+1982,312670,5
+1983,312675,1
+1984,312680,1
+1985,312690,3
+1986,312700,3
+1987,312705,2
+1988,312710,8
+1989,312730,2
+1990,312733,2
+1991,312737,2
+1992,312738,1
+1993,312770,87
+1994,312780,1
+1995,312800,2
+1996,312810,2
+1997,312820,2
+1998,312830,5
+1999,312840,1
+2000,312870,6
+2001,312900,1
+2002,312930,3
+2003,312950,3
+2004,312960,2
+2005,312965,1
+2006,312970,1
+2007,312980,22
+2008,313005,1
+2009,313010,3
+2010,313030,2
+2011,313040,1
+2012,313050,1
+2013,313060,1
+2014,313065,2
+2015,313090,2
+2016,313100,1
+2017,313110,1
+2018,313115,8
+2019,313120,4
+2020,313130,49
+2021,313160,1
+2022,313170,16
+2023,313180,3
+2024,313190,2
+2025,313200,1
+2026,313210,13
+2027,313220,1
+2028,313230,2
+2029,313240,30
+2030,313250,1
+2031,313260,2
+2032,313270,6
+2033,313280,1
+2034,313290,4
+2035,313300,1
+2036,313310,3
+2037,313330,4
+2038,313340,4
+2039,313370,1
+2040,313380,21
+2041,313390,1
+2042,313400,12
+2043,313420,22
+2044,313430,2
+2045,313440,6
+2046,313450,1
+2047,313460,6
+2048,313490,3
+2049,313500,1
+2050,313505,8
+2051,313507,1
+2052,313510,24
+2053,313520,20
+2054,313535,3
+2055,313540,1
+2056,313545,5
+2057,313550,3
+2058,313570,1
+2059,313580,10
+2060,313590,3
+2061,313610,1
+2062,313620,14
+2063,313630,9
+2064,313640,1
+2065,313657,2
+2066,313665,9
+2067,313670,311
+2068,313695,1
+2069,313700,1
+2070,313710,2
+2071,313720,6
+2072,313740,1
+2073,313760,13
+2074,313770,3
+2075,313780,1
+2076,313810,1
+2077,313820,22
+2078,313840,19
+2079,313850,1
+2080,313860,3
+2081,313862,1
+2082,313867,1
+2083,313880,5
+2084,313890,3
+2085,313900,4
+2086,313920,1
+2087,313930,15
+2088,313940,11
+2089,313950,5
+2090,313960,5
+2091,313990,2
+2092,314000,13
+2093,314015,1
+2094,314020,1
+2095,314050,2
+2096,314055,1
+2097,314070,3
+2098,317150,3
+2099,314080,6
+2100,314085,1
+2101,314090,1
+2102,314100,1
+2103,314110,5
+2104,314130,1
+2105,314140,4
+2106,314160,1
+2107,314170,2
+2108,314180,3
+2109,314200,5
+2110,314210,1
+2111,314220,4
+2112,314225,2
+2113,314240,1
+2114,314270,10
+2115,314280,3
+2116,314290,2
+2117,314310,4
+2118,314320,3
+2119,314340,3
+2120,314330,102
+2121,314380,1
+2122,314390,37
+2123,314430,10
+2124,314450,2
+2125,314470,8
+2126,314480,29
+2127,314500,3
+2128,314505,2
+2129,314520,10
+2130,314530,5
+2131,314535,1
+2132,314537,3
+2133,314550,1
+2134,314560,11
+2135,314585,2
+2136,314590,5
+2137,314600,8
+2138,314610,15
+2139,314620,1
+2140,314630,2
+2141,314640,2
+2142,314650,2
+2143,314670,1
+2144,314690,1
+2145,314710,8
+2146,314700,16
+2147,314720,3
+2148,314740,3
+2149,314760,1
+2150,314790,34
+2151,314795,2
+2152,314800,4
+2153,314810,10
+2154,314820,1
+2155,314830,1
+2156,314850,2
+2157,314860,1
+2158,314870,5
+2159,314875,1
+2160,314910,2
+2161,314915,2
+2162,314930,11
+2163,314950,2
+2164,314960,1
+2165,314980,1
+2166,314995,1
+2167,315015,1
+2168,315030,1
+2169,315040,1
+2170,315053,1
+2171,315057,3
+2172,315060,1
+2173,315080,2
+2174,315090,1
+2175,315100,1
+2176,315110,5
+2177,315120,15
+2178,315130,3
+2179,315140,3
+2180,315150,3
+2181,315160,1
+2182,315170,1
+2183,315180,23
+2184,315190,2
+2185,315200,1
+2186,315210,28
+2187,315213,3
+2188,315217,2
+2189,315220,3
+2190,315240,4
+2191,315250,24
+2192,315280,10
+2193,315290,1
+2194,315360,5
+2195,315390,5
+2196,315400,5
+2197,315410,2
+2198,315415,3
+2199,315420,1
+2200,315430,2
+2201,315440,1
+2202,315450,1
+2203,315460,77
+2204,315480,3
+2205,315490,3
+2206,315510,3
+2207,315530,1
+2208,315540,3
+2209,315560,2
+2210,315570,2
+2211,315580,5
+2212,315600,1
+2213,315630,3
+2214,315645,1
+2215,315650,2
+2216,315660,3
+2217,315670,42
+2218,315680,4
+2219,315690,6
+2220,315700,5
+2221,315710,1
+2222,315720,11
+2223,315733,3
+2224,315760,1
+2225,315765,1
+2226,315770,1
+2227,315780,74
+2228,315800,2
+2229,315810,2
+2230,315820,3
+2231,315935,1
+2232,315950,4
+2233,315960,5
+2234,315980,3
+2235,315830,1
+2236,315840,1
+2237,315860,1
+2238,315890,2
+2239,315895,10
+2240,315900,1
+2241,316000,1
+2242,316030,3
+2243,316040,1
+2244,316070,9
+2245,316090,3
+2246,316100,1
+2247,316110,13
+2248,316120,1
+2249,316140,2
+2250,316150,3
+2251,316160,1
+2252,316165,1
+2253,316170,1
+2254,316180,1
+2255,316190,1
+2256,312550,4
+2257,316200,1
+2258,316210,2
+2259,316225,1
+2260,316240,3
+2261,316245,5
+2262,316250,11
+2263,316255,1
+2264,316257,1
+2265,316260,3
+2266,316270,2
+2267,316290,10
+2268,316292,12
+2269,316294,2
+2270,316295,1
+2271,316300,3
+2272,316350,1
+2273,316370,24
+2274,316400,1
+2275,316420,1
+2276,316430,1
+2277,316443,1
+2278,316447,1
+2279,316470,10
+2280,316500,1
+2281,316510,2
+2282,316530,1
+2283,316540,5
+2284,316550,1
+2285,316553,5
+2286,316570,1
+2287,316600,2
+2288,316630,1
+2289,316660,1
+2290,316680,2
+2291,316690,7
+2292,316710,3
+2293,316720,42
+2294,316555,2
+2295,316750,1
+2296,316760,2
+2297,316790,1
+2298,316800,1
+2299,316840,3
+2300,316850,2
+2301,316860,40
+2302,316870,20
+2303,316880,1
+2304,316900,9
+2305,316910,1
+2306,316920,2
+2307,316930,12
+2308,316935,2
+2309,316940,5
+2310,316950,3
+2311,316960,9
+2312,316970,1
+2313,316990,53
+2314,317000,4
+2315,317005,1
+2316,317010,73
+2317,317020,120
+2318,317040,13
+2319,317050,6
+2320,317052,1
+2321,317070,23
+2322,317075,1
+2323,317080,7
+2324,317090,5
+2325,317100,2
+2326,317103,6
+2327,317107,1
+2328,317120,33
+2329,317130,9
+2330,317140,2
+2331,317160,3
+2332,317170,1
+2333,317180,4
+2334,317200,14
+2335,320010,5
+2336,320016,1
+2337,320013,1
+2338,320020,5
+2339,320030,1
+2340,320035,1
+2341,320040,5
+2342,320050,7
+2343,320060,22
+2344,320070,2
+2345,320080,6
+2346,320090,7
+2347,320100,1
+2348,320110,5
+2349,320115,6
+2350,320120,72
+2351,320130,170
+2352,320140,6
+2353,320150,47
+2354,320160,6
+2355,320180,1
+2356,320190,3
+2357,320200,2
+2358,320210,5
+2359,320220,6
+2360,320230,2
+2361,320240,52
+2362,320245,4
+2363,320250,3
+2364,320255,2
+2365,320260,6
+2366,320265,1
+2367,320270,4
+2368,320280,14
+2369,320290,3
+2370,320305,7
+2371,320310,6
+2372,320313,1
+2373,320316,1
+2374,320320,48
+2375,320332,27
+2376,320334,1
+2377,320335,2
+2378,320340,5
+2379,320350,8
+2380,320370,3
+2381,320380,1
+2382,320390,10
+2383,320400,2
+2384,320405,19
+2385,320410,6
+2386,320420,6
+2387,320425,2
+2388,320435,3
+2389,320440,5
+2390,320450,9
+2391,320455,2
+2392,320460,4
+2393,320465,1
+2394,320470,1
+2395,320480,3
+2396,320490,33
+2397,320500,195
+2398,320501,8
+2399,320503,2
+2400,320506,2
+2401,320510,48
+2402,320517,2
+2403,320520,214
+2404,320530,150
+2405,330010,122
+2406,330015,3
+2407,330020,36
+2408,330022,2
+2409,330023,19
+2410,330025,10
+2411,330030,26
+2412,330040,40
+2413,330045,340
+2414,330050,4
+2415,330060,13
+2416,330070,142
+2417,330080,14
+2418,330090,5
+2419,330100,351
+2420,330110,5
+2421,330093,2
+2422,330115,5
+2423,330120,3
+2424,330130,19
+2425,330095,3
+2426,330140,2
+2427,330150,2
+2428,330160,5
+2429,330170,784
+2430,330180,3
+2431,330185,40
+2432,330187,10
+2433,330190,144
+2434,330200,92
+2435,330205,4
+2436,330210,1
+2437,330220,66
+2438,330225,17
+2439,330227,191
+2440,330230,4
+2441,330240,105
+2442,330245,1
+2443,330250,179
+2444,330260,26
+2445,330270,70
+2446,330280,13
+2447,330285,145
+2448,330290,7
+2449,330300,14
+2450,330310,5
+2451,330320,124
+2452,330330,266
+2453,330340,54
+2454,330350,748
+2455,330360,28
+2456,330370,17
+2457,330380,37
+2458,330385,10
+2459,330390,111
+2460,330395,9
+2461,330400,12
+2462,330410,3
+2463,330411,9
+2464,330412,5
+2465,330414,146
+2466,330415,3
+2467,330420,53
+2468,330430,29
+2469,330440,4
+2470,330450,1
+2471,330452,54
+2472,330455,7445
+2473,330460,1
+2474,330470,17
+2475,330480,10
+2476,330475,2
+2477,330490,656
+2478,330500,4
+2479,330510,473
+2480,330513,1
+2481,330515,2
+2482,330520,40
+2483,330530,7
+2484,330540,4
+2485,330550,38
+2486,330555,31
+2487,330560,10
+2488,330570,2
+2489,330575,13
+2490,330580,61
+2491,330590,1
+2492,330600,49
+2493,330610,16
+2494,330620,10
+2495,330630,174
+2496,330000,2
+2497,350010,5
+2498,350020,2
+2499,350030,7
+2500,350040,1
+2501,350050,5
+2502,350055,1
+2503,350070,9
+2504,350100,5
+2505,350110,3
+2506,350115,3
+2507,350130,1
+2508,350140,34
+2509,350150,3
+2510,350160,44
+2511,350170,11
+2512,350180,2
+2513,350190,23
+2514,350210,36
+2515,350220,5
+2516,350230,1
+2517,350250,15
+2518,350260,1
+2519,350270,3
+2520,350275,4
+2521,350280,39
+2522,350290,3
+2523,350310,1
+2524,350320,42
+2525,350330,41
+2526,350350,1
+2527,350380,4
+2528,350390,21
+2529,350400,26
+2530,350410,50
+2531,350420,3
+2532,350440,25
+2533,350450,21
+2534,350460,5
+2535,350470,74
+2536,350480,1
+2537,350490,5
+2538,350520,3
+2539,350530,7
+2540,350540,3
+2541,350550,26
+2542,350560,13
+2543,350570,126
+2544,350580,4
+2545,350590,7
+2546,350600,263
+2547,350610,28
+2548,350630,28
+2549,350635,47
+2550,350650,25
+2551,350660,10
+2552,350670,7
+2553,350680,2
+2554,350690,2
+2555,350700,13
+2556,350710,3
+2557,350715,1
+2558,350740,1
+2559,350750,43
+2560,350760,38
+2561,350775,1
+2562,350780,4
+2563,350790,3
+2564,350800,1
+2565,350810,4
+2566,350830,1
+2567,350840,12
+2568,350850,19
+2569,350860,1
+2570,350870,3
+2571,350880,1
+2572,350900,34
+2573,350910,6
+2574,350920,23
+2575,350925,24
+2576,350930,1
+2577,350940,6
+2578,350950,442
+2579,350960,22
+2580,350970,5
+2581,350980,1
+2582,350990,14
+2583,350995,1
+2584,351000,4
+2585,351015,3
+2586,351020,7
+2587,351030,41
+2588,351040,13
+2589,351050,121
+2590,351060,254
+2591,351070,4
+2592,351080,22
+2593,351100,5
+2594,351110,18
+2595,351120,1
+2596,351130,2
+2597,351140,60
+2598,351150,9
+2599,351160,5
+2600,351170,4
+2601,355720,2
+2602,351190,1
+2603,351200,4
+2604,351220,8
+2605,351230,8
+2606,351240,9
+2607,351250,1
+2608,351260,2
+2609,351270,1
+2610,351280,37
+2611,351290,1
+2612,351300,89
+2613,351310,4
+2614,351340,24
+2615,351350,109
+2616,351360,5
+2617,351370,5
+2618,351380,194
+2619,351385,1
+2620,351390,1
+2621,351410,3
+2622,351430,1
+2623,351440,46
+2624,351450,5
+2625,351460,2
+2626,351470,2
+2627,351480,5
+2628,351490,5
+2629,351500,140
+2630,351510,35
+2631,351512,2
+2632,351515,4
+2633,351518,8
+2634,351519,1
+2635,355730,1
+2636,351520,1
+2637,351535,1
+2638,351540,3
+2639,351560,3
+2640,351550,11
+2641,351565,2
+2642,351570,83
+2643,351590,1
+2644,351600,36
+2645,351610,19
+2646,351620,77
+2647,351630,86
+2648,351640,195
+2649,351650,3
+2650,351660,2
+2651,351670,7
+2652,351680,1
+2653,351700,42
+2654,351710,1
+2655,351720,6
+2656,351740,6
+2657,351750,1
+2658,351760,2
+2659,351770,11
+2660,351780,3
+2661,351790,5
+2662,351800,1
+2663,351810,1
+2664,351820,7
+2665,351830,3
+2666,351840,39
+2667,351850,50
+2668,351860,3
+2669,351870,327
+2670,351880,559
+2671,351885,2
+2672,351890,1
+2673,351905,1
+2674,351907,135
+2675,351910,3
+2676,351925,4
+2677,351930,7
+2678,351940,4
+2679,351950,4
+2680,351960,17
+2681,351970,20
+2682,351980,7
+2683,351990,4
+2684,352000,12
+2685,352010,4
+2686,352020,1
+2687,352030,20
+2688,352042,5
+2689,352044,4
+2690,352040,8
+2691,352050,53
+2692,352060,3
+2693,352070,1
+2694,352090,8
+2695,352100,56
+2696,352110,1
+2697,352115,1
+2698,352130,5
+2699,352140,6
+2700,352150,1
+2701,352160,33
+2702,352180,9
+2703,352190,2
+2704,352210,115
+2705,352215,1
+2706,352220,97
+2707,352230,85
+2708,352240,42
+2709,352250,129
+2710,352260,11
+2711,352265,1
+2712,352270,4
+2713,352280,4
+2714,352290,2
+2715,352310,137
+2716,352320,12
+2717,352330,12
+2718,352340,37
+2719,352350,2
+2720,352360,24
+2721,352390,42
+2722,352400,11
+2723,352410,10
+2724,352420,4
+2725,352430,19
+2726,352440,56
+2727,352450,2
+2728,352460,5
+2729,352470,13
+2730,352480,10
+2731,352500,41
+2732,352510,37
+2733,352520,15
+2734,352530,36
+2735,352550,1
+2736,352570,2
+2737,352580,1
+2738,352590,142
+2739,352600,68
+2740,352610,6
+2741,352620,14
+2742,352630,2
+2743,352640,20
+2744,352650,138
+2745,352660,1
+2746,352670,27
+2747,352680,32
+2748,352690,81
+2749,352710,18
+2750,352720,39
+2751,352730,6
+2752,352740,52
+2753,352780,2
+2754,352800,4
+2755,352810,1
+2756,352820,1
+2757,352830,3
+2758,352840,27
+2759,352850,26
+2760,352860,1
+2761,352870,33
+2762,352880,1
+2763,352890,1
+2764,352900,83
+2765,352920,68
+2766,352930,12
+2767,352940,187
+2768,352950,1
+2769,352960,1
+2770,352965,3
+2771,352970,6
+2772,352980,5
+2773,352990,10
+2774,353010,95
+2775,353020,1
+2776,353030,11
+2777,353050,13
+2778,353060,182
+2779,353070,38
+2780,353080,18
+2781,353090,2
+2782,353110,138
+2783,353130,11
+2784,353140,4
+2785,353150,2
+2786,353160,1
+2787,353180,16
+2788,353190,12
+2789,353200,1
+2790,353220,3
+2791,353240,3
+2792,353260,1
+2793,353282,3
+2794,353290,2
+2795,353300,3
+2796,353330,1
+2797,353340,10
+2798,353350,7
+2799,353360,1
+2800,353390,11
+2801,353400,1
+2802,353410,1
+2803,353420,2
+2804,353430,4
+2805,353440,379
+2806,353460,22
+2807,353470,37
+2808,353480,1
+2809,353475,4
+2810,353490,112
+2811,353500,1
+2812,353520,2
+2813,353530,7
+2814,353540,1
+2815,353550,23
+2816,353560,1
+2817,353580,3
+2818,353600,1
+2819,353610,2
+2820,353620,10
+2821,353625,2
+2822,353630,1
+2823,353650,25
+2824,353660,1
+2825,353670,6
+2826,353690,1
+2827,353710,11
+2828,353720,7
+2829,353730,10
+2830,353740,3
+2831,353750,6
+2832,353760,106
+2833,353780,13
+2834,353790,6
+2835,353800,39
+2836,353810,2
+2837,353820,1
+2838,353830,2
+2839,353850,5
+2840,353860,7
+2841,353870,220
+2842,353880,8
+2843,353890,75
+2844,353900,1
+2845,353910,6
+2846,353920,7
+2847,353930,21
+2848,353940,3
+2849,353950,11
+2850,353960,1
+2851,353970,1
+2852,353980,44
+2853,353990,1
+2854,354000,2
+2855,354010,1
+2856,354020,21
+2857,354025,2
+2858,354030,1
+2859,354040,2
+2860,354050,2
+2861,354060,45
+2862,354070,10
+2863,354075,92
+2864,354080,1
+2865,354085,16
+2866,354090,1
+2867,354100,347
+2868,354105,3
+2869,354120,88
+2870,354130,10
+2871,354140,69
+2872,354150,25
+2873,354160,5
+2874,354165,1
+2875,354170,2
+2876,354180,1
+2877,354190,1
+2878,354210,1
+2879,354220,12
+2880,354230,1
+2881,354240,3
+2882,354250,30
+2883,354260,40
+2884,354280,2
+2885,354290,4
+2886,354300,2
+2887,354310,1
+2888,354330,30
+2889,354340,257
+2890,354370,5
+2891,354380,1
+2892,354390,46
+2893,354400,5
+2894,354410,19
+2895,354420,45
+2896,354350,4
+2897,354425,2
+2898,354430,1
+2899,354450,1
+2900,354470,1
+2901,354490,2
+2902,354500,7
+2903,354515,1
+2904,354520,34
+2905,354530,8
+2906,354540,4
+2907,354550,1
+2908,354570,1
+2909,354580,24
+2910,354600,6
+2911,354610,1
+2912,354620,1
+2913,354630,6
+2914,354640,12
+2915,354650,1
+2916,354660,6
+2917,354670,6
+2918,354680,34
+2919,354690,2
+2920,354710,2
+2921,354740,1
+2922,354750,6
+2923,354760,3
+2924,354765,1
+2925,354720,1
+2926,354730,46
+2927,354770,3
+2928,354780,238
+2929,354800,3
+2930,354805,3
+2931,354810,2
+2932,354830,1
+2933,354850,403
+2934,354870,282
+2935,354880,22
+2936,354890,54
+2937,354900,2
+2938,354910,23
+2939,354925,1
+2940,354930,2
+2941,354940,8
+2942,354960,2
+2943,354970,11
+2944,354980,140
+2945,354990,207
+2946,354995,5
+2947,355000,6
+2948,355010,6
+2949,355020,10
+2950,355030,7573
+2951,355040,6
+2952,355050,4
+2953,355060,18
+2954,355070,43
+2955,355080,1
+2956,355090,6
+2957,355100,645
+2958,355110,1
+2959,355120,1
+2960,355140,29
+2961,355160,7
+2962,355150,11
+2963,355170,47
+2964,355180,4
+2965,355190,3
+2966,355200,3
+2967,355210,8
+2968,355220,228
+2969,355240,71
+2970,355250,119
+2971,355260,1
+2972,355270,4
+2973,355280,147
+2974,355300,1
+2975,355310,2
+2976,355320,3
+2977,355330,5
+2978,355340,5
+2979,355350,4
+2980,355365,6
+2981,355370,12
+2982,355380,53
+2983,355385,3
+2984,355390,1
+2985,355395,3
+2986,355400,34
+2987,355410,125
+2988,355430,2
+2989,355440,2
+2990,355450,11
+2991,355460,2
+2992,355470,2
+2993,355475,1
+2994,355480,123
+2995,355490,1
+2996,355495,1
+2997,355500,18
+2998,355510,80
+2999,355535,1
+3000,355540,38
+3001,355560,2
+3002,355570,1
+3003,355580,4
+3004,355600,2
+3005,355610,3
+3006,355620,8
+3007,355630,97
+3008,355635,1
+3009,355640,8
+3010,355645,14
+3011,355650,46
+3012,355660,4
+3013,355670,10
+3014,355680,5
+3015,355690,3
+3016,355700,38
+3017,355710,10
+3018,355715,2
+3019,410030,1
+3020,410040,22
+3021,410060,8
+3022,410070,7
+3023,410050,8
+3024,410080,3
+3025,410100,1
+3026,410105,1
+3027,410110,2
+3028,410120,9
+3029,410130,1
+3030,410140,26
+3031,410150,50
+3032,410160,4
+3033,410170,1
+3034,410180,24
+3035,410190,3
+3036,410200,3
+3037,410210,5
+3038,410230,2
+3039,410240,11
+3040,410280,5
+3041,410290,3
+3042,410302,1
+3043,410305,2
+3044,410310,3
+3045,410320,1
+3046,410330,2
+3047,410345,3
+3048,410347,1
+3049,410350,1
+3050,410360,5
+3051,410370,25
+3052,410390,3
+3053,410395,1
+3054,410400,9
+3055,410410,2
+3056,410420,13
+3057,410425,3
+3058,410430,23
+3059,410440,2
+3060,410442,3
+3061,410445,1
+3062,410450,3
+3063,410460,2
+3064,410465,4
+3065,410470,6
+3066,410480,50
+3067,410490,24
+3068,410500,3
+3069,410510,4
+3070,410520,2
+3071,410540,1
+3072,410550,8
+3073,410580,63
+3074,410590,3
+3075,410600,1
+3076,410610,1
+3077,410620,4
+3078,410630,1
+3079,410640,5
+3080,410650,6
+3081,410657,1
+3082,410660,7
+3083,410670,2
+3084,410690,391
+3085,410700,6
+3086,410715,1
+3087,410712,1
+3088,410720,5
+3089,410725,2
+3090,410753,1
+3091,410752,1
+3092,410765,22
+3093,410770,3
+3094,410775,3
+3095,410800,6
+3096,410810,2
+3097,410830,108
+3098,410832,7
+3099,410840,4
+3100,410850,4
+3101,410860,9
+3102,410865,3
+3103,410880,13
+3104,410890,3
+3105,410900,2
+3106,410920,1
+3107,410930,2
+3108,410940,37
+3109,410950,1
+3110,410960,17
+3111,410970,14
+3112,410980,21
+3113,411005,1
+3114,411007,3
+3115,411010,3
+3116,411060,4
+3117,411070,12
+3118,411090,1
+3119,411095,1
+3120,411110,1
+3121,411125,2
+3122,411150,3
+3123,411155,3
+3124,411180,10
+3125,411190,3
+3126,411200,6
+3127,411210,1
+3128,411220,1
+3129,411240,3
+3130,411250,1
+3131,411270,6
+3132,411275,1
+3133,411290,1
+3134,411295,1
+3135,411300,1
+3136,411310,1
+3137,411320,6
+3138,411330,9
+3139,411342,2
+3140,411345,2
+3141,411350,3
+3142,411370,154
+3143,411375,1
+3144,411380,5
+3145,411400,3
+3146,411410,1
+3147,411420,1
+3148,411430,1
+3149,411460,12
+3150,411470,1
+3151,411480,7
+3152,411490,2
+3153,411500,2
+3154,411510,9
+3155,411520,69
+3156,411535,1
+3157,411550,1
+3158,411560,2
+3159,411570,18
+3160,411575,3
+3161,411580,8
+3162,411585,1
+3163,411590,2
+3164,411610,2
+3165,411620,7
+3166,411640,1
+3167,411690,4
+3168,411700,2
+3169,411705,5
+3170,411720,3
+3171,411721,1
+3172,411722,3
+3173,411727,1
+3174,411729,1
+3175,411730,2
+3176,411750,9
+3177,411760,5
+3178,411770,5
+3179,411780,1
+3180,411790,4
+3181,411800,3
+3182,411810,4
+3183,411820,114
+3184,411830,1
+3185,411840,24
+3186,411850,11
+3187,411880,2
+3188,411885,1
+3189,411890,2
+3190,411900,1
+3191,411915,36
+3192,411920,1
+3193,411930,2
+3194,411940,2
+3195,411950,48
+3196,411960,4
+3197,411970,1
+3198,411990,65
+3199,411995,23
+3200,412000,3
+3201,412033,1
+3202,412035,2
+3203,412050,2
+3204,412060,2
+3205,412080,9
+3206,412090,4
+3207,412100,6
+3208,412120,3
+3209,412125,1
+3210,412130,1
+3211,412135,1
+3212,412140,2
+3213,412150,3
+3214,412170,5
+3215,412180,5
+3216,412190,2
+3217,412210,1
+3218,412215,3
+3219,412220,7
+3220,412230,4
+3221,412240,7
+3222,412250,1
+3223,412270,2
+3224,412290,4
+3225,412300,1
+3226,412350,3
+3227,412380,2
+3228,412382,1
+3229,412385,1
+3230,412390,2
+3231,412402,2
+3232,412405,5
+3233,412400,5
+3234,412410,10
+3235,412430,1
+3236,412440,3
+3237,412450,1
+3238,412470,3
+3239,412490,3
+3240,412500,3
+3241,412520,1
+3242,412545,3
+3243,412550,64
+3244,412560,2
+3245,412570,9
+3246,412575,3
+3247,412580,2
+3248,412610,1
+3249,412625,31
+3250,412630,1
+3251,412650,4
+3252,412660,2
+3253,412667,2
+3254,412680,3
+3255,412690,3
+3256,412700,1
+3257,412710,18
+3258,412720,2
+3259,412730,3
+3260,412750,1
+3261,412760,4
+3262,412770,25
+3263,412780,1
+3264,412785,3
+3265,412795,4
+3266,412796,1
+3267,412800,3
+3268,412810,62
+3269,412820,14
+3270,412840,1
+3271,412853,2
+3272,412855,2
+3273,412865,2
+3274,412870,1
+3275,412850,9
+3276,420005,1
+3277,420010,2
+3278,420020,1
+3279,420050,1
+3280,420060,1
+3281,420070,1
+3282,420080,1
+3283,420120,2
+3284,420125,1
+3285,420130,15
+3286,420140,39
+3287,420150,2
+3288,420170,2
+3289,420195,5
+3290,420205,5
+3291,420200,60
+3292,420207,1
+3293,421280,16
+3294,422000,10
+3295,420210,20
+3296,420213,3
+3297,420220,3
+3298,420230,53
+3299,420240,130
+3300,420245,5
+3301,420270,1
+3302,420280,9
+3303,420285,3
+3304,420290,32
+3305,420300,10
+3306,420310,1
+3307,420320,54
+3308,420330,1
+3309,420340,2
+3310,420350,1
+3311,420360,4
+3312,420370,12
+3313,420380,8
+3314,420395,5
+3315,420400,2
+3316,420415,1
+3317,420420,28
+3318,420425,4
+3319,420430,7
+3320,420445,1
+3321,420455,2
+3322,420450,1
+3323,420460,80
+3324,420470,2
+3325,420480,8
+3326,420490,1
+3327,420535,1
+3328,420540,261
+3329,420543,1
+3330,420545,8
+3331,420550,3
+3332,420555,1
+3333,420570,6
+3334,420580,5
+3335,420590,25
+3336,420600,6
+3337,420610,1
+3338,420620,1
+3339,420630,9
+3340,420640,1
+3341,420650,5
+3342,420665,2
+3343,420670,4
+3344,420690,6
+3345,420700,9
+3346,420720,2
+3347,420730,11
+3348,420750,15
+3349,420765,2
+3350,420768,1
+3351,420780,1
+3352,420800,1
+3353,420810,2
+3354,420820,162
+3355,420830,22
+3356,420845,3
+3357,420850,7
+3358,420870,1
+3359,420880,5
+3360,420890,19
+3361,420900,1
+3362,420910,235
+3363,420915,2
+3364,420930,44
+3365,420940,19
+3366,420950,1
+3367,420960,5
+3368,420970,2
+3369,420980,1
+3370,420990,1
+3371,421000,1
+3372,421010,3
+3373,421030,1
+3374,421040,1
+3375,421050,4
+3376,421060,1
+3377,421070,1
+3378,421080,1
+3379,421100,1
+3380,421110,1
+3381,421120,6
+3382,421130,63
+3383,421140,4
+3384,421150,6
+3385,421160,1
+3386,421170,6
+3387,421175,2
+3388,421190,85
+3389,421210,2
+3390,421220,3
+3391,421225,3
+3392,421230,3
+3393,421240,1
+3394,421250,21
+3395,421265,1
+3396,421270,2
+3397,421290,2
+3398,421300,1
+3399,421310,1
+3400,421320,1
+3401,421340,2
+3402,421350,12
+3403,421360,25
+3404,421380,2
+3405,421400,6
+3406,421420,2
+3407,421480,12
+3408,421470,2
+3409,421490,1
+3410,421500,4
+3411,421505,2
+3412,421510,1
+3413,421540,1
+3414,421545,5
+3415,421550,1
+3416,421555,1
+3417,421560,1
+3418,421565,2
+3419,421570,13
+3420,421580,10
+3421,421605,2
+3422,421620,28
+3423,421630,8
+3424,421650,1
+3425,421660,96
+3426,421690,1
+3427,421700,1
+3428,421710,1
+3429,421715,1
+3430,421720,6
+3431,421725,15
+3432,421730,1
+3433,421740,2
+3434,421750,1
+3435,421755,1
+3436,421760,3
+3437,421770,4
+3438,421775,1
+3439,421780,2
+3440,421790,1
+3441,421800,23
+3442,421810,1
+3443,421820,6
+3444,421830,9
+3445,421860,1
+3446,421870,32
+3447,421880,1
+3448,421890,1
+3449,421900,3
+3450,421930,6
+3451,421950,8
+3452,421960,1
+3453,421970,11
+3454,430005,2
+3455,430010,2
+3456,430020,2
+3457,430030,2
+3458,430040,31
+3459,430050,1
+3460,430060,273
+3461,430063,1
+3462,430064,2
+3463,430080,5
+3464,430085,3
+3465,430087,6
+3466,430090,1
+3467,430100,4
+3468,430105,1
+3469,430120,5
+3470,430110,20
+3471,430130,4
+3472,430140,1
+3473,430150,1
+3474,430155,1
+3475,430160,62
+3476,430163,7
+3477,430170,3
+3478,430175,1
+3479,430187,1
+3480,430190,13
+3481,430200,3
+3482,430205,2
+3483,430210,32
+3484,430215,2
+3485,430223,1
+3486,430230,2
+3487,430235,4
+3488,430240,3
+3489,430250,1
+3490,430265,1
+3491,430270,12
+3492,430280,10
+3493,430290,6
+3494,430300,47
+3495,430310,77
+3496,430350,34
+3497,430355,1
+3498,430360,2
+3499,430370,1
+3500,430380,1
+3501,430390,8
+3502,430400,1
+3503,430410,1
+3504,430420,6
+3505,430435,1
+3506,430440,11
+3507,430450,2
+3508,430460,248
+3509,430463,45
+3510,430466,9
+3511,430468,7
+3512,430471,9
+3513,430470,18
+3514,430480,1
+3515,430490,1
+3516,430500,1
+3517,430510,252
+3518,430511,1
+3519,430512,1
+3520,430517,8
+3521,430520,4
+3522,430535,120
+3523,430537,2
+3524,430545,13
+3525,430558,1
+3526,430580,1
+3527,430595,1
+3528,430600,2
+3529,430605,2
+3530,430610,19
+3531,430620,4
+3532,430630,2
+3533,430632,1
+3534,430635,1
+3535,430640,3
+3536,430645,2
+3537,430650,1
+3538,430660,8
+3539,430655,1
+3540,430676,24
+3541,430680,6
+3542,430690,9
+3543,430700,25
+3544,430730,1
+3545,430740,1
+3546,430750,5
+3547,430760,29
+3548,430770,54
+3549,430780,9
+3550,430781,1
+3551,430783,1
+3552,430790,16
+3553,430800,2
+3554,430805,1
+3555,430807,1
+3556,430810,2
+3557,430820,4
+3558,430830,3
+3559,430850,6
+3560,430860,3
+3561,430870,2
+3562,430880,1
+3563,430885,3
+3564,430900,1
+3565,430905,5
+3566,430910,5
+3567,430912,1
+3568,430920,171
+3569,430930,73
+3570,430940,8
+3571,430955,1
+3572,430710,2
+3573,430960,1
+3574,431000,1
+3575,431010,8
+3576,431020,24
+3577,431030,1
+3578,431033,6
+3579,431043,3
+3580,431046,1
+3581,431050,2
+3582,431053,3
+3583,431057,1
+3584,431060,8
+3585,431080,6
+3586,431090,3
+3587,431100,16
+3588,431110,1
+3589,431112,1
+3590,431113,1
+3591,431115,1
+3592,431120,1
+3593,431123,3
+3594,431130,9
+3595,431125,1
+3596,431140,67
+3597,431142,1
+3598,431150,2
+3599,431160,7
+3600,431162,1
+3601,431164,1
+3602,431171,1
+3603,431175,3
+3604,431179,1
+3605,431180,14
+3606,431190,1
+3607,431198,1
+3608,431215,2
+3609,431220,1
+3610,431225,7
+3611,431230,1
+3612,431235,2
+3613,431238,1
+3614,431240,50
+3615,431245,1
+3616,431247,3
+3617,431250,2
+3618,431260,1
+3619,431261,1
+3620,431265,7
+3621,431270,4
+3622,431280,1
+3623,431300,2
+3624,431306,5
+3625,431310,1
+3626,431320,1
+3627,431337,14
+3628,431349,1
+3629,431340,123
+3630,431350,30
+3631,431360,2
+3632,431365,2
+3633,431370,10
+3634,431380,2
+3635,431390,1
+3636,431395,5
+3637,431403,1
+3638,431405,14
+3639,431407,1
+3640,431410,106
+3641,431420,5
+3642,431440,220
+3643,431442,3
+3644,431446,1
+3645,431447,1
+3646,431449,2
+3647,431450,4
+3648,431454,1
+3649,431460,4
+3650,431470,1
+3651,431480,10
+3652,431490,1803
+3653,431510,4
+3654,431513,1
+3655,431515,2
+3656,431520,1
+3657,431532,1
+3658,431535,1
+3659,431540,3
+3660,431545,2
+3661,431550,4
+3662,431555,3
+3663,431560,267
+3664,431570,15
+3665,431575,1
+3666,431580,1
+3667,431590,2
+3668,431600,6
+3669,431610,2
+3670,431620,1
+3671,431630,4
+3672,431640,15
+3673,431642,3
+3674,431645,3
+3675,431647,2
+3676,431660,2
+3677,431710,20
+3678,431680,84
+3679,431697,1
+3680,431690,145
+3681,431720,14
+3682,431730,11
+3683,431700,2
+3684,431740,13
+3685,431750,9
+3686,431760,17
+3687,431770,3
+3688,431780,1
+3689,431790,1
+3690,431800,20
+3691,431805,3
+3692,431810,3
+3693,431820,5
+3694,431830,13
+3695,431840,10
+3696,431844,1
+3697,431850,15
+3698,431862,2
+3699,431870,139
+3700,431880,14
+3701,431890,15
+3702,431900,11
+3703,431910,1
+3704,431915,1
+3705,431920,1
+3706,431936,1
+3707,431940,3
+3708,431950,14
+3709,431960,5
+3710,431980,1
+3711,431990,29
+3712,432000,115
+3713,432010,5
+3714,432020,2
+3715,432026,7
+3716,432035,1
+3717,432040,1
+3718,432055,1
+3719,432065,1
+3720,432067,1
+3721,432070,6
+3722,432080,4
+3723,432085,1
+3724,432090,8
+3725,432110,7
+3726,432120,19
+3727,432130,8
+3728,432140,3
+3729,432143,1
+3730,432145,1
+3731,432146,1
+3732,432147,1
+3733,432150,26
+3734,432160,25
+3735,432166,2
+3736,432170,3
+3737,432183,1
+3738,432190,8
+3739,432200,9
+3740,432210,1
+3741,432220,11
+3742,432230,1
+3743,432232,1
+3744,432235,1
+3745,432240,74
+3746,432250,44
+3747,432252,2
+3748,432255,1
+3749,432260,34
+3750,432270,13
+3751,432280,5
+3752,432290,1
+3753,432300,200
+3754,432320,1
+3755,432370,1
+3756,432375,2
+3757,432377,1
+3758,432380,6
+3759,500020,13
+3760,500025,1
+3761,500060,52
+3762,500070,9
+3763,500080,1
+3764,500085,1
+3765,500090,2
+3766,500100,3
+3767,500110,30
+3768,500124,4
+3769,500150,1
+3770,500190,5
+3771,500200,1
+3772,500210,8
+3773,500215,3
+3774,500220,7
+3775,500230,1
+3776,500240,15
+3777,500260,5
+3778,500270,409
+3779,500280,2
+3780,500290,1
+3781,500295,4
+3782,500310,2
+3783,500315,10
+3784,500320,72
+3785,500325,4
+3786,500330,16
+3787,500345,3
+3788,500348,7
+3789,500350,2
+3790,500370,117
+3791,500375,3
+3792,500380,8
+3793,500400,2
+3794,500410,1
+3795,500430,8
+3796,500440,2
+3797,500450,6
+3798,500460,2
+3799,500470,5
+3800,500490,3
+3801,500500,22
+3802,500510,1
+3803,500515,1
+3804,500520,18
+3805,500525,2
+3806,500540,9
+3807,500560,11
+3808,500568,4
+3809,500570,28
+3810,500580,3
+3811,500600,3
+3812,500620,9
+3813,500625,2
+3814,500630,16
+3815,500635,16
+3816,500640,2
+3817,500660,32
+3818,500690,3
+3819,500710,13
+3820,500720,11
+3821,500730,3
+3822,500740,6
+3823,500750,1
+3824,500769,6
+3825,500780,2
+3826,500770,3
+3827,500790,6
+3828,500793,4
+3829,500795,9
+3830,500800,8
+3831,500830,41
+3832,500840,1
+3833,510020,5
+3834,510025,23
+3835,510035,1
+3836,510050,1
+3837,510060,1
+3838,510080,3
+3839,510125,4
+3840,510130,6
+3841,510140,2
+3842,510170,17
+3843,510180,27
+3844,510185,2
+3845,510190,5
+3846,510250,29
+3847,510260,8
+3848,510263,13
+3849,510267,2
+3850,510268,3
+3851,510270,2
+3852,510279,2
+3853,510300,10
+3854,510310,2
+3855,510320,6
+3856,510325,3
+3857,510330,7
+3858,510335,3
+3859,510336,2
+3860,510337,3
+3861,510340,481
+3862,510343,1
+3863,510345,1
+3864,510350,4
+3865,510370,4
+3866,510385,4
+3867,510390,2
+3868,510410,15
+3869,510420,4
+3870,510452,1
+3871,510455,1
+3872,510460,2
+3873,510480,3
+3874,510490,3
+3875,510500,1
+3876,510510,4
+3877,510515,11
+3878,510517,3
+3879,510520,2
+3880,510523,1
+3881,510525,23
+3882,510530,1
+3883,510558,2
+3884,510560,5
+3885,510562,3
+3886,510590,7
+3887,510610,4
+3888,510615,3
+3889,510620,1
+3890,510621,3
+3891,510618,3
+3892,510890,1
+3893,510895,2
+3894,510622,12
+3895,510617,4
+3896,510623,7
+3897,510624,2
+3898,510625,7
+3899,510627,1
+3900,510626,2
+3901,510631,2
+3902,510628,2
+3903,510629,5
+3904,510630,10
+3905,510637,1
+3906,510642,46
+3907,510645,1
+3908,510650,23
+3909,510665,1
+3910,510675,18
+3911,510685,3
+3912,510700,4
+3913,510704,12
+3914,510706,2
+3915,510718,3
+3916,510760,88
+3917,510770,6
+3918,510775,1
+3919,510724,2
+3920,510774,1
+3921,510776,2
+3922,510777,2
+3923,510780,11
+3924,510785,2
+3925,510730,4
+3926,510735,6
+3927,510710,5
+3928,510740,1
+3929,510787,11
+3930,510790,30
+3931,510792,15
+3932,510795,38
+3933,510800,4
+3934,510805,1
+3935,510835,1
+3936,510840,201
+3937,510550,19
+3938,510860,4
+3939,520005,1
+3940,520010,1
+3941,520013,3
+3942,520025,27
+3943,520030,5
+3944,520055,1
+3945,520060,7
+3946,520080,1
+3947,520082,1
+3948,520085,1
+3949,520110,45
+3950,520130,1
+3951,520140,238
+3952,520170,2
+3953,520180,1
+3954,520250,2
+3955,520330,9
+3956,520350,1
+3957,520355,5
+3958,520357,1
+3959,520396,1
+3960,520400,3
+3961,520425,1
+3962,520440,2
+3963,520450,13
+3964,520455,3
+3965,520470,4
+3966,520480,1
+3967,520485,1
+3968,520490,5
+3969,520495,2
+3970,520500,1
+3971,520505,1
+3972,520510,8
+3973,520530,1
+3974,520540,4
+3975,520547,1
+3976,520549,3
+3977,520551,3
+3978,520580,1
+3979,520620,8
+3980,520640,5
+3981,520660,2
+3982,520710,1
+3983,520830,1
+3984,520725,1
+3985,520740,1
+3986,520753,2
+3987,520790,5
+3988,520800,21
+3989,520810,1
+3990,520840,1
+3991,520860,9
+3992,520870,279
+3993,520880,21
+3994,520890,12
+3995,520910,4
+3996,520915,2
+3997,520920,3
+3998,520945,1
+3999,520970,7
+4000,520980,1
+4001,520990,2
+4002,520995,4
+4003,521000,5
+4004,521010,3
+4005,521020,3
+4006,521040,4
+4007,521056,1
+4008,521060,1
+4009,521080,1
+4010,521090,1
+4011,521100,2
+4012,521120,1
+4013,521130,1
+4014,521140,1
+4015,521150,13
+4016,521180,1
+4017,521190,9
+4018,521220,3
+4019,521250,31
+4020,521280,1
+4021,521300,2
+4022,521308,4
+4023,521310,10
+4024,521350,2
+4025,521370,1
+4026,521375,1
+4027,521377,8
+4028,521380,1
+4029,521390,2
+4030,521400,2
+4031,521405,2
+4032,521440,2
+4033,521450,6
+4034,521460,7
+4035,521483,3
+4036,521486,1
+4037,521523,14
+4038,521530,1
+4039,521560,6
+4040,521570,1
+4041,521580,1
+4042,521630,1
+4043,521640,4
+4044,521680,1
+4045,521690,1
+4046,521710,4
+4047,521720,2
+4048,521730,3
+4049,521740,4
+4050,521760,18
+4051,521770,2
+4052,521800,7
+4053,521830,2
+4054,521850,1
+4055,521860,2
+4056,521878,1
+4057,521880,36
+4058,521890,1
+4059,521920,1
+4060,521930,5
+4061,521973,3
+4062,521975,4
+4063,522000,2
+4064,522010,2
+4065,522020,15
+4066,522040,7
+4067,522045,23
+4068,522060,3
+4069,522068,1
+4070,522100,1
+4071,522119,3
+4072,522140,38
+4073,522145,1
+4074,522155,2
+4075,522157,3
+4076,522160,5
+4077,522170,1
+4078,522185,31
+4079,522200,1
+4080,522205,1
+4081,522230,1
+4082,530010,361
+4083,0,65
