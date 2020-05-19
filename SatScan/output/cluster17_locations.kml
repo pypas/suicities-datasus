@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<name>Cluster 17 Locations</name>
+		<Placemark><name>170460</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-49.13,-10.14,0</coordinates></Point></Placemark>
+		<Placemark><name>171370</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.99,-10,0</coordinates></Point></Placemark>
+		<Placemark><name>171610</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.86,-10.17,0</coordinates></Point></Placemark>
+		<Placemark><name>171750</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-49.18,-10.44,0</coordinates></Point></Placemark>
+		<Placemark><name>170710</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-49.21,-9.8,0</coordinates></Point></Placemark>
+		<Placemark><name>171845</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.89,-10.42,0</coordinates></Point></Placemark>
+		<Placemark><name>170610</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-49.19,-10.6,0</coordinates></Point></Placemark>
+</Document>
+</kml>

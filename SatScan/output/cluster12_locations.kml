@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<name>Cluster 12 Locations</name>
+		<Placemark><name>313753</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.51,-17.83,0</coordinates></Point></Placemark>
+		<Placemark><name>313630</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.17,-17.74,0</coordinates></Point></Placemark>
+		<Placemark><name>317100</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.9,-17.98,0</coordinates></Point></Placemark>
+		<Placemark><name>313710</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.8,-18.17,0</coordinates></Point></Placemark>
+		<Placemark><name>312860</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.09,-17.77,0</coordinates></Point></Placemark>
+		<Placemark><name>315340</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.41,-18.41,0</coordinates></Point></Placemark>
+		<Placemark><name>314700</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.87,-17.22,0</coordinates></Point></Placemark>
+		<Placemark><name>317075</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.03,-18.37,0</coordinates></Point></Placemark>
+		<Placemark><name>314800</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.51,-18.57,0</coordinates></Point></Placemark>
+		<Placemark><name>316170</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-45.83,-18.33,0</coordinates></Point></Placemark>
+		<Placemark><name>311930</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.2,-18.47,0</coordinates></Point></Placemark>
+		<Placemark><name>313750</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.4,-18.77,0</coordinates></Point></Placemark>
+		<Placemark><name>310855</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-46,-17.01,0</coordinates></Point></Placemark>
+		<Placemark><name>312890</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.79,-18.84,0</coordinates></Point></Placemark>
+		<Placemark><name>520690</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.56,-18.15,0</coordinates></Point></Placemark>
+		<Placemark><name>310010</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.4,-18.48,0</coordinates></Point></Placemark>
+		<Placemark><name>312070</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.67,-18.94,0</coordinates></Point></Placemark>
+		<Placemark><name>311430</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.31,-19,0</coordinates></Point></Placemark>
+		<Placemark><name>312350</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.6,-18.43,0</coordinates></Point></Placemark>
+		<Placemark><name>314810</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.99,-18.94,0</coordinates></Point></Placemark>
+		<Placemark><name>312247</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.27,-16.65,0</coordinates></Point></Placemark>
+		<Placemark><name>520480</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.78,-17.63,0</coordinates></Point></Placemark>
+		<Placemark><name>310380</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.15,-19.03,0</coordinates></Point></Placemark>
+		<Placemark><name>316935</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-45.24,-18.2,0</coordinates></Point></Placemark>
+		<Placemark><name>316890</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-45.96,-19,0</coordinates></Point></Placemark>
+</Document>
+</kml>
