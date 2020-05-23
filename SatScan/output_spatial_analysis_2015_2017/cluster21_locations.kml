@@ -3,10 +3,10 @@
 <Document>
 
 <name>Cluster 21 Locations</name>
-		<Placemark><name>211250</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.27,-2.76,0</coordinates></Point></Placemark>
-		<Placemark><name>210015</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.11,-2.84,0</coordinates></Point></Placemark>
-		<Placemark><name>210805</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.53,-2.71,0</coordinates></Point></Placemark>
-		<Placemark><name>211023</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.41,-3.11,0</coordinates></Point></Placemark>
-		<Placemark><name>210090</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-41.9,-2.89,0</coordinates></Point></Placemark>
+		<Placemark><name>211250</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.27,-2.76,0</coordinates></Point></Placemark>
+		<Placemark><name>210015</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.11,-2.84,0</coordinates></Point></Placemark>
+		<Placemark><name>210805</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.53,-2.71,0</coordinates></Point></Placemark>
+		<Placemark><name>211023</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#low-rate-placemark</styleUrl><Point><coordinates>-42.41,-3.11,0</coordinates></Point></Placemark>
+		<Placemark><name>210090</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#low-rate-placemark</styleUrl><Point><coordinates>-41.9,-2.89,0</coordinates></Point></Placemark>
 </Document>
 </kml>

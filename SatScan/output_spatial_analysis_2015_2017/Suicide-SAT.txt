@@ -4,7 +4,7 @@
                                  _____________________________
 
 
-Program run on: Thu May 21 15:52:38 2020
+Program run on: Sat May 23 17:23:25 2020
 
 Purely Spatial analysis
 scanning for clusters with high or low rates
@@ -1207,10 +1207,12 @@ Analysis
 
 Output
 ------
-  Main Results File : C:\Users\marco\Desktop\clustering\2015_2017\output_only_spatial_high_low\output.txt
-  Google Earth File : C:\Users\marco\Desktop\clustering\2015_2017\output_only_spatial_high_low\output.kml
-  Shapefile         : C:\Users\marco\Desktop\clustering\2015_2017\output_only_spatial_high_low\output.col.shp
-  Cluster File      : C:\Users\marco\Desktop\clustering\2015_2017\output_only_spatial_high_low\output.col.dbf
+  Main Results File : C:\Users\marco\TCC\SatScan\output_spatial_analysis_2015_2017\Suicide-SAT.txt
+  Google Earth File : C:\Users\marco\TCC\SatScan\output_spatial_analysis_2015_2017\Suicide-SAT.kml
+  Shapefile         : C:\Users\marco\TCC\SatScan\output_spatial_analysis_2015_2017\Suicide-SAT.col.shp
+  Cluster File      : C:\Users\marco\TCC\SatScan\output_spatial_analysis_2015_2017\Suicide-SAT.col.dbf
+  Location File     : C:\Users\marco\TCC\SatScan\output_spatial_analysis_2015_2017\Suicide-SAT.gis.txt
+  Location File     : C:\Users\marco\TCC\SatScan\output_spatial_analysis_2015_2017\Suicide-SAT.gis.dbf
 
 Data Checking
 -------------
@@ -1264,8 +1266,9 @@ Spatial Output
 
 Other Output
 ------------
-  Report Critical Values  : No
-  Report Monte Carlo Rank : No
+  Report Critical Values     : No
+  Report Monte Carlo Rank    : No
+  Print ASCII Column Headers : No
 
 Run Options
 -----------
@@ -1274,6 +1277,6 @@ Run Options
   Logging Analysis  : No
 _______________________________________________________________________________________________
 
-Program completed  : Thu May 21 15:53:28 2020
+Program completed  : Sat May 23 17:24:15 2020
 Total Running Time : 50 seconds
 Processor Usage    : 8 processors

@@ -70,7 +70,7 @@ TimeAggregationLength=1
 
 [Output]
 ;analysis main results output filename
-ResultsFile=C:\Users\marco\Desktop\clustering\2015_2017\output_only_spatial_high_low\output.txt
+ResultsFile=C:\Users\marco\TCC\SatScan\output_spatial_analysis_2015_2017\Suicide-SAT.txt
 ;output Google Earth KML file (y/n)
 OutputGoogleEarthKML=y
 ;output shapefiles (y/n)
@@ -86,9 +86,9 @@ MostLikelyClusterCaseInfoEachCentroidASCII=n
 ;output cluster case information in dBase format? (y/n)
 MostLikelyClusterCaseInfoEachCentroidDBase=n
 ;output location information in ASCII format? (y/n)
-CensusAreasReportedClustersASCII=n
+CensusAreasReportedClustersASCII=y
 ;output location information in dBase format? (y/n)
-CensusAreasReportedClustersDBase=n
+CensusAreasReportedClustersDBase=y
 ;output risk estimates in ASCII format? (y/n)
 IncludeRelativeRisksCensusAreasASCII=n
 ;output risk estimates in dBase format? (y/n)
