@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<name>Cluster 20 Locations</name>
+		<Placemark><name>313510</name><visibility>0</visibility><description></description><styleUrl>Suicide-SAT.kml#high-rate-placemark</styleUrl><Point><coordinates>-43.3,-15.8,0</coordinates></Point></Placemark>
+</Document>
+</kml>
