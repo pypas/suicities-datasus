@@ -1,0 +1,180 @@
+FONTES DOS DADOS
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5598765/ - CID-9 das doenças
+http://www.icd9data.com/2015/Volume1/320-389/320-327/322/default.htm - conversao CID-9 para CID-10
+http://tabnet.datasus.gov.br/cgi/sih/mxcid10lm.htm - conversao CID-10 para Lista Morb CID-10
+
+- SIH
+Internações por Ano processamento segundo Município
+Período: 2008-2018
+
+2. Diabetes - SIH
+Lista Morb CID-10: Diabetes mellitus
+
+1. ASMA
+Nome: Asthma
+Fonte: SIH
+CID-9: 493
+CID-10: J45
+Lista Morb CID-10: Asma (J45-J46)
+
+2. DORSOPATIAS
+Nome: back pain
+Fonte: SIH
+CID-9: 720.0–724.9
+CID-10: M40 - M54
+Lista Morb CID-10: Outras dorsopatias (M40-M49, M53-M54)
+
+3. CANCER
+Nome: cancer
+Fonte: SIH
+CID-9: 140–209
+CID-10: C
+Lista Morb CID-10: 
+Neoplasia maligna do lábio, cavidade oral e faringe	C00-C14
+Neoplasia maligna do esôfago	C15
+Neoplasia maligna do estômago	C16
+Neoplasia maligna do cólon	C18
+Neoplasia maligna da junção retossigmóide, reto, ânus e canal anal	C19-C21
+Neoplasia maligna do fígado e das vias biliares intra-hepáticas	C22
+Neoplasia maligna do pâncreas	C25
+Outras neoplasias malignas de órgãos digestivos	C17, C23-C24, C26
+Neoplasias malignas de laringe	C32
+Neoplasia maligna da traquéia, dos brônquios e dos pulmões	C33-C34
+Outras neoplasias malignas de órgãos respiratórios e intratorácicos	C30-C31, C37-C39
+Neoplasia maligna do osso e da cartilagem articular	C40-C41
+Neoplasia maligna da pele	C43
+Outras neoplasias malignas da pele	C44
+Neoplasias malignas do tecido mesotelial e tecidos moles	C45-C49
+Neoplasia maligna da mama	C50
+Neoplasia maligna do colo do útero	C53
+Neoplasia maligna de outras porções e de porções não especificadas do útero	C54-C55
+Outras neoplasias malignas dos órgãos genitais femininos	C51-C52, C56-C58
+Neoplasia maligna da próstata	C61
+Outras neoplasias malignas dos órgãos genitais masculinos	C60, C62-C63
+Neoplasia maligna da bexiga	C67
+Outras neoplasias malignas do trato urinário	C64-C66, C68
+Neoplasia maligna dos olhos e anexos	C69
+Neoplasia maligna do encéfalo	C71
+Neoplasia maligna de outras partes do sistema nervoso central	C70, C72
+Neoplasias malignas de outras localizações, de localização mal definida, secundárias e de localização não especificada	C73-C80, C97
+Doença de Hodgkin	C81
+Linfoma não-Hodgkin	C82-C85
+Leucemia	C91-C95
+Outras neoplasias malignas de tecidos linfóide, hematopoético e relacionados	C88-C90, C96
+
+4. INSUFICIENCIA_CARDIACA
+Nome: congestive heart failure 
+Fonte: SIH
+CID-9: 402.01, 402.11, 402.91, 404.01, 404.03, 404.11, 404.13, 404.91, 404.93, 428
+CID-10: I11, I13.0, I13.2, I50
+Lista Morb CID-10: Outras doenças hipertensivas (I11-I15) + Insuficiência cardíaca (I50)
+
+5. DPOC
+Nome: chronic obstructive pulmonary disease
+Fonte: SIH
+CID-9: 490–492, 494, 496
+CID-10: J40, J41.0, J41.1, J41.8, J42, J44.0, J44.1, J44.9, J43.9, J47.1, J47.9, J44.9
+Lista Morb CID-10: Bronquite, enfisema e outras doenças pulmonares obstrutivas crônicas (J40-J44)
+
+5. DIABETES_MELLITUS
+Nome: diabetes mellitus 
+Fonte: SIH
+CID-9: 250
+CID-10: E10-E14
+Lista Morb CID-10: Diabetes mellitus
+
+6. EPILEPSIA
+Nome: epilepsy 
+Fonte: SIH
+CID-9: 345
+CID-10: G40
+Lista Morb CID-10: Epilepsia (G40-G41)
+
+7. TECIDO_MOLE
+Nome: fibromyalgia 
+Fonte: SIH
+CID-9: 729.1
+CID-10: M60.9, M79.1 ou M79.7
+Lista Morb CID-10: Transtornos do tecido mole (M60-M79)
+
+8. DOENCA_CARDIACA
+Nome: heart disease 
+Fonte: SIH
+CID-9: 410–414
+CID-10: I20, I21, I24, I25
+Lista Morb CID-10: Infarto agudo do miocárdio (I21-I22) e Outras doenças isquêmicas do coração	(I20, I23-I25)
+
+9. HIV
+Nome:HIV/AIDS
+Fonte: SIH
+CID-9: 042, 043, 044, V08
+CID-10: B20, 
+Lista Morb CID-10: Doença pelo vírus da imunodeficiência humana [HIV] (B20-B24)
+
+10. HIPERTENSAO
+Nome: hypertension 
+Fonte: SIH
+CID-9: 401
+CID-10: I10
+Lista Morb CID-10: Hipertensão essencial (primária) (I10)
+
+11. ENXAQUECA
+Nome: migraine
+Fonte: SIH
+CID-9: 346
+CID-10: G43
+Lista Morb CID-10: Enxaqueca e outras síndromes de algias cefálicos	(G43-G44)
+
+12. ESCLEROSE_MULTIPLA
+Nome: multiple sclerosis 
+Fonte: SIH
+CID-9: 340
+CID-10: G35
+Lista Morb CID-10: Esclerose múltiplas
+
+13. OSTEOPOROSE
+Nome: osteoporosis
+Fonte: SIH
+CID-9: 733.0–733.09
+CID-10: M81.0, M81.8
+Lista Morb CID-10: Transtornos da densidade e da estrutura ósseas (M80-M85)
+
+14. DOENCA_DE_PARKINSON
+Nome: Parkinson's disease
+Fonte: SIH
+CID-9: 332
+CID-10: G20, G21
+Lista Morb CID-10: Doença de Parkinson (G20)
+
+15. NAO USAMOS
+Nome: psychogenic pain 
+Fonte: SIH
+CID-9: 307.8, 307.89
+CID-10: F45.4
+Lista Morb CID-10: Transtornos neuróticos, transtornos relacionados com o "stress" e transtornos somatoformes (F40-F48)
+
+16. INSUFICIENCIA_RENAL
+Nome: renal disease 
+Fonte: SIH
+CID-9: 403, 582, 583, 585, 586, 588, 404.02, 404.12, 404.92, 593.9
+CID-10: I12, I13, N03, N05, N08, N17, N18, N25, N28
+Lista Morb CID-10: Insuficiência renal (N17-N19)
+OBS: Outras doenças hipertensivas (I11-I15), Outras doenças do aparelho urinário (N25-N29, N31-N39)
+
+17.NAO USAMOS
+Nome: sleep disorder
+Fonte: SIH
+CID-9: 291.82, 307.4, 327, 780.5
+CID-10: F10, F51, G47
+Lista Morb CID-10: --
+OBS: Transtornos mentais e comportamentais devidos ao uso de álcool (F10)
+Outros transtornos mentais e comportamentais (F04-F09, F50-F69, F80-F99)
+Transtornos neuróticos, transtornos relacionados com o "stress" e transtornos somatoformes (F40-F48)
+
+18. TRAUMATISMO_INTRACRANIANO
+Nome: traumatic brain injury
+Fonte: SIH
+CID-9: 800, 801, 803, 804, 850–854
+CID-10: S02, S06
+Lista Morb CID-10: Traumatismo intracraniano (S06), Fratura do crânio e dos ossos da face (S02)
