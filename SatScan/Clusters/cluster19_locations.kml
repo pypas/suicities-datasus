@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<name>Cluster 19 Locations</name>
+		<Placemark><name>171790</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.53,-10.74,0</coordinates></Point></Placemark>
+		<Placemark><name>171195</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.55,-10.37,0</coordinates></Point></Placemark>
+		<Placemark><name>171700</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.57,-11.13,0</coordinates></Point></Placemark>
+		<Placemark><name>171900</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.8,-10.28,0</coordinates></Point></Placemark>
+		<Placemark><name>171360</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.1,-10.76,0</coordinates></Point></Placemark>
+		<Placemark><name>172065</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.16,-11.14,0</coordinates></Point></Placemark>
+		<Placemark><name>171510</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.67,-9.96,0</coordinates></Point></Placemark>
+		<Placemark><name>171820</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.41,-10.7,0</coordinates></Point></Placemark>
+		<Placemark><name>170510</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.75,-11.61,0</coordinates></Point></Placemark>
+		<Placemark><name>170110</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.97,-9.95,0</coordinates></Point></Placemark>
+		<Placemark><name>170040</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.16,-11.57,0</coordinates></Point></Placemark>
+		<Placemark><name>171890</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.12,-11.44,0</coordinates></Point></Placemark>
+		<Placemark><name>171865</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.88,-11.39,0</coordinates></Point></Placemark>
+		<Placemark><name>172100</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.33,-10.16,0</coordinates></Point></Placemark>
+		<Placemark><name>171800</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.04,-11.6,0</coordinates></Point></Placemark>
+		<Placemark><name>171420</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.72,-11.71,0</coordinates></Point></Placemark>
+		<Placemark><name>170980</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.46,-11.23,0</coordinates></Point></Placemark>
+		<Placemark><name>172015</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.65,-10.16,0</coordinates></Point></Placemark>
+		<Placemark><name>170370</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.56,-11,0</coordinates></Point></Placemark>
+		<Placemark><name>171270</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.42,-10.54,0</coordinates></Point></Placemark>
+		<Placemark><name>170700</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.82,-11.62,0</coordinates></Point></Placemark>
+		<Placemark><name>171200</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.35,-9.75,0</coordinates></Point></Placemark>
+		<Placemark><name>170755</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.9,-10.76,0</coordinates></Point></Placemark>
+		<Placemark><name>171550</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.9,-10.7,0</coordinates></Point></Placemark>
+		<Placemark><name>171889</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.91,-10.86,0</coordinates></Point></Placemark>
+		<Placemark><name>171500</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.91,-10.56,0</coordinates></Point></Placemark>
+		<Placemark><name>171845</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.89,-10.42,0</coordinates></Point></Placemark>
+		<Placemark><name>171525</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.62,-11.82,0</coordinates></Point></Placemark>
+		<Placemark><name>170625</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.91,-11.1,0</coordinates></Point></Placemark>
+		<Placemark><name>172049</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.23,-11.97,0</coordinates></Point></Placemark>
+		<Placemark><name>171610</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.86,-10.17,0</coordinates></Point></Placemark>
+		<Placemark><name>171240</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.67,-9.59,0</coordinates></Point></Placemark>
+		<Placemark><name>172110</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.37,-9.56,0</coordinates></Point></Placemark>
+		<Placemark><name>171875</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.9,-9.34,0</coordinates></Point></Placemark>
+		<Placemark><name>171320</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.39,-9.56,0</coordinates></Point></Placemark>
+		<Placemark><name>170310</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.72,-9.83,0</coordinates></Point></Placemark>
+		<Placemark><name>170035</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.93,-11.3,0</coordinates></Point></Placemark>
+		<Placemark><name>170560</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.29,-12.21,0</coordinates></Point></Placemark>
+		<Placemark><name>172093</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.98,-12.18,0</coordinates></Point></Placemark>
+		<Placemark><name>171330</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.59,-9.52,0</coordinates></Point></Placemark>
+		<Placemark><name>171660</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.53,-12.02,0</coordinates></Point></Placemark>
+		<Placemark><name>171370</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.99,-10,0</coordinates></Point></Placemark>
+		<Placemark><name>170610</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-49.19,-10.6,0</coordinates></Point></Placemark>
+		<Placemark><name>171750</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-49.18,-10.44,0</coordinates></Point></Placemark>
+		<Placemark><name>170460</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-49.13,-10.14,0</coordinates></Point></Placemark>
+		<Placemark><name>171780</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.47,-12.09,0</coordinates></Point></Placemark>
+		<Placemark><name>171870</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.46,-9.29,0</coordinates></Point></Placemark>
+		<Placemark><name>170950</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-49.06,-11.72,0</coordinates></Point></Placemark>
+		<Placemark><name>170410</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.33,-8.95,0</coordinates></Point></Placemark>
+		<Placemark><name>170730</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-49.27,-11.34,0</coordinates></Point></Placemark>
+		<Placemark><name>172125</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.18,-8.97,0</coordinates></Point></Placemark>
+		<Placemark><name>170330</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.16,-8.96,0</coordinates></Point></Placemark>
+		<Placemark><name>172085</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.97,-11.99,0</coordinates></Point></Placemark>
+		<Placemark><name>171650</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.17,-8.96,0</coordinates></Point></Placemark>
+		<Placemark><name>171620</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.88,-12.61,0</coordinates></Point></Placemark>
+		<Placemark><name>170710</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-49.21,-9.8,0</coordinates></Point></Placemark>
+		<Placemark><name>170825</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.51,-9.05,0</coordinates></Point></Placemark>
+		<Placemark><name>170025</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-49.15,-9.62,0</coordinates></Point></Placemark>
+		<Placemark><name>171888</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.79,-8.79,0</coordinates></Point></Placemark>
+		<Placemark><name>170386</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-49.16,-11.89,0</coordinates></Point></Placemark>
+		<Placemark><name>172090</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.43,-12.4,0</coordinates></Point></Placemark>
+		<Placemark><name>171850</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.24,-8.73,0</coordinates></Point></Placemark>
+		<Placemark><name>171190</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-49.62,-10.79,0</coordinates></Point></Placemark>
+		<Placemark><name>172025</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.23,-12.74,0</coordinates></Point></Placemark>
+		<Placemark><name>170720</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-49.06,-9.25,0</coordinates></Point></Placemark>
+		<Placemark><name>170765</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-49.17,-12.13,0</coordinates></Point></Placemark>
+		<Placemark><name>170930</name><visibility>0</visibility><description></description><styleUrl>result.kml#high-rate-placemark</styleUrl><Point><coordinates>-48.5,-8.83,0</coordinates></Point></Placemark>
+</Document>
+</kml>

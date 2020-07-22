@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<name>Cluster 26 Locations</name>
+		<Placemark><name>150670</name><visibility>0</visibility><description></description><styleUrl>result.kml#low-rate-placemark</styleUrl><Point><coordinates>-50.62,-9.5,0</coordinates></Point></Placemark>
+</Document>
+</kml>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<name>Cluster 24 Locations</name>
+		<Placemark><name>290720</name><visibility>0</visibility><description></description><styleUrl>result.kml#low-rate-placemark</styleUrl><Point><coordinates>-40.97,-9.16,0</coordinates></Point></Placemark>
+		<Placemark><name>293077</name><visibility>0</visibility><description></description><styleUrl>result.kml#low-rate-placemark</styleUrl><Point><coordinates>-40.82,-9.45,0</coordinates></Point></Placemark>
+		<Placemark><name>261110</name><visibility>0</visibility><description></description><styleUrl>result.kml#low-rate-placemark</styleUrl><Point><coordinates>-40.5,-9.39,0</coordinates></Point></Placemark>
+		<Placemark><name>291840</name><visibility>0</visibility><description></description><styleUrl>result.kml#low-rate-placemark</styleUrl><Point><coordinates>-40.5,-9.41,0</coordinates></Point></Placemark>
+</Document>
+</kml>
