@@ -8,7 +8,7 @@ O objetivo deste projeto de TCC é descobrir quais são as variáveis do DATASUS
 
 O projeto está organizado na seguinte estrutura de diretórios:
 
-* 📁 _CSV:_ Análises com dados de Internação Hospitalar (CIHA) do DATASUS.
+* 📁 _CSV:_ Arquivos em formato csv
   * 📁 _Cadmun_: 
     * 📄 _CADMUN.csv:_ Cadastro de municípios (contém MUNCOD e Nome do município).
   * 📁 _Population_: 
