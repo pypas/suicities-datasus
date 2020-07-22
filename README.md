@@ -13,7 +13,7 @@ O projeto está organizado na seguinte estrutura de diretórios:
     * 📄 _CADMUN.csv:_ Cadastro de municípios (contém MUNCOD e Nome do município).
   * 📁 _Population_: 
     * 📄 _population_08_18.csv:_ População por município (2008-2018).
-  * 📁 _SatScan_: 
+  * 📁 _SatScan_
     * 📄 _case_file.csv:_ Case file para ser utilizado pelo software SatScan. Contém o número de suicídios por município e por ano.
     * 📄 _coordinates.csv:_ Coordinates file para ser utilizado pelo software SatScan. Contém as coordenadas geográficas de cada município.
     * 📄 _muncod_risk.csv:_ Municípios de alto risco, determinados pela análise feita com o software SatScan.
@@ -42,6 +42,11 @@ O projeto está organizado na seguinte estrutura de diretórios:
   * 📁 _LinearModels:_ Primeiros modelos lineares (_deprecated_).
 * 📁 _PySal_
   * 📄 _ESDA.ipynb:_ Análise exploratória espacial (ESDA) usando a biblioteca PySal para calcular Moran's BV I (autocorrelação espacial).
+* 📁 _SatScan:_ Análises feitas com o software SatScan
+  * 📁 _Clusters:_ Output do software SatScan (análise feita no período 2008-2018).
+  * 📁 _Images:_ Imagens geradas durante a análise dos clusters.
+  * 📄 _satscan.ipynb:_ Análise dos resultados obtidos pelo SatScan.
+  * 📄 _satscan_data_processing.ipynb:_ Processamento de dados para serem utilizados pelo software. 
 * 📁 _Spearman:_ Cálculo de correlação de Spearman entre rates de doenças e rates de suicídio, utiliza dados de Morbidade do DATASUS.
   * 📄 _spearman_analysis.ipynb:_ correlação de Spearman (2008-2018).  
 * 📁 _TabNet:_ Tratamento de dados provenientes da plataforma TabNet do DATASUS
