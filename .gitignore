@@ -1,5 +1,1 @@
-*.cpg
-*.dbf
-*.prj
-*.shp
-*.shx
+Maps/*
