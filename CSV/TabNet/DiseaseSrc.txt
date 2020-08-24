@@ -68,7 +68,9 @@ Nome: congestive heart failure
 Fonte: SIH
 CID-9: 402.01, 402.11, 402.91, 404.01, 404.03, 404.11, 404.13, 404.91, 404.93, 428
 CID-10: I11, I13.0, I13.2, I50
-Lista Morb CID-10: Outras doenças hipertensivas (I11-I15) + Insuficiência cardíaca (I50)
+Lista Morb CID-10: 
+Outras doenças hipertensivas (I11-I15)
+Insuficiência cardíaca (I50)
 
 5. DPOC
 Nome: chronic obstructive pulmonary disease
@@ -103,7 +105,9 @@ Nome: heart disease
 Fonte: SIH
 CID-9: 410–414
 CID-10: I20, I21, I24, I25
-Lista Morb CID-10: Infarto agudo do miocárdio (I21-I22) e Outras doenças isquêmicas do coração	(I20, I23-I25)
+Lista Morb CID-10: 
+Infarto agudo do miocárdio (I21-I22)
+Outras doenças isquêmicas do coração	(I20, I23-I25)
 
 9. HIV
 Nome:HIV/AIDS
@@ -177,4 +181,6 @@ Nome: traumatic brain injury
 Fonte: SIH
 CID-9: 800, 801, 803, 804, 850–854
 CID-10: S02, S06
-Lista Morb CID-10: Traumatismo intracraniano (S06), Fratura do crânio e dos ossos da face (S02)
+Lista Morb CID-10: 
+Traumatismo intracraniano (S06)
+Fratura do crânio e dos ossos da face (S02)
