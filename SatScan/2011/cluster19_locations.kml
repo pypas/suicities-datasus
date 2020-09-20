@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<name>Cluster 19 Locations</name>
+		<Placemark><name>313770</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-41.62,-20.15,0</coordinates></Point></Placemark>
+		<Placemark><name>311600</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-41.68,-20.04,0</coordinates></Point></Placemark>
+		<Placemark><name>320245</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-41.51,-20.23,0</coordinates></Point></Placemark>
+		<Placemark><name>312352</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-41.79,-20.2,0</coordinates></Point></Placemark>
+		<Placemark><name>316360</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-41.74,-20,0</coordinates></Point></Placemark>
+		<Placemark><name>320265</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-41.64,-20.34,0</coordinates></Point></Placemark>
+		<Placemark><name>320300</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-41.53,-20.34,0</coordinates></Point></Placemark>
+		<Placemark><name>311740</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-41.69,-19.92,0</coordinates></Point></Placemark>
+		<Placemark><name>314053</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-41.87,-20.25,0</coordinates></Point></Placemark>
+		<Placemark><name>315890</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-41.92,-20.1,0</coordinates></Point></Placemark>
+		<Placemark><name>320115</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-41.29,-20.14,0</coordinates></Point></Placemark>
+		<Placemark><name>315415</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-41.98,-20.23,0</coordinates></Point></Placemark>
+</Document>
+</kml>

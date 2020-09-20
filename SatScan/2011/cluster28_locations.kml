@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<name>Cluster 28 Locations</name>
+		<Placemark><name>350380</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-47.17,-22.57,0</coordinates></Point></Placemark>
+		<Placemark><name>351280</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-47.19,-22.64,0</coordinates></Point></Placemark>
+		<Placemark><name>351515</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-47.21,-22.48,0</coordinates></Point></Placemark>
+		<Placemark><name>351905</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-47.05,-22.63,0</coordinates></Point></Placemark>
+		<Placemark><name>353650</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-47.15,-22.76,0</coordinates></Point></Placemark>
+</Document>
+</kml>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<name>Cluster 20 Locations</name>
+		<Placemark><name>314437</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.49,-16.5,0</coordinates></Point></Placemark>
+		<Placemark><name>312247</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.27,-16.65,0</coordinates></Point></Placemark>
+		<Placemark><name>317040</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.9,-16.35,0</coordinates></Point></Placemark>
+		<Placemark><name>310820</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-45.99,-16.56,0</coordinates></Point></Placemark>
+		<Placemark><name>317047</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.25,-16.06,0</coordinates></Point></Placemark>
+		<Placemark><name>315445</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-45.99,-16.22,0</coordinates></Point></Placemark>
+		<Placemark><name>310855</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-46,-17.01,0</coordinates></Point></Placemark>
+		<Placemark><name>310450</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-46.1,-15.91,0</coordinates></Point></Placemark>
+		<Placemark><name>310945</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-47.09,-16.03,0</coordinates></Point></Placemark>
+</Document>
+</kml>

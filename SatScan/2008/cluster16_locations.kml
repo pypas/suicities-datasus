@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<name>Cluster 16 Locations</name>
+		<Placemark><name>350920</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-46.87,-23.35,0</coordinates></Point></Placemark>
+		<Placemark><name>354730</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-46.91,-23.44,0</coordinates></Point></Placemark>
+		<Placemark><name>350900</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-46.74,-23.36,0</coordinates></Point></Placemark>
+		<Placemark><name>353910</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-47,-23.39,0</coordinates></Point></Placemark>
+		<Placemark><name>351630</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-46.74,-23.28,0</coordinates></Point></Placemark>
+		<Placemark><name>351640</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-46.72,-23.32,0</coordinates></Point></Placemark>
+		<Placemark><name>355650</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-46.82,-23.21,0</coordinates></Point></Placemark>
+		<Placemark><name>350570</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-46.87,-23.51,0</coordinates></Point></Placemark>
+		<Placemark><name>352590</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-46.88,-23.18,0</coordinates></Point></Placemark>
+		<Placemark><name>350960</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-46.78,-23.2,0</coordinates></Point></Placemark>
+		<Placemark><name>352500</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-46.9,-23.52,0</coordinates></Point></Placemark>
+		<Placemark><name>351060</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-46.83,-23.52,0</coordinates></Point></Placemark>
+		<Placemark><name>350275</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-47.06,-23.43,0</coordinates></Point></Placemark>
+		<Placemark><name>353440</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-46.79,-23.53,0</coordinates></Point></Placemark>
+		<Placemark><name>352250</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-46.93,-23.54,0</coordinates></Point></Placemark>
+		<Placemark><name>350840</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-47.13,-23.3,0</coordinates></Point></Placemark>
+		<Placemark><name>351300</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-46.91,-23.6,0</coordinates></Point></Placemark>
+		<Placemark><name>352400</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-47.05,-23.15,0</coordinates></Point></Placemark>
+		<Placemark><name>352850</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-46.58,-23.31,0</coordinates></Point></Placemark>
+		<Placemark><name>355280</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-46.75,-23.6,0</coordinates></Point></Placemark>
+		<Placemark><name>352730</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-46.95,-23.08,0</coordinates></Point></Placemark>
+		<Placemark><name>355645</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-47.02,-23.6,0</coordinates></Point></Placemark>
+		<Placemark><name>352520</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-46.72,-23.1,0</coordinates></Point></Placemark>
+		<Placemark><name>351500</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-46.85,-23.64,0</coordinates></Point></Placemark>
+</Document>
+</kml>

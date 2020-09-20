@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<name>Cluster 5 Locations</name>
+		<Placemark><name>293070</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-38.4,-12.78,0</coordinates></Point></Placemark>
+		<Placemark><name>290570</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-38.32,-12.69,0</coordinates></Point></Placemark>
+		<Placemark><name>291920</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-38.32,-12.89,0</coordinates></Point></Placemark>
+		<Placemark><name>290650</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-38.55,-12.66,0</coordinates></Point></Placemark>
+		<Placemark><name>291005</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-38.29,-12.61,0</coordinates></Point></Placemark>
+		<Placemark><name>292740</name><visibility>0</visibility><description></description><styleUrl>output.kml#low-rate-placemark</styleUrl><Point><coordinates>-38.51,-12.97,0</coordinates></Point></Placemark>
+</Document>
+</kml>

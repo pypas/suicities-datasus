@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<name>Cluster 21 Locations</name>
+		<Placemark><name>310480</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-44.26,-18.1,0</coordinates></Point></Placemark>
+		<Placemark><name>316060</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-44.22,-18.29,0</coordinates></Point></Placemark>
+		<Placemark><name>310920</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-44.18,-17.87,0</coordinates></Point></Placemark>
+		<Placemark><name>314250</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-44.11,-18.32,0</coordinates></Point></Placemark>
+		<Placemark><name>311910</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-44.45,-18.38,0</coordinates></Point></Placemark>
+		<Placemark><name>313640</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-44.17,-17.75,0</coordinates></Point></Placemark>
+		<Placemark><name>313810</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-44.57,-17.88,0</coordinates></Point></Placemark>
+		<Placemark><name>314360</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-44.6,-18.54,0</coordinates></Point></Placemark>
+		<Placemark><name>315320</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-44.05,-18.63,0</coordinates></Point></Placemark>
+		<Placemark><name>312760</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-43.74,-18.45,0</coordinates></Point></Placemark>
+		<Placemark><name>313110</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-44.36,-18.72,0</coordinates></Point></Placemark>
+		<Placemark><name>312160</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-43.59,-18.24,0</coordinates></Point></Placemark>
+		<Placemark><name>312090</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-44.43,-18.75,0</coordinates></Point></Placemark>
+		<Placemark><name>312100</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-43.65,-18.44,0</coordinates></Point></Placemark>
+		<Placemark><name>317080</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-44.73,-17.59,0</coordinates></Point></Placemark>
+		<Placemark><name>312010</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-43.47,-18.07,0</coordinates></Point></Placemark>
+		<Placemark><name>312660</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-44.23,-17.31,0</coordinates></Point></Placemark>
+		<Placemark><name>312550</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-43.39,-18,0</coordinates></Point></Placemark>
+		<Placemark><name>315330</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-43.56,-18.61,0</coordinates></Point></Placemark>
+</Document>
+</kml>

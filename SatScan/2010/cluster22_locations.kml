@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<name>Cluster 22 Locations</name>
+		<Placemark><name>310205</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-41.86,-20.43,0</coordinates></Point></Placemark>
+		<Placemark><name>315350</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-41.96,-20.42,0</coordinates></Point></Placemark>
+		<Placemark><name>311210</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-41.9,-20.52,0</coordinates></Point></Placemark>
+</Document>
+</kml>

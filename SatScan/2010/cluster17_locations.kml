@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<name>Cluster 17 Locations</name>
+		<Placemark><name>130406</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-69.93,-4.25,0</coordinates></Point></Placemark>
+		<Placemark><name>130060</name><visibility>0</visibility><description></description><styleUrl>output.kml#high-rate-placemark</styleUrl><Point><coordinates>-70.03,-4.38,0</coordinates></Point></Placemark>
+</Document>
+</kml>
