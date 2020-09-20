@@ -1,7 +1,6 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 import time
 from splot.esda import moran_scatterplot, lisa_cluster
 from bivariate_data import compute_weights, get_dataset, get_disease_dataset, merge_dataset_disease, moran_local_bv
@@ -49,11 +48,11 @@ def moran_scatterplt(moran_loc_bv):
     fig, ax = moran_scatterplot(moran_loc_bv, p=0.05)
     ax.set_xlabel('Suicides')
     ax.set_ylabel('Spatial lag of mental disorder')
-    plt.show()
+    st.pyplot(fig)
 
 def moran_map(moran_loc_bv, dataset):
-    lisa_cluster(moran_loc_bv, dataset, p=0.05, figsize=(9,9))
-    plt.show()
+    fig = lisa_cluster(moran_loc_bv, dataset, p=0.05, figsize=(9,9))
+    st.pyplot(fig)
 
 compute_weights()
 dt = get_dataset()
