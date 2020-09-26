@@ -10,35 +10,41 @@ from bivariate_data import compute_weights, get_dataset, get_disease_dataset, me
 """
 
 """
-O Bivariate Moran's I é estatistica calculada para medir a **correlação espacial** entre duas grandezas.
+O Bivariate Moran's I é uma estatística calculada para medir a **correlação espacial** entre duas grandezas.
 
-Esse calculo é feito tomando o valor de uma variavel dependente $x$ em uma região $r_1$, e calculando uma função de agregação de
-uma variavel $y$ nas regiões vizinhas da região $x$. Essa função costuma ser a **média aritmética**, e chamamos de $lag(y)$.
+Esse cálculo é feito tomando o valor de uma variável dependente $x$ em uma região $r_1$, e calculando uma função de agregação de
+uma variável $y$ nas regiões vizinhas da região $r_1$. Essa função costuma ser a **média aritmética**, e chamamos de $lag(y)$.
 
-Apos esse calculo para cada região $r$ do mapa, calcula-se uma reta de regressão que passa pelos pontos (x_r, 
-lag(y_r)) representando cada região. O coeficiente dessa reta é o **Moran's I**.
+Após esse cálculo para cada região $r$ do mapa, calcula-se uma reta de regressão que passa pelos pontos $(x_r, 
+lag(y_r))$ de cada região. O coeficiente dessa reta é o **Moran's I**, e representa o quanto $lag(y_r)$ aumenta com $x_r$.
 """
 
 """
-## **Calculo para doenças e suicidio**
+## **Cálculo para doenças e suicídio**
 """
 
 """
-Neste dashboard, apresentamos o mapa do Brasil subdividido em seus municipios.
+Neste dashboard, apresentamos o mapa do Brasil subdividido em seus municípios.
 
-A variavel dependente é uma **doença do DATASUS**, e pode ser escolhida por você!
+A variável dependente é uma **doença do DATASUS**, e pode ser escolhida por você!
 
-A variavel-alvo é a **taxa de suicidios por 100.000 habitantes**.
+A variável-alvo é a **taxa de suicídios por 100.000 habitantes**.
 
-Os municipios são coloridos de acordo com o grau de correlação espacial entre a variavel escolhida e 
-a taxa de suicidios nos municipios adjacentes, para cada municipio do mapa, conforme explicado na legenda abaixo:
-
-- HH (_High-High_): em vermelho, representa um municipio onde a taxa da doença selecionada e a taxa de suicidios na vizinhança são altos.
-- LL (_Low-Low_): em azul, representa um municipio onde a taxa da doença selecionada e a taxa de suicidios na vizinhança são baixos.
-
-Os municipios HL (_High-Low_) e LH (_Low-High_) são mostrados em cinza, pois não apresentam uma concordância 
-entre o municipio e as redondezas.
+Os municípios são coloridos de acordo com o grau de correlação espacial entre a variável escolhida e 
+a taxa de suicídios nos municípios adjacentes, para cada município do mapa, conforme explicado na legenda abaixo:
 """
+
+st.markdown(
+    '<ul>'
+        '<li>HH (<i>High-High</i>): em <span style="color:red;"><b>vermelho</b></span>, representa um município onde a taxa da doença selecionada e a taxa de suicídios na vizinhança são altos.</li>'
+        '<li>LL (<i>Low-Low</i>): em <span style="color:blue;"><b>azul</b></span>, representa um município onde a taxa da doença selecionada e a taxa de suicídios na vizinhança são baixos.</li>'
+    '</ul>', unsafe_allow_html=True
+)
+
+st.markdown(
+    '<p>Os municípios HL (<i>High-Low</i>) e LH (<i>Low-High</i>) são mostrados em <span style="color:gray;"><b>cinza</b></span>, pois não apresentam uma concordância '
+    'entre a taxa da doença apresentada no município e a taxa de suicídio nas redondezas desse município.</p>', unsafe_allow_html=True
+)
 
 """
 ## **Mapa de correlação**
