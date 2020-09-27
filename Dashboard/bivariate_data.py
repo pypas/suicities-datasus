@@ -1,6 +1,10 @@
 import numpy as np
 import pandas as pd
 import geopandas as gpd
+import glob
+import scipy
+from numpy import load, save
+from libpysal.weights import WSP
 from libpysal.weights.contiguity import Queen
 from esda.moran import Moran_Local_BV, Moran
 
@@ -68,7 +72,17 @@ def moran_global(dataset):
 
 def compute_weights():
   global weights
-  if (weights == None):
-    gdf = get_municipalities_shape()
-    weights = Queen.from_dataframe(gdf)
-    weights.transform = 'r'
+  weight_files = glob.glob("data.npy")
+  file_found = (len(weight_files) > 0)
+
+  if file_found:
+    data = load("data.npy")
+    spar = scipy.sparse.csc_matrix(data)
+    wsp = WSP(spar)
+    weights = wsp.to_W()
+    print("Loaded preexisting data.npy")
+  else:
+    print("File data.npy not found")
+
+  return file_found
+

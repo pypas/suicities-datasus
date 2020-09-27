@@ -20,7 +20,7 @@ def moran_map(moran, dataset):
     fig = lisa_cluster(moran, dataset, p=0.05, figsize=(9,9))
     st.pyplot(fig)
 
-compute_weights()
+file_found = compute_weights()
 dt = get_dataset()
 
 """
@@ -50,8 +50,13 @@ mas na vizinhança da cidade $r$ considerada.
 Com essa análise, conseguimos ter uma noção da importância da relação espacial da variável-alvo, por meio do valor do Moran's I.
 """
 
-moran = moran_global(dt)
-moran_scatterplt(moran, bivariate=False)
+if file_found:
+    moran = moran_global(dt)
+    moran_scatterplt(moran, bivariate=False)
+else:
+    """
+    ### **_Erro ao processar fronteiras._**
+    """
 
 
 """
@@ -85,14 +90,19 @@ st.markdown(
 ## **Mapa de correlação**
 """
 
-selected_disease = st.selectbox(
-    'Selecione uma doença:',
-    ['Selecione uma doença', 'Artrose'])
+if file_found:
+    selected_disease = st.selectbox(
+        'Selecione uma doença:',
+        ['Selecione uma doença', 'Artrose'])
 
-if (selected_disease != 'Selecione uma doença'):
-    dt_disease = get_disease_dataset(selected_disease)
-    dt_result = merge_dataset_disease(dt, dt_disease)
-    moran_bv = moran_local_bv(dt_result)
-    moran_scatterplt(moran_bv, bivariate=True, disease=selected_disease)
-    moran_map(moran_bv, dt_result)
+    if (selected_disease != 'Selecione uma doença'):
+        dt_disease = get_disease_dataset(selected_disease)
+        dt_result = merge_dataset_disease(dt, dt_disease)
+        moran_bv = moran_local_bv(dt_result)
+        moran_scatterplt(moran_bv, bivariate=True, disease=selected_disease)
+        moran_map(moran_bv, dt_result)
+else:
+    """
+    ### **_Erro ao processar fronteiras._**
+    """
 
