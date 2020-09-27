@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import geopandas as gpd
 from libpysal.weights.contiguity import Queen
-from esda.moran import Moran_Local_BV
+from esda.moran import Moran_Local_BV, Moran
 
 root = "../"
 weights = None
@@ -60,6 +60,11 @@ def moran_local_bv(dataset):
   y = dataset['AVG_DISEASE_RATE'].values
   moran_bv = Moran_Local_BV(y, x, weights)
   return moran_bv
+
+def moran_global(dataset):
+  y = dataset['AVG_SUICIDE_RATE'].values
+  moran = Moran(y, weights)
+  return moran
 
 def compute_weights():
   global weights

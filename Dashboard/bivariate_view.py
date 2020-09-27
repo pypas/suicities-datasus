@@ -3,20 +3,25 @@ import numpy as np
 import pandas as pd
 import time
 from splot.esda import moran_scatterplot, lisa_cluster
-from bivariate_data import compute_weights, get_dataset, get_disease_dataset, merge_dataset_disease, moran_local_bv
+from bivariate_data import compute_weights, get_dataset, get_disease_dataset, merge_dataset_disease, moran_local_bv, moran_global
 
-def moran_scatterplt(moran_loc_bv):
-    fig, ax = moran_scatterplot(moran_loc_bv, p=0.05)
+def moran_scatterplt(moran, bivariate=False, disease=''):
+    if bivariate:
+        fig, ax = moran_scatterplot(moran, p=0.05)
+        ax.set_ylabel('Spatial lag of ' + disease)
+    else:
+        fig, ax = moran_scatterplot(moran, aspect_equal=True)
+        ax.set_ylabel('Spatial lag of Suicides')
+
     ax.set_xlabel('Suicides')
-    ax.set_ylabel('Spatial lag of mental disorder')
     st.pyplot(fig)
 
-def moran_map(moran_loc_bv, dataset):
-    fig = lisa_cluster(moran_loc_bv, dataset, p=0.05, figsize=(9,9))
+def moran_map(moran, dataset):
+    fig = lisa_cluster(moran, dataset, p=0.05, figsize=(9,9))
     st.pyplot(fig)
 
-#compute_weights()
-#dt = get_dataset()
+compute_weights()
+dt = get_dataset()
 
 """
 # Bivariate Moran\'s I
@@ -44,6 +49,10 @@ mas na vizinhança da cidade $r$ considerada.
 
 Com essa análise, conseguimos ter uma noção da importância da relação espacial da variável-alvo, por meio do valor do Moran's I.
 """
+
+moran = moran_global(dt)
+moran_scatterplt(moran, bivariate=False)
+
 
 """
 ## **Cálculo para doenças e suicídio**
@@ -83,7 +92,7 @@ selected_disease = st.selectbox(
 if (selected_disease != 'Selecione uma doença'):
     dt_disease = get_disease_dataset(selected_disease)
     dt_result = merge_dataset_disease(dt, dt_disease)
-    moran = moran_local_bv(dt_result)
-    moran_scatterplt(moran)
-    moran_map(moran, dt_result)
+    moran_bv = moran_local_bv(dt_result)
+    moran_scatterplt(moran_bv, bivariate=True, disease=selected_disease)
+    moran_map(moran_bv, dt_result)
 
