@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import time
 from splot.esda import moran_scatterplot, lisa_cluster
-from bivariate_data import compute_weights, get_dataset, get_disease_dataset, merge_dataset_disease, moran_local_bv, moran_global
+from bivariate_data import compute_weights, get_dataset, get_disease_dataset, merge_dataset_disease, moran_local_bv, moran_global, get_diseases_select_names
 import matplotlib.pyplot as plt
 
 def moran_scatterplt(moran, bivariate=False, disease=''):
@@ -20,10 +20,9 @@ def moran_scatterplt(moran, bivariate=False, disease=''):
 def moran_map(moran, dataset):
     chart = lisa_cluster(moran, dataset, p=0.05, figsize=(9,9))
     fig = chart[0]
-    ax = chart[1]
     st.pyplot(fig)
 
-file_found = compute_weights()
+weights_file_found = compute_weights()
 dt = get_dataset()
 
 """
@@ -53,7 +52,7 @@ mas na vizinhança da cidade $r$ considerada.
 Com essa análise, conseguimos ter uma noção da importância da relação espacial da variável-alvo, por meio do valor do Moran's I.
 """
 
-if file_found:
+if weights_file_found:
     moran = moran_global(dt)
     moran_scatterplt(moran, bivariate=False)
 else:
@@ -80,7 +79,7 @@ a taxa de suicídios nos municípios adjacentes, para cada município do mapa, c
 st.markdown(
     '<ul>'
         '<li>HH (<i>High-High</i>): em <span style="color:red;"><b>vermelho</b></span>, representa um município onde a taxa da doença selecionada e a taxa de suicídios na vizinhança são altos.</li>'
-        '<li>LL (<i>Low-Low</i>): em <span style="color:blue;"><b>azul</b></span>, representa um município onde a taxa da doença selecionada e a taxa de suicídios na vizinhança são baixos.</li>'
+        '<li>LL (<i>Low-Low</i>): em <span style="color:blue;"><b>azul escuro</b></span>, representa um município onde a taxa da doença selecionada e a taxa de suicídios na vizinhança são baixos.</li>'
     '</ul>', unsafe_allow_html=True
 )
 
@@ -93,17 +92,29 @@ st.markdown(
 ## **Mapa de correlação**
 """
 
-if file_found:
-    selected_disease = st.selectbox(
-        'Selecione uma doença:',
-        ['Selecione uma doença', 'Artrose'])
+disease_names = get_diseases_select_names()
 
-    if (selected_disease != 'Selecione uma doença'):
-        dt_disease = get_disease_dataset(selected_disease)
-        dt_result = merge_dataset_disease(dt, dt_disease)
-        moran_bv = moran_local_bv(dt_result)
-        moran_scatterplt(moran_bv, bivariate=True, disease=selected_disease)
-        moran_map(moran_bv, dt_result)
+if weights_file_found:
+    if len(disease_names) > 0:
+        options = np.append(['Selecione uma doença'], disease_names)
+        selected_disease = st.selectbox('Selecione uma doença:', options)
+
+        st.markdown(
+            '<p>Para mais informações sobre uma doença, acesse o <a href="http://tabnet.datasus.gov.br/cgi/sih/mxcid10lm.htm", target="_blank">DATASUS</a>.</p>', unsafe_allow_html=True
+        )
+
+        if (selected_disease != 'Selecione uma doença'):
+            dt_disease = get_disease_dataset(selected_disease)
+            #st.dataframe(dt_disease)
+            dt_result = merge_dataset_disease(dt, dt_disease)
+            #st.dataframe(dt_result.drop(columns=['geometry']))
+            moran_bv = moran_local_bv(dt_result)
+            moran_scatterplt(moran_bv, bivariate=True, disease=selected_disease)
+            moran_map(moran_bv, dt_result)
+    else:
+        """
+        ### **_Erro ao carregar nomes das doenças._**
+        """
 else:
     """
     ### **_Erro ao processar fronteiras._**

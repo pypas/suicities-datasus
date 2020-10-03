@@ -10,6 +10,7 @@ from esda.moran import Moran_Local_BV, Moran
 
 root = "../"
 weights = None
+mapper = None
 
 def get_municipalities_shape():
   return gpd.read_file(root + 'Maps/BRMUE250GC_SIR.shp')
@@ -38,10 +39,23 @@ def get_dataset():
   return result
 
 def get_disease_csv_name(disease):
-  # mapping
-  return "ARTROSE"
+  return mapper[mapper['SELECT_NAME'] == disease]['CSV'].values[0]
+
+def get_diseases_select_names():
+  global mapper
+  diseases_files = glob.glob("diseases_select_list.csv")
+  file_found = (len(diseases_files) > 0)
+
+  if file_found:
+    mapper = pd.read_csv('diseases_select_list.csv', index_col=0)
+    print("Loaded preexisting diseases_select_list.csv")
+    return np.array(mapper['SELECT_NAME'])
+  else:
+    print("File diseases_select_list.csv not found")
+    return []
 
 def get_disease_dataset(disease):
+  print(disease)
   disease_csv_name = get_disease_csv_name(disease)
   path = 'CSV/TabNet/Internacoes_Rate/{}.csv'.format(disease_csv_name)
   disease = pd.read_csv(root + path, sep=',', index_col=0)
@@ -51,9 +65,11 @@ def get_disease_dataset(disease):
 
 def merge_dataset_disease(dataset, disease):
   # drop column if it already exists
-  dataset.drop(['AVG_DISEASE_RATE'], axis=1, errors='ignore')
+  dataset = dataset.drop(['AVG_DISEASE_RATE'], axis=1, errors='ignore')
+  # use CD_GEOCMU with 6 digits
+  dataset["CD_GEOCMU_6"] = (dataset['CD_GEOCMU'].astype(int) / 10).astype(int)
   # merge for the new disease
-  result = pd.merge(dataset, disease, left_on="CD_GEOCMU", right_on="MUNCOD", how="left")
+  result = pd.merge(dataset, disease, left_on="CD_GEOCMU_6", right_on="MUNCOD", how="left")
   result = result[["NM_MUNICIP", "CD_GEOCMU", "geometry", "AVG_SUICIDE_RATE", 'AVG_DISEASE_RATE']]
   result['AVG_SUICIDE_RATE'] = result['AVG_SUICIDE_RATE'].fillna(0)
   result['AVG_DISEASE_RATE'] = result['AVG_DISEASE_RATE'].fillna(0)
