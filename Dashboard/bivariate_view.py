@@ -4,20 +4,23 @@ import pandas as pd
 import time
 from splot.esda import moran_scatterplot, lisa_cluster
 from bivariate_data import compute_weights, get_dataset, get_disease_dataset, merge_dataset_disease, moran_local_bv, moran_global
+import matplotlib.pyplot as plt
 
 def moran_scatterplt(moran, bivariate=False, disease=''):
     if bivariate:
         fig, ax = moran_scatterplot(moran, p=0.05)
-        ax.set_ylabel('Spatial lag of ' + disease)
+        ax.set_ylabel('Spatial lag (' + disease + ')')
     else:
         fig, ax = moran_scatterplot(moran, aspect_equal=True)
-        ax.set_ylabel('Spatial lag of Suicides')
+        ax.set_ylabel('Spatial lag de Suicídios')
 
-    ax.set_xlabel('Suicides')
+    ax.set_xlabel('Suicídios')
     st.pyplot(fig)
 
 def moran_map(moran, dataset):
-    fig = lisa_cluster(moran, dataset, p=0.05, figsize=(9,9))
+    chart = lisa_cluster(moran, dataset, p=0.05, figsize=(9,9))
+    fig = chart[0]
+    ax = chart[1]
     st.pyplot(fig)
 
 file_found = compute_weights()
