@@ -30,8 +30,7 @@ tal que $-1 \leq r_s \leq 1$:
 """
 ## Tabela de correlações com suicídio
 
-A tabela abaixo contém os coeficientes de correlações de Spearman (bem como seus respectivos P-values) entre a média da taxa de internações
-referentes a diferentes doenças do DATASUS e a média da taxa de suicídios, no período de 2008-2018. 
+A tabela abaixo contém os coeficientes de correlações de Spearman (bem como seus respectivos _p-values_) entre a média da taxa de internações referentes a diferentes doenças do DATASUS e a média da taxa de suicídios, no período de 2008-2018. 
 
 A coluna "Qtd Municípios" indica a quantidade de municípios com dados não nulos presentes no conjunto de dados de cada doença. 
 Foram excluídas as doenças cuja quantidade de municípios é inferior à metade do número total de municípios no Brasil, ou seja, $< 2785$.
