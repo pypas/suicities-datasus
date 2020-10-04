@@ -1,0 +1,329 @@
+,CSV,SELECT_NAME
+0,ABORTO_ESPONTÂNEO,Aborto Espontâneo
+1,ABORTO_POR_RAZÕES_MÉDICAS,Aborto Por Razões Médicas
+2,ACIDENTES_DE_TRANSPORTE,Acidentes De Transporte
+3,ACID_VASCULAR_CEREBR_ISQUÊM_TRANSIT_E_SÍNDR_CORREL,Acid Vascular Cerebr Isquêm Transit E Síndr Correl
+4,ACID_VASCULAR_CEREBR_NÃO_ESPEC_HEMORRÁG_OU_ISQUÊM,Acid Vascular Cerebr Não Espec Hemorrág Ou Isquêm
+5,AFECÇ_HEMORRÁG_E_OUTR_DOENÇ_SANG_E_ÓRG_HEMATOPOÉT,Afecç Hemorrág E Outr Doenç Sang E Órg Hematopoét
+6,AFOGAMENTO_E_SUBMERSÃO_ACIDENTAMENTE,Afogamento E Submersão Acidentamente
+7,AGRESSÕES,Agressões
+8,ALGUNS_TRANSTORNOS_ENVOLVENDO_MECANISMO_IMUNITÁRIO,Alguns Transtornos Envolvendo Mecanismo Imunitário
+9,AMEBÍASE,Amebíase
+10,ANCILOSTOMÍASE,Ancilostomíase
+11,ANEMIA_POR_DEFICIÊNCIA_DE_FERRO,Anemia Por Deficiência De Ferro
+12,ANOMALIAS_CROMOSSÔMICAS_NCOP,Anomalias Cromossômicas Ncop
+13,ANTICONCEPÇÃO,Anticoncepção
+14,ARTEROESCLEROSE,Arteroesclerose
+15,ARTRITE_REUMATÓIDE_E_OUTR_POLIARTROPATIAS_INFLAMAT,Artrite Reumatóide E Outr Poliartropatias Inflamat
+16,ARTROSE,Artrose
+17,ASMA,Asma
+18,ASSISTÊNCIA_E_EXAME_PÓS-NATAL,Assistência E Exame Pós-Natal
+19,AUSÊNCIA_ATRESIA_E_ESTENOSE_DO_INTESTINO_DELGADO,Ausência Atresia E Estenose Do Intestino Delgado
+20,BRONQUIECTASIA,Bronquiectasia
+21,BRONQUITE_AGUDA_E_BRONQUIOLITE_AGUDA,Bronquite Aguda E Bronquiolite Aguda
+22,BRONQUITE_ENFISEMA_E_OUTR_DOENÇ_PULM_OBSTR_CRÔNIC,Bronquite Enfisema E Outr Doenç Pulm Obstr Crônic
+23,BRUCELOSE,Brucelose
+24,CARCINOMA_IN_SITU_DE_COLO_DO_ÚTERO,Carcinoma In Situ De Colo Do Útero
+25,CATARATA_E_OUTROS_TRANSTORNOS_DO_CRISTALINO,Catarata E Outros Transtornos Do Cristalino
+26,CAXUMBA_[PAROTIDITE_EPIDÊMICA],Caxumba [Parotidite Epidêmica]
+27,CEGUEIRA_E_VISÃO_SUBNORMAL,Cegueira E Visão Subnormal
+28,CERATITE_E_OUTROS_TRANSTORNOS_ESCLERÓTICA_E_CÓRNEA,Ceratite E Outros Transtornos Esclerótica E Córnea
+29,CERT_COMPL_PREC_TRAUM_COMPL_CIRÚRG_ASS_MÉDIC_NCOP,Cert Compl Prec Traum Compl Cirúrg Ass Médic Ncop
+30,CISTITE,Cistite
+31,COLELITÍASE_E_COLECISTITE,Colelitíase E Colecistite
+32,COMPL_PRED_REL_PUERPÉRIO_E_OUTR_AFECÇ_OBSTÉTR_NCOP,Compl Pred Rel Puerpério E Outr Afecç Obstétr Ncop
+33,CONJUNTIVITE_E_OUTROS_TRANSTORNOS_DA_CONJUNTIVA,Conjuntivite E Outros Transtornos Da Conjuntiva
+34,COQUELUCHE,Coqueluche
+35,CÁRIE_DENTÁRIA,Cárie Dentária
+36,CÓLERA,Cólera
+37,DEFICIÊNCIA_DE_VITAMINA_A,Deficiência De Vitamina A
+38,DEFORMIDADES_ADQUIRIDAS_DAS_ARTICULAÇÕES,Deformidades Adquiridas Das Articulações
+39,DEFORMIDADES_CONGÊNITAS_DOS_PÉS,Deformidades Congênitas Dos Pés
+40,DEFORMIDADES_CONGÊNITAS_DO_QUADRIL,Deformidades Congênitas Do Quadril
+41,DEMÊNCIA,Demência
+42,DENGUE_[DENGUE_CLÁSSSICO],Dengue [Dengue Clásssico]
+43,DEPLEÇÃO_DE_VOLUME,Depleção De Volume
+44,DESCOLAMENTOS_E_DEFEITOS_DA_RETINA,Descolamentos E Defeitos Da Retina
+45,DESNUTRIÇÃO,Desnutrição
+46,DIABETES_MELLITUS,Diabetes Mellitus
+47,DIARRÉIA_E_GASTROENTERITE_ORIGEM_INFECC_PRESUMÍVEL,Diarréia E Gastroenterite Origem Infecc Presumível
+48,DIFTERIA,Difteria
+49,DOENÇAS_CRÔNICAS_DAS_AMÍGDALAS_E_DAS_ADENÓIDES,Doenças Crônicas Das Amígdalas E Das Adenóides
+50,DOENÇAS_DO_APÊNDICE,Doenças Do Apêndice
+51,DOENÇAS_INFECCIOSAS_E_PARASITÁRIAS_CONGÊNITAS,Doenças Infecciosas E Parasitárias Congênitas
+52,DOENÇAS_POR_CLAMÍDIAS_TRANSMITIDAS_POR_VIA_SEXUAL,Doenças Por Clamídias Transmitidas Por Via Sexual
+53,DOENÇAS_RENAIS_TÚBULO-INTERSTICIAIS,Doenças Renais Túbulo-Intersticiais
+54,DOENÇAS_SISTÊMICAS_DO_TECIDO_CONJUNTIVO,Doenças Sistêmicas Do Tecido Conjuntivo
+55,DOENÇA_ALCOÓLICA_DO_FÍGADO,Doença Alcoólica Do Fígado
+56,DOENÇA_DE_ALZHEIMER,Doença De Alzheimer
+57,DOENÇA_DE_CROHN_E_COLITE_ULCERATIVA,Doença De Crohn E Colite Ulcerativa
+58,DOENÇA_DE_HODGKIN,Doença De Hodgkin
+59,DOENÇA_DE_PARKINSON,Doença De Parkinson
+60,DOENÇA_DIVERTICULAR_DO_INTESTINO,Doença Diverticular Do Intestino
+61,DOENÇA_HEMOLÍTICA_DO_FETO_E_DO_RECÉM-NASCIDO,Doença Hemolítica Do Feto E Do Recém-Nascido
+62,DOENÇA_INFLAMATÓRIA_DO_COLO_DO_ÚTERO,Doença Inflamatória Do Colo Do Útero
+63,DOENÇA_PELO_VÍRUS_DA_IMUNODEFICIÊNCIA_HUMANA_[HIV],Doença Pelo Vírus Da Imunodeficiência Humana [Hiv]
+64,DOENÇA_REUMÁTICA_CRÔNICA_DO_CORAÇÃO,Doença Reumática Crônica Do Coração
+65,DOR_ABDOMINAL_E_PÉLVICA,Dor Abdominal E Pélvica
+66,DRACUNCULÍASE,Dracunculíase
+67,EDEMA_PROTEIN_TRANST_HIPERTENS_GRAVID_PARTO_PUERP,Edema Protein Transt Hipertens Gravid Parto Puerp
+68,EFEITOS_CORPO_ESTRANHO_ATRAVÉS_DE_ORIFÍCIO_NATURAL,Efeitos Corpo Estranho Através De Orifício Natural
+69,EFEITOS_TÓXICOS_SUBST_ORIGEM_PRINC_NÃO-MEDICINAL,Efeitos Tóxicos Subst Origem Princ Não-Medicinal
+70,EMBOLIA_E_TROMBOSE_ARTERIAIS,Embolia E Trombose Arteriais
+71,EMBOLIA_PULMONAR,Embolia Pulmonar
+72,ENCEFALITE_VIRAL,Encefalite Viral
+73,ENDOMETRIOSE,Endometriose
+74,ENVENENAMENTO_INTOX_EXPOSIÇÃO_SUBSTÂNCIAS_NOCIVAS,Envenenamento Intox Exposição Substâncias Nocivas
+75,ENVENENAMENTO_POR_DROGAS_E_SUBSTÂNCIAS_BIOLÓGICAS,Envenenamento Por Drogas E Substâncias Biológicas
+76,ENXAQUECA_E_OUTRAS_SÍNDROMES_DE_ALGIAS_CEFÁLICOS,Enxaqueca E Outras Síndromes De Algias Cefálicos
+77,EPILEPSIA,Epilepsia
+78,EQUINOCOCOSE,Equinococose
+79,ESCLEROSE_MÚLTIPLAS,Esclerose Múltiplas
+80,ESPINHA_BÍFIDA,Espinha Bífida
+81,ESQUISTOSSOMOSE,Esquistossomose
+82,ESQUIZOFRENIA_TRANST_ESQUIZOTÍPICOS_E_DELIRANTES,Esquizofrenia Transt Esquizotípicos E Delirantes
+83,ESTADO_INFEC_ASSINT_VÍRUS_DA_IMUNODEF_HUMANA_[HIV],Estado Infec Assint Vírus Da Imunodef Humana [Hiv]
+84,ESTRABISMO,Estrabismo
+85,EXPOSIÇÃO_AO_FUMO_AO_FOGO_E_ÀS_CHAMAS,Exposição Ao Fumo Ao Fogo E Às Chamas
+86,FARINGITE_AGUDA_E_AMIGDALITE_AGUDA,Faringite Aguda E Amigdalite Aguda
+87,FEBRES_RECORRENTES,Febres Recorrentes
+88,FEBRES_TIFÓIDE_E_PARATIFÓIDE,Febres Tifóide E Paratifóide
+89,FEBRE_AMARELA,Febre Amarela
+90,FEBRE_DE_ORIGEM_DESCONHECIDA,Febre De Origem Desconhecida
+91,FEBRE_HEMORRÁGICA_DEVIDA_AO_VÍRUS_DA_DENGUE,Febre Hemorrágica Devida Ao Vírus Da Dengue
+92,FEBRE_REUMÁTICA_AGUDA,Febre Reumática Aguda
+93,FENDA_LABIAL_E_FENDA_PALATINA,Fenda Labial E Fenda Palatina
+94,FETO_E_REC-NASC_AFET_FAT_MAT_E_COMPL_GRAV_E_PARTO,Feto E Rec-Nasc Afet Fat Mat E Compl Grav E Parto
+95,FILARIOSE,Filariose
+96,FLEBITE_TROMBOFLEBITE_EMBOLIA_E_TROMBOSE_VENOSA,Flebite Tromboflebite Embolia E Trombose Venosa
+97,FRATURAS_ENVOLVENDO_MÚLTIPLAS_REGIÕES_DO_CORPO,Fraturas Envolvendo Múltiplas Regiões Do Corpo
+98,FRATURA_DE_OUTROS_OSSOS_DOS_MEMBROS,Fratura De Outros Ossos Dos Membros
+99,FRATURA_DO_CRÂNIO_E_DOS_OSSOS_DA_FACE,Fratura Do Crânio E Dos Ossos Da Face
+100,FRATURA_DO_FÊMUR,Fratura Do Fêmur
+101,FRATURA_DO_PESCOÇO_TÓRAX_OU_PELVE,Fratura Do Pescoço Tórax Ou Pelve
+102,GASTRITE_E_DUODENITE,Gastrite E Duodenite
+103,GLAUCOMA,Glaucoma
+104,HANSENÍASE_[LEPRA],Hanseníase [Lepra]
+105,HEMORRAGIA_INTRACRANIANA,Hemorragia Intracraniana
+106,HEMORRAGIA_PÓS-PARTO,Hemorragia Pós-Parto
+107,HEMORRÓIDAS,Hemorróidas
+108,HEPATITE_AGUDA_B,Hepatite Aguda B
+109,HIDROCELE_E_ESPERMATOCELE,Hidrocele E Espermatocele
+110,HIPERPLASIA_DA_PRÓSTATA,Hiperplasia Da Próstata
+111,HIPERTENSÃO_ESSENCIAL_(PRIMÁRIA),Hipertensão Essencial (Primária)
+112,HIPÓXIA_INTRAUTERINA_E_ASFIXIA_AO_NASCER,Hipóxia Intrauterina E Asfixia Ao Nascer
+113,HÉRNIA_INGUINAL,Hérnia Inguinal
+114,ILEO_PARALÍTICO_E_OBSTRUÇÃO_INTESTINAL_SEM_HÉRNIA,Ileo Paralítico E Obstrução Intestinal Sem Hérnia
+115,INFARTO_AGUDO_DO_MIOCÁRDIO,Infarto Agudo Do Miocárdio
+116,INFARTO_CEREBRAL,Infarto Cerebral
+117,INFECÇÃO_GONOCÓCICA,Infecção Gonocócica
+118,INFECÇÃO_MENINGOCÓCICA,Infecção Meningocócica
+119,INFECÇÕES_DA_PELE_E_DO_TECIDO_SUBCUTÂNEO,Infecções Da Pele E Do Tecido Subcutâneo
+120,INFECÇÕES_PELO_VÍRUS_DO_HERPES,Infecções Pelo Vírus Do Herpes
+121,INFERTILIDADE_FEMININA,Infertilidade Feminina
+122,INFLAMAÇÃO_DA_PÁLPEBRA,Inflamação Da Pálpebra
+123,INFLUENZA_[GRIPE],Influenza [Gripe]
+124,INSUFICIÊNCIA_CARDÍACA,Insuficiência Cardíaca
+125,INSUFICIÊNCIA_RENAL,Insuficiência Renal
+126,LARINGITE_E_TRAQUEÍTE_AGUDAS,Laringite E Traqueíte Agudas
+127,LEIOMIOMA_DO_ÚTERO,Leiomioma Do Útero
+128,LEISHMANIOSE_CUTÂNEA,Leishmaniose Cutânea
+129,LEISHMANIOSE_CUTÂNEO-MUCOSA,Leishmaniose Cutâneo-Mucosa
+130,LEISHMANIOSE_NÃO_ESPECIFICADA,Leishmaniose Não Especificada
+131,LEISHMANIOSE_VISCERAL,Leishmaniose Visceral
+132,LEPTOSPIROSE_ICTEROHEMORRÁGICA,Leptospirose Icterohemorrágica
+133,LEPTOSPIROSE_NÃO_ESPECIFICADA,Leptospirose Não Especificada
+134,LESÕES_AUTOPROVOCADAS_VOLUNTARIAMENTE,Lesões Autoprovocadas Voluntariamente
+135,LESÕES_ESMAG_AMPUT_TRAUMÁT_REG_ESP_E_MÚLTIP_CORPO,Lesões Esmag Amput Traumát Reg Esp E Múltip Corpo
+136,LEUCEMIA,Leucemia
+137,LINFOMA_NÃO-HODGKIN,Linfoma Não-Hodgkin
+138,LUXAÇÕES_ENTORSE_DISTENSÃO_REG_ESP_E_MÚLTIP_CORPO,Luxações Entorse Distensão Reg Esp E Múltip Corpo
+139,MALFORMAÇÕES_CONGÊNITAS_DO_APARELHO_CIRCULATÓRIO,Malformações Congênitas Do Aparelho Circulatório
+140,MALÁRIA_NÃO_ESPECIFICADA,Malária Não Especificada
+141,MALÁRIA_POR_PLASMODIUM_FALCIPARUM,Malária Por Plasmodium Falciparum
+142,MALÁRIA_POR_PLASMODIUM_MALARIAE,Malária Por Plasmodium Malariae
+143,MALÁRIA_POR_PLASMODIUM_VIVAX,Malária Por Plasmodium Vivax
+144,MENINGITE_BACTERIANA_NÃO_CLASSIF_OUTRA_PARTE,Meningite Bacteriana Não Classif Outra Parte
+145,MENINGITE_EM_DOENÇAS_BACTERS_CLASS_OUTR_PARTE,Meningite Em Doenças Bacters Class Outr Parte
+146,MENINGITE_VIRAL,Meningite Viral
+147,MENING_DEV_OUTRAS_CAUSAS_E_CAUSAS_NÃO_ESPECIF,Mening Dev Outras Causas E Causas Não Especif
+148,MENING_EM_DOENÇ_INFEC_PARASIT_CLASS_OUTR_PART,Mening Em Doenç Infec Parasit Class Outr Part
+149,MICOSES,Micoses
+150,NASCIDOS_VIVOS_SEGUNDO_O_LOCAL_DE_NASCIMENTO,Nascidos Vivos Segundo O Local De Nascimento
+151,NEOPLASIAS_MALIGNAS_DE_LARINGE,Neoplasias Malignas De Laringe
+152,NEOPLASIA_BENIGNA_DA_MAMA,Neoplasia Benigna Da Mama
+153,NEOPLASIA_BENIGNA_DA_PELE,Neoplasia Benigna Da Pele
+154,NEOPLASIA_BENIGNA_DOS_ÓRGÃOS_URINÁRIOS,Neoplasia Benigna Dos Órgãos Urinários
+155,NEOPLASIA_BENIGNA_DO_OVÁRIO,Neoplasia Benigna Do Ovário
+156,NEOPLASIA_MALIGNA_DA_BEXIGA,Neoplasia Maligna Da Bexiga
+157,NEOPLASIA_MALIGNA_DA_MAMA,Neoplasia Maligna Da Mama
+158,NEOPLASIA_MALIGNA_DA_PELE,Neoplasia Maligna Da Pele
+159,NEOPLASIA_MALIGNA_DA_PRÓSTATA,Neoplasia Maligna Da Próstata
+160,NEOPLASIA_MALIGNA_DE_TRAQUÉIA_BRÔNQUIOS_E_PULMÕES,Neoplasia Maligna De Traquéia Brônquios E Pulmões
+161,NEOPLASIA_MALIGNA_DOS_OLHOS_E_ANEXOS,Neoplasia Maligna Dos Olhos E Anexos
+162,NEOPLASIA_MALIGNA_DO_COLO_DO_ÚTERO,Neoplasia Maligna Do Colo Do Útero
+163,NEOPLASIA_MALIGNA_DO_CÓLON,Neoplasia Maligna Do Cólon
+164,NEOPLASIA_MALIGNA_DO_ENCÉFALO,Neoplasia Maligna Do Encéfalo
+165,NEOPLASIA_MALIGNA_DO_ESTÔMAGO,Neoplasia Maligna Do Estômago
+166,NEOPLASIA_MALIGNA_DO_ESÔFAGO,Neoplasia Maligna Do Esôfago
+167,NEOPLASIA_MALIGNA_DO_LÁBIO_CAVIDADE_ORAL_E_FARINGE,Neoplasia Maligna Do Lábio Cavidade Oral E Faringe
+168,NEOPLASIA_MALIGNA_DO_OSSO_E_CARTILAGEM_ARTICULAR,Neoplasia Maligna Do Osso E Cartilagem Articular
+169,NEOPLASIA_MALIGNA_DO_PÂNCREAS,Neoplasia Maligna Do Pâncreas
+170,NEOPL_BENIG_ENCÉFALO_E_OUTR_PART_SIST_NERV_CENTRAL,Neopl Benig Encéfalo E Outr Part Sist Nerv Central
+171,NEOPL_MALIG_DO_TECIDO_MESOTELIAL_E_TECIDOS_MOLES,Neopl Malig Do Tecido Mesotelial E Tecidos Moles
+172,NEOPL_MALIG_FÍGADO_E_VIAS_BILIARES_INTRA-HEPÁTICAS,Neopl Malig Fígado E Vias Biliares Intra-Hepáticas
+173,NEOPL_MALIG_JUNÇÃO_RETOSSIGM_RETO_ÂNUS_CANAL_ANAL,Neopl Malig Junção Retossigm Reto Ânus Canal Anal
+174,NEOPL_MALIG_OUTRAS_PARTES_SISTEMA_NERVOSO_CENTRAL,Neopl Malig Outras Partes Sistema Nervoso Central
+175,NEOPL_MALIG_OUTR_LOCALIZ_MAL_DEF_SECUN_E_NÃO_ESPEC,Neopl Malig Outr Localiz Mal Def Secun E Não Espec
+176,NEOPL_MALIG_OUTR_PORÇÕES_E_PORÇÕES_NÃO_ESPEC_ÚTERO,Neopl Malig Outr Porções E Porções Não Espec Útero
+177,OBESIDADE,Obesidade
+178,ONCOCERCOSE,Oncocercose
+179,OSTEOMIELITE,Osteomielite
+180,OTITE_MÉDIA_E_OUTR_TRANST_OUVIDO_MÉDIO_APÓF_MAST,Otite Média E Outr Transt Ouvido Médio Apóf Mast
+181,OUTRAS_AFECÇÕES_ORIGINADAS_NO_PERÍODO_PERINATAL,Outras Afecções Originadas No Período Perinatal
+182,OUTRAS_ANEMIAS,Outras Anemias
+183,OUTRAS_COMPLICAÇÕES_DA_GRAVIDEZ_E_DO_PARTO,Outras Complicações Da Gravidez E Do Parto
+184,OUTRAS_DEFICIÊNCIAS_VITAMÍNICAS,Outras Deficiências Vitamínicas
+185,OUTRAS_DOENÇAS_CEREBROVASCULARES,Outras Doenças Cerebrovasculares
+186,OUTRAS_DOENÇAS_DAS_ARTÉRIAS_ARTERÍOLAS_E_CAPILARES,Outras Doenças Das Artérias Arteríolas E Capilares
+187,OUTRAS_DOENÇAS_DA_PELE_E_DO_TECIDO_SUBCUTÂNEO,Outras Doenças Da Pele E Do Tecido Subcutâneo
+188,OUTRAS_DOENÇAS_DOS_INTESTINOS_E_PERITÔNIO,Outras Doenças Dos Intestinos E Peritônio
+189,OUTRAS_DOENÇAS_DOS_ÓRGÃOS_GENITAIS_MASCULINOS,Outras Doenças Dos Órgãos Genitais Masculinos
+190,OUTRAS_DOENÇAS_DO_APARELHO_CIRCULATÓRIO,Outras Doenças Do Aparelho Circulatório
+191,OUTRAS_DOENÇAS_DO_APARELHO_DIGESTIVO,Outras Doenças Do Aparelho Digestivo
+192,OUTRAS_DOENÇAS_DO_APARELHO_RESPIRATÓRIO,Outras Doenças Do Aparelho Respiratório
+193,OUTRAS_DOENÇAS_DO_APARELHO_URINÁRIO,Outras Doenças Do Aparelho Urinário
+194,OUTRAS_DOENÇAS_DO_CORAÇÃO,Outras Doenças Do Coração
+195,OUTRAS_DOENÇAS_DO_ESÔFAGO_ESTÔMAGO_E_DUODENO,Outras Doenças Do Esôfago Estômago E Duodeno
+196,OUTRAS_DOENÇAS_DO_FÍGADO,Outras Doenças Do Fígado
+197,OUTRAS_DOENÇAS_DO_NARIZ_E_DOS_SEIOS_PARANASAIS,Outras Doenças Do Nariz E Dos Seios Paranasais
+198,OUTRAS_DOENÇAS_DO_OLHO_E_ANEXOS,Outras Doenças Do Olho E Anexos
+199,OUTRAS_DOENÇAS_DO_OUVIDO_E_DA_APÓFISE_MASTÓIDE,Outras Doenças Do Ouvido E Da Apófise Mastóide
+200,OUTRAS_DOENÇAS_DO_SISTEMA_NERVOSO,Outras Doenças Do Sistema Nervoso
+201,OUTRAS_DOENÇAS_DO_TRATO_RESPIRATÓRIO_SUPERIOR,Outras Doenças Do Trato Respiratório Superior
+202,OUTRAS_DOENÇAS_GLOMERULARES,Outras Doenças Glomerulares
+203,OUTRAS_DOENÇAS_HIPERTENSIVAS,Outras Doenças Hipertensivas
+204,OUTRAS_DOENÇAS_INFECCIOSAS_E_PARASITÁRIAS,Outras Doenças Infecciosas E Parasitárias
+205,OUTRAS_DOENÇAS_INFECCIOSAS_INTESTINAIS,Outras Doenças Infecciosas Intestinais
+206,OUTRAS_DOENÇAS_INFLAMAT_ÓRGÃOS_PÉLVICOS_FEMININOS,Outras Doenças Inflamat Órgãos Pélvicos Femininos
+207,OUTRAS_DOENÇAS_ISQUÊMICAS_DO_CORAÇÃO,Outras Doenças Isquêmicas Do Coração
+208,OUTRAS_DOENÇAS_SIST_OSTEOMUSCULAR_E_TEC_CONJUNTIVO,Outras Doenças Sist Osteomuscular E Tec Conjuntivo
+209,OUTRAS_DOENÇAS_VASCULARES_PERIFÉRICAS,Outras Doenças Vasculares Periféricas
+210,OUTRAS_DORSOPATIAS,Outras Dorsopatias
+211,OUTRAS_FORMAS_DE_LEPTOSPIROSE,Outras Formas De Leptospirose
+212,OUTRAS_FORMAS_MALÁRIA_CONF_EXAMES_PARASITOLÓG,Outras Formas Malária Conf Exames Parasitológ
+213,OUTRAS_GRAVIDEZES_QUE_TERMINAM_EM_ABORTO,Outras Gravidezes Que Terminam Em Aborto
+214,OUTRAS_HELMINTÍASES,Outras Helmintíases
+215,OUTRAS_HEPATITES_VIRAIS,Outras Hepatites Virais
+216,OUTRAS_HÉRNIAS,Outras Hérnias
+217,OUTRAS_INFECÇÕES_AGUDAS_DAS_VIAS_AÉREAS_SUPERIORES,Outras Infecções Agudas Das Vias Aéreas Superiores
+218,OUTRAS_INFECÇÕES_COM_TRANSM_PREDOMINANT_SEXUAL,Outras Infecções Com Transm Predominant Sexual
+219,OUTRAS_INFECÇÕES_ESPECÍFICAS_DO_PERÍODO_PERINATAL,Outras Infecções Específicas Do Período Perinatal
+220,OUTRAS_INFESTAÇÕES_POR_TREMATÓDEOS,Outras Infestações Por Trematódeos
+221,OUTRAS_MALFORMAÇÕES_CONGÊNITAS,Outras Malformações Congênitas
+222,OUTRAS_MALFORMAÇÕES_CONGÊNITAS_APARELHO_DIGESTIVO,Outras Malformações Congênitas Aparelho Digestivo
+223,OUTRAS_MALFORMAÇÕES_CONGÊNITAS_DO_SISTEMA_NERVOSO,Outras Malformações Congênitas Do Sistema Nervoso
+224,OUTRAS_MALFORMAÇÕES_DO_APARELHO_GENITURINÁRIO,Outras Malformações Do Aparelho Geniturinário
+225,OUTRAS_NEOPLASIAS_MALIGNAS_DA_PELE,Outras Neoplasias Malignas Da Pele
+226,OUTRAS_NEOPLASIAS_MALIGNAS_DE_ÓRGÃOS_DIGESTIVOS,Outras Neoplasias Malignas De Órgãos Digestivos
+227,OUTRAS_NEOPLASIAS_MALIGNAS_DO_TRATO_URINÁRIO,Outras Neoplasias Malignas Do Trato Urinário
+228,OUTRAS_NEOPL_MALIGNAS_ÓRGÃOS_GENITAIS_FEMININOS,Outras Neopl Malignas Órgãos Genitais Femininos
+229,OUTRAS_NEOPL_MALIGNAS_ÓRGÃOS_GENITAIS_MASCULINOS,Outras Neopl Malignas Órgãos Genitais Masculinos
+230,OUTRAS_NEOPL_MALIG_TECIDOS_LINFÓID_HEMATOP_E_RELAC,Outras Neopl Malig Tecidos Linfóid Hematop E Relac
+231,OUTRAS_NEOPL_MALIG_ÓRG_RESPIRAT_E_INTRATORÁCICOS,Outras Neopl Malig Órg Respirat E Intratorácicos
+232,OUTRAS_SÍFILIS,Outras Sífilis
+233,OUTRAS_TUBERCULOSES_RESPIRATÓRIAS,Outras Tuberculoses Respiratórias
+234,OUTROS_EFEITOS_E_NÃO_ESPEC_DE_CAUSAS_EXTERNAS,Outros Efeitos E Não Espec De Causas Externas
+235,OUTROS_TRANSTORNOS_DA_PRÓSTATA,Outros Transtornos Da Próstata
+236,OUTROS_TRANSTORNOS_DENTES_E_ESTRUTURAS_DE_SUPORTE,Outros Transtornos Dentes E Estruturas De Suporte
+237,OUTROS_TRANSTORNOS_DO_APARELHO_GENITURINÁRIO,Outros Transtornos Do Aparelho Geniturinário
+238,OUTROS_TRANSTORNOS_MENTAIS_E_COMPORTAMENTAIS,Outros Transtornos Mentais E Comportamentais
+239,OUTROS_TRANSTORNOS_TIREOIDIANOS,Outros Transtornos Tireoidianos
+240,OUTROS_TRANSTRONOS_ARTICULARES,Outros Transtronos Articulares
+241,OUTROS_TRANST_ENDÓCRINOS_NUTRICIONAIS_METABÓLICOS,Outros Transt Endócrinos Nutricionais Metabólicos
+242,OUTROS_TRANST_RESPIRATÓRIOS_ORIG_PERÍODO_PERINATAL,Outros Transt Respiratórios Orig Período Perinatal
+243,OUTROS_TÉTANOS,Outros Tétanos
+244,OUTR_DOENÇ_CAVIDADE_ORAL_GLÂND_SALIV_E_MAXILARES,Outr Doenç Cavidade Oral Glând Saliv E Maxilares
+245,OUTR_MALFORM_E_DEFORM_CONGÊNIT_APARELHO_OSTEOMUSC,Outr Malform E Deform Congênit Aparelho Osteomusc
+246,OUTR_MOT_ASS_À_MÃE_REL_CAV_FETAL_AMN_POS_PROB_PART,Outr Mot Ass À Mãe Rel Cav Fetal Amn Pos Prob Part
+247,OUTR_NEOPL_IN_SITU_BENIGS_E_COMPORT_INCERT_DESCONH,Outr Neopl In Situ Benigs E Comport Incert Desconh
+248,OUTR_PESS_RISCOS_POT_À_SAÚDE_REL_DOENÇAS_TRANSMISS,Outr Pess Riscos Pot À Saúde Rel Doenças Transmiss
+249,OUTR_SIST_SINAIS_ACHAD_ANORM_EX_CLÍN_LABORAT_NCOP,Outr Sist Sinais Achad Anorm Ex Clín Laborat Ncop
+250,OUTR_TRAUM_REG_ESPEC_NÃO_ESPEC_E_MÚLTIPLAS_CORPO,Outr Traum Reg Espec Não Espec E Múltiplas Corpo
+251,PANCREATITE_AGUDA_E_OUTRAS_DOENÇAS_DO_PÂNCREAS,Pancreatite Aguda E Outras Doenças Do Pâncreas
+252,PARALISIA_CEREBRAL_E_OUTRAS_SÍNDROMES_PARALÍTICAS,Paralisia Cerebral E Outras Síndromes Paralíticas
+253,PARTO_ÚNICO_ESPONTÂNEO,Parto Único Espontâneo
+254,PERDA_DE_AUDIÇÃO,Perda De Audição
+255,PESSOAS_CONTATO_SERV_SAÚDE_CUIDADOS_PROC_ESPECÍF,Pessoas Contato Serv Saúde Cuidados Proc Específ
+256,PESSOAS_CONTATO_SERV_SAÚDE_POR_OUTRAS_RAZÕES,Pessoas Contato Serv Saúde Por Outras Razões
+257,PESSOAS_EM_CONTATO_COM_SERV_SAÚDE_EXAME_E_INVESTIG,Pessoas Em Contato Com Serv Saúde Exame E Investig
+258,PESTE,Peste
+259,PLACENT_PRÉV_DESCOL_PREMAT_PLACENT_HEMORR_ANTEPART,Placent Prév Descol Premat Placent Hemorr Antepart
+260,PNEUMOCONIOSE,Pneumoconiose
+261,PNEUMONIA,Pneumonia
+262,PREPRÚCIO_REDUNDANTE_FIMOSE_E_PARAFIMOSE,Preprúcio Redundante Fimose E Parafimose
+263,PROLAPSO_GENITAL_FEMININO,Prolapso Genital Feminino
+264,QUEDAS,Quedas
+265,QUEIMADURA_E_CORROSÕES,Queimadura E Corrosões
+266,RAIVA,Raiva
+267,RASTREAMENTO_PRÉ-NATAL_E_OUTR_SUPERV_DA_GRAVIDEZ,Rastreamento Pré-Natal E Outr Superv Da Gravidez
+268,RESTANTE_DE_OUTRAS_DOENÇAS_BACTERIANAS,Restante De Outras Doenças Bacterianas
+269,RESTANTE_DE_OUTRAS_DOENÇAS_VIRAIS,Restante De Outras Doenças Virais
+270,RESTANTE_DE_OUTRAS_TUBERCULOSES,Restante De Outras Tuberculoses
+271,RESTANTE_DE_OUTR_FEBR_ARBOVÍRUS_FEBR_HEMOR_VÍRUS,Restante De Outr Febr Arbovírus Febr Hemor Vírus
+272,RESTANTE_DE_TUBERCULOSE_RESPIRATÓRIA,Restante De Tuberculose Respiratória
+273,RESTANTE_DOENÇAS_INFLAMAT_SIST_NERVOSO_CENTRAL,Restante Doenças Inflamat Sist Nervoso Central
+274,RETARDO_MENTAL,Retardo Mental
+275,RET_CRES_FET_DESN_FET_TRAN_REL_GEST_CURT_BAIX_PESO,Ret Cres Fet Desn Fet Tran Rel Gest Curt Baix Peso
+276,RUBÉOLA,Rubéola
+277,SALPINGITE_E_OOFORITE,Salpingite E Ooforite
+278,SARAMPO,Sarampo
+279,SENILIDADE,Senilidade
+280,SEPTICEMIA,Septicemia
+281,SEQÜELAS_DE_DESNUTRIÇÃO_E_DE_OUTRAS_DEFIC_NUTRIC,Seqüelas De Desnutrição E De Outras Defic Nutric
+282,SEQÜELAS_DE_HANSENÍASE_[LEPRA],Seqüelas De Hanseníase [Lepra]
+283,SEQÜELAS_DE_POLIOMIELITE,Seqüelas De Poliomielite
+284,SEQÜELAS_DE_TUBERCULOSE,Seqüelas De Tuberculose
+285,SEQÜEL_TRAUM_ENVEN_E_OUTR_CONSEQ_CAUSAS_EXTERNAS,Seqüel Traum Enven E Outr Conseq Causas Externas
+286,SHIGUELOSE,Shiguelose
+287,SINUSITE_CRÔNICA,Sinusite Crônica
+288,SÍFILIS_CONGÊNITA,Sífilis Congênita
+289,SÍFILIS_PRECOCE,Sífilis Precoce
+290,SÍNDROMES_DE_MAUS_TRATOS,Síndromes De Maus Tratos
+291,SÍNDROME_NEFRÍTICAS_AGUDA_E_RAPIDAMENTE_PROGRESSIV,Síndrome Nefríticas Aguda E Rapidamente Progressiv
+292,TESTICULO_NÃO-DESCIDO,Testiculo Não-Descido
+293,TIFO_EXANTEMÁTICO,Tifo Exantemático
+294,TIREOTOXICOSE,Tireotoxicose
+295,TODAS_AS_OUTRAS_CAUSAS_EXTERNAS,Todas As Outras Causas Externas
+296,TRABALHO_DE_PARTO_OBSTRUÍDO,Trabalho De Parto Obstruído
+297,TRACOMA,Tracoma
+298,TRANSTORNOS_DA_DENSIDADE_E_DA_ESTRUTURA_ÓSSEAS,Transtornos Da Densidade E Da Estrutura Ósseas
+299,TRANSTORNOS_DA_MAMA,Transtornos Da Mama
+300,TRANSTORNOS_DA_MENSTRUAÇÃO,Transtornos Da Menstruação
+301,TRANSTORNOS_DA_REFRAÇÃO_E_DA_ACOMODAÇÃO,Transtornos Da Refração E Da Acomodação
+302,TRANSTORNOS_DE_CONDUÇÃO_E_ARRITMIAS_CARDÍACAS,Transtornos De Condução E Arritmias Cardíacas
+303,TRANSTORNOS_DE_HUMOR_[AFETIVOS],Transtornos De Humor [Afetivos]
+304,TRANSTORNOS_DOS_NERVOS_RAÍZES_E_PLEXOS_NERVOSOS,Transtornos Dos Nervos Raízes E Plexos Nervosos
+305,TRANSTORNOS_DO_TECIDO_MOLE,Transtornos Do Tecido Mole
+306,TRANSTORNOS_TIREOIDIANOS_RELAC_DEFICIÊNCIA_DE_IODO,Transtornos Tireoidianos Relac Deficiência De Iodo
+307,TRANST_DISCAIS_CERVIC_E_OUTR_TRANST_DISC_INTERVERT,Transt Discais Cervic E Outr Transt Disc Intervert
+308,TRANST_MENOPÁUSICOS_E_OUTR_TRANST_PERIMENOPÁUSICOS,Transt Menopáusicos E Outr Transt Perimenopáusicos
+309,TRANST_MENTAIS_COMPORT_DEV_USO_OUTR_SUBST_PSICOAT,Transt Mentais Comport Dev Uso Outr Subst Psicoat
+310,TRANST_MENTAIS_E_COMPORTAMENTAIS_DEV_USO_DE_ÁLCOOL,Transt Mentais E Comportamentais Dev Uso De Álcool
+311,TRANST_NEURÓT_E_RELACIONADOS_COM_STRESS_E_SOMATOF,Transt Neurót E Relacionados Com Stress E Somatof
+312,TRANST_NÃO-INFLAM_OVÁRIO_TROMP_FALÓPIO_LIGAM_LARGO,Transt Não-Inflam Ovário Tromp Falópio Ligam Largo
+313,TRAUMATISMO_DE_OUTROS_ÓRGÃOS_INTERNOS,Traumatismo De Outros Órgãos Internos
+314,TRAUMATISMO_DO_OLHO_E_DA_ÓRBITA_OCULAR,Traumatismo Do Olho E Da Órbita Ocular
+315,TRAUMA_DURANTE_O_NASCIMENTO,Trauma Durante O Nascimento
+316,TRIPANOSSOMÍASE,Tripanossomíase
+317,TUBERCULOSE_DO_APARELHO_GENITURINÁRIO,Tuberculose Do Aparelho Geniturinário
+318,TUBERCULOSE_DO_SISTEMA_NERVOSO,Tuberculose Do Sistema Nervoso
+319,TUBERCULOSE_MILIAR,Tuberculose Miliar
+320,TUBERCULOSE_PULMONAR,Tuberculose Pulmonar
+321,TUBERCULOSE_ÓSSEA_E_DAS_ARTICULAÇÕES,Tuberculose Óssea E Das Articulações
+322,TUBERC_INTEST_PERITÔNIO_GLÂNGL_MESENTÉRICOS,Tuberc Intest Peritônio Glângl Mesentéricos
+323,TÉTANO_NEONATAL,Tétano Neonatal
+324,UROLITÍASE,Urolitíase
+325,VARICELA_E_HERPES_ZOSTER,Varicela E Herpes Zoster
+326,VEIAS_VARICOSAS_DAS_EXTREMIDADES_INFERIORES,Veias Varicosas Das Extremidades Inferiores
+327,ÚLCERA_GÁSTRICA_E_DUODENAL,Úlcera Gástrica E Duodenal
