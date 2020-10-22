@@ -87,62 +87,67 @@ def plot_dtobito():
     suicide_df['DTOBITO'] = pd.to_datetime(suicide_df['DTOBITO'])
     df_dtobito = suicide_df[["DTOBITO"]]
     df_dtobito["DTOBITO"] = df_dtobito["DTOBITO"].dt.tz_localize('America/Argentina/Catamarca')
-    options = np.append(['Selecione o tipo de análise'], ["Por ano", "Por mês"])
 
-    how = st.selectbox('Selecione o tipo de análise:', options)
-    if how == "Por mês":
-        scales = alt.selection_interval(bind='scales')
-        graph = alt.Chart(df_dtobito, title="Quantidade de suicídios por mês (2008-2018)").mark_bar().encode(
-            x=alt.X('utcyearmonth(DTOBITO)', title='Mês/Ano'),
-            color=alt.Color('utcmonth(DTOBITO):N',title="Mês/Ano"),
-            y=alt.Y('count()', title='Quantidade'),
-            tooltip=[alt.Tooltip('utcyearmonth(DTOBITO)', title='Mês/Ano'), alt.Tooltip('count()', title='Quantidade')]
-        ).add_selection(scales).interactive()
+    scales = alt.selection_interval(bind='scales')
+    graph = alt.Chart(df_dtobito, title="Quantidade de suicídios por mês (2008-2018)").mark_line(point=True).encode(
+        x=alt.X('utcyearmonth(DTOBITO)', title='Mês/Ano'),
+        y=alt.Y('count()', title='Quantidade'),
+        tooltip=[alt.Tooltip('utcyearmonth(DTOBITO)', title='Mês/Ano'), alt.Tooltip('count()', title='Quantidade')]
+    ).add_selection(scales).interactive()
 
-        st.altair_chart((graph).configure_view(strokeOpacity=0).configure_title(fontSize=12).properties(width=700, height=410))
-    elif how == "Por ano":
-        scales = alt.selection_interval(bind='scales')
-        graph = alt.Chart(df_dtobito, title="Quantidade de suicídios por ano").mark_bar().encode(
-            x=alt.X('utcyear(DTOBITO)', title='Ano'),
-            color=alt.Color('utcyear(DTOBITO):N',title="Ano"),
-            y=alt.Y('count()', title='Quantidade'),
-            tooltip=[alt.Tooltip('utcyear(DTOBITO)', title='Ano'), alt.Tooltip('count()', title='Quantidade')],
-        ).add_selection(scales).interactive()
-
-        st.altair_chart((graph).configure_view(strokeOpacity=0).configure_title(fontSize=12).properties(width=700, height=410))
+    st.altair_chart((graph).configure_view(strokeOpacity=0).configure_title(fontSize=12).properties(width=700, height=410))
 
 def plot_column(column):
     if column == "Idade":
         df_idade = suicide_df[suicide_df["IDADE"] > 0][["IDADE"]]
-        scales = alt.selection_interval(bind='scales')
 
-        graph = alt.Chart(df_idade, title="Quantidade de suicídios por idade (2008-2018)").mark_bar(color="#00336E").encode(
-         alt.X("IDADE", title="Idade",bin=alt.Bin(extent=[df_idade["IDADE"].min(), df_idade["IDADE"].max()], step=1)),
+        graph = alt.Chart(df_idade, title="Quantidade de suicídios por idade (2008-2018)").mark_bar().encode(
+             alt.X("IDADE", title="Idade"),
              y=alt.Y('count()', title='Quantidade'),
              tooltip=[alt.Tooltip('IDADE', title='Idade'), alt.Tooltip('count()', title='Quantidade')],
-            color=alt.condition(
+             color=alt.condition(
                 alt.datum.IDADE == int(df_idade["IDADE"].mean()),
                 alt.value('orange'),
                 alt.value('steelblue')
             )
-         ).add_selection(scales).interactive()
+        )
 
-        st.altair_chart((graph).configure_view(strokeOpacity=0).configure_title(fontSize=12).properties(width=700, height=410))
+        text = graph.mark_text(
+            align='left',
+            baseline='middle',
+            dx=5
+        ).encode(
+            text=alt.value("Média"),
+                opacity= alt.condition(
+            alt.datum.IDADE == int(df_idade["IDADE"].mean()), 
+            alt.value(1.0),
+            alt.value(0.0))
+        )
+
+        st.altair_chart((graph + text).configure_view(strokeOpacity=0).configure_title(fontSize=12).properties(width=700, height=410))
     elif column == "Sexo":
         df_sexo = suicide_df[["SEXO", "YEAR"]]
-        bar_highlight = alt.selection(type='single', encodings=['x'])
-        graph = alt.Chart(df_sexo).mark_bar(color="#00336E").encode(
-         alt.X("SEXO", title="Sexo"),
-             y=alt.Y('count()', title='Quantidade'),
-             column=alt.Column("YEAR:N", title="Quantidade de suicídios por sexo (2008-2018)"),
-             color=alt.condition(
-                bar_highlight,
-                alt.Color('SEXO:N', legend = alt.Legend(title = 'Legend')),
-                alt.value('lightgray')),
-             tooltip=[alt.Tooltip('SEXO', title='Sexo'), alt.Tooltip('count()', title='Quantidade')]
-         ).add_selection(bar_highlight).interactive()
+        scales = alt.selection_interval(bind='scales')
+        graph = alt.Chart(df_sexo, title="Quantidade de suicídios por sexo (2008 - 2018)").mark_line(point=True).encode(
+            x=alt.X("YEAR:N", title="Ano"),
+            y=alt.Y('count()', title='Quantidade'),
+            color='SEXO',
+            strokeDash='SEXO',
+            tooltip=[alt.Tooltip('SEXO', title='Sexo'), alt.Tooltip('count()', title='Quantidade')],
+        ).add_selection(scales).interactive()
+        
+        # base = alt.Chart(df_sexo, title="Quantidade de suicídios por sexo (2008 - 2018)").encode(alt.X('YEAR:N', axis=alt.Axis(title='Ano')))
 
-        st.altair_chart((graph).configure_view(strokeOpacity=0))
+        # graph_m = base.mark_line().encode( alt.Y('count()', axis=alt.Axis(title='Quantidade de Suicídios (M)'))).transform_filter(
+        #     (alt.datum.SEXO == "M")
+        # )
+        # graph_f = base.mark_line(color="#ffd100").encode( alt.Y('count()', axis=alt.Axis(title='Quantidade de Suicídios (F)'))).transform_filter(
+        #     (alt.datum.SEXO == "F")
+        # )
+
+        # actual_date_graph = (graph_m + graph_f).resolve_scale(y='independent')
+
+        st.altair_chart((graph).configure_view(strokeOpacity=0).configure_title(fontSize=12).properties(width=700, height=410))
     elif column == "Estado Civil":
         options = np.append(['Todos'], [x for x in range(2008,2019)] + ["Todos"])
         ano = st.selectbox('Selecione um ano:', options)
@@ -157,7 +162,7 @@ def plot_column(column):
         graph = alt.Chart(df_estciv, title="Quantidade de suicídios por estado civil (" + ano + ')').mark_bar(color="#00336E").encode(
          alt.X("ESTCIV", title="Estado Civil"),
              y=alt.Y('count()', title='Quantidade'),
-             color='ESTCIV:N',
+             color=alt.Color('ESTCIV:N', legend=None),
              tooltip=[alt.Tooltip('ESTCIV', title='Estado Civil'), alt.Tooltip('count()', title='Quantidade')]
          ).add_selection(scales).interactive()
 
@@ -176,7 +181,7 @@ def plot_column(column):
         graph = alt.Chart(df_racacor, title="Quantidade de suicídios por raça/cor (" + ano + ')').mark_bar(color="#00336E").encode(
          alt.X("RACACOR", title="Raça/Cor"),
              y=alt.Y('count()', title='Quantidade'),
-             color='RACACOR:N',
+             color=alt.Color('RACACOR:N', legend=None),
              tooltip=[alt.Tooltip('RACACOR', title='Raça/Cor'), alt.Tooltip('count()', title='Quantidade')]
          ).add_selection(scales).interactive()
 
@@ -195,7 +200,7 @@ def plot_column(column):
         graph = alt.Chart(df_esc, title="Quantidade de suicídios por escolaridade (" + ano + ')').mark_bar(color="#00336E").encode(
          alt.X("ESC", title="Escolaridade"),
              y=alt.Y('count()', title='Quantidade'),
-             color='ESC:N',
+             color=alt.Color('ESC:N', legend=None),
              tooltip=[alt.Tooltip('ESC', title='Escolaridade'), alt.Tooltip('count()', title='Quantidade')]
          ).add_selection(scales).interactive()
 
