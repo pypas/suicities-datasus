@@ -9,7 +9,7 @@ import altair as alt
 import geopandas as gpd
 import json
 
-root_eda = "../../"
+root = "../"
 
 # import dask.dataframe
 #suicide_df = dask.dataframe.read_csv("suicide.csv")
@@ -225,8 +225,8 @@ def plot_column(column):
         st.altair_chart((graph).properties(width=700, height=410))
 
 def plot_codmunres():
-    gdf = gpd.read_file(root_eda + 'Maps/BRMUE250GC_SIR.shp')
-    cadmun = pd.read_csv(root_eda + 'CSV/Cadmun/CADMUN.csv')
+    gdf = gpd.read_file(root + 'Maps/BRMUE250GC_SIR.shp')
+    cadmun = pd.read_csv(root + 'CSV/Cadmun/CADMUN.csv')
     cadmun = cadmun[["MUNCOD", "MUNCODDV"]]
   
     gdf["CD_GEOCMU"] = gdf["CD_GEOCMU"].astype(int)
