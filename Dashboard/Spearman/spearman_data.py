@@ -5,9 +5,9 @@ import matplotlib.pyplot as plt
 from scipy.stats import spearmanr
 import streamlit as st
 
-root = "../../"
+root = "../"
 path = root + "CSV/TabNet/Internacoes_Rate/"
-corrs_df = pd.read_csv("correlation.csv",index_col=0)
+corrs_df = pd.read_csv("Spearman/correlation.csv",index_col=0)
 
 def get_top_correlations(ascending = False):
     corrs_df["Doenças"] = corrs_df["Doenças"].str.title().str.replace('_', ' ')
@@ -31,11 +31,11 @@ def plot_disease_vs_suicide(disease):
 
 def get_diseases_select_names():
     global mapper
-    diseases_files = glob.glob("../diseases_select_list.csv")
+    diseases_files = glob.glob("diseases_select_list.csv")
     file_found = (len(diseases_files) > 0)
 
     if file_found:
-        mapper = pd.read_csv('../diseases_select_list.csv', index_col=0)
+        mapper = pd.read_csv('diseases_select_list.csv', index_col=0)
         print("Loaded preexisting diseases_select_list.csv")
         return np.array(mapper['SELECT_NAME'])
     else:
