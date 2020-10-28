@@ -8,7 +8,7 @@ from libpysal.weights import WSP
 from libpysal.weights.contiguity import Queen
 from esda.moran import Moran_Local_BV, Moran
 
-root = "../../"
+root = "../"
 weights = None
 mapper = None
 
@@ -43,11 +43,11 @@ def get_disease_csv_name(disease):
 
 def get_diseases_select_names():
   global mapper
-  diseases_files = glob.glob("../diseases_select_list.csv")
+  diseases_files = glob.glob("diseases_select_list.csv")
   file_found = (len(diseases_files) > 0)
 
   if file_found:
-    mapper = pd.read_csv('../diseases_select_list.csv', index_col=0)
+    mapper = pd.read_csv('diseases_select_list.csv', index_col=0)
     print("Loaded preexisting diseases_select_list.csv")
     return np.array(mapper['SELECT_NAME'])
   else:
@@ -88,11 +88,12 @@ def moran_global(dataset):
 
 def compute_weights():
   global weights
-  weight_files = glob.glob("data.npy")
+  path_to_data = "PySal/data.npy"
+  weight_files = glob.glob(path_to_data)
   file_found = (len(weight_files) > 0)
 
   if file_found:
-    data = load("data.npy")
+    data = load(path_to_data)
     spar = scipy.sparse.csc_matrix(data)
     wsp = WSP(spar)
     weights = wsp.to_W()
