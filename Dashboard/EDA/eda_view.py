@@ -19,6 +19,7 @@ def present_eda():
   suicide_df = dt.get_suicide_data()
   st.write(suicide_df.head())
 
+
   st.markdown(
     """
     ## Análise por data de óbito
@@ -30,6 +31,32 @@ def present_eda():
   )
 
   dt.plot_dtobito()
+
+  st.markdown(
+    """
+    ## Análise por LINHAII
+    """
+
+    """
+    A linha II da declaração de óbito corresponde às condições mórbidas pré-existentes no indivíduo e sem relação direta com sua morte.
+    """
+
+  )
+
+  dt.plot_linha_ii()
+
+  st.markdown(
+    """
+    ## Análise por CAUSABAS
+    """
+
+    """
+    A coluna CAUSABAS da corresponde à doença ou lesão que iniciou a cadeia de acontecimentos patológicos que conduziram diretamente à morte, ou as circunstâncias do acidente ou violência que produziram a lesão fatal.
+    """
+
+  )
+
+  dt.plot_causabas()
 
   st.markdown(
     """
@@ -47,6 +74,4 @@ def present_eda():
   #    """
   # )
 
-  # plot_codmunres()
-
-  # plot_linha_ii()
+  # dt.plot_codmunres()
