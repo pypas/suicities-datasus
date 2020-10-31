@@ -8,80 +8,76 @@ import numpy as np
 import altair as alt
 import geopandas as gpd
 import json
-root = "../../"
+
+from EDA import dictionaries as dictionaries
+
+root = "../"
 
 # import dask.dataframe
 #suicide_df = dask.dataframe.read_csv("suicide.csv")
 #suicide_df = suicide_df.drop(columns=[suicide_df.columns[0]])
-suicide_df = pd.read_csv("suicide_final.csv", index_col=0)
+suicide_df = pd.read_csv("EDA/suicide_final.csv", index_col=0)
 
 def get_suicide_data():
     return suicide_df
 
-# def get_cid_list():
-#     cid = []
-#     for index, row in suicide_df.iterrows():
-#         if str(row["LINHAII"]) != "nan":
-#             causa2 = str(row["LINHAII"])
-#             x = causa2.split("*")
-#             x.pop(0)
-#             for causa in x:
-#                 if re.match('A|B', causa):
-#                     cid.append("A00-B99: Algumas doenças infecciosas e parasitárias")
-#                 if re.match('C|D[0-3]|D4[0-8]', causa):
-#                     cid.append("C00-D48: Neoplasmas (tumores)")
-#                 if re.match('D[5-9]', causa):
-#                     cid.append("D50-D89: Doenças do sangue e dos órgãos hematopoéticos e alguns transtornos imunitários")
-#                 if re.match('E', causa):
-#                     cid.append("E00-E90: Doenças endócrinas, nutricionais e metabólicas")
-#                 if re.match('F', causa):
-#                     cid.append("F00-F99: Transtornos mentais e comportamentais")
-#                 if re.match('G', causa):
-#                     cid.append("G00-G99: Doenças do sistema nervoso")
-#                 if re.match('H[0-5]', causa):
-#                     cid.append("H00-H59: Doenças do olho e anexos")
-#                 if re.match('H[6-9]', causa):
-#                     cid.append("H60-H95: Doenças do ouvido e da apófise mastoide")
-#                 if re.match('I', causa):
-#                     cid.append("I00-I99: Doenças do aparelho circulatório")
-#                 if re.match('J', causa):
-#                     cid.append("J00-J99: Doenças do aparelho respiratório")
-#                 if re.match('K', causa):
-#                     cid.append("K00-K93: Doenças do aparelho digestivo")
-#                 if re.match('L', causa):
-#                     cid.append("L00-L99: Doenças da pele e do tecido subcutâneo")
-#                 if re.match('M', causa):
-#                     cid.append("M00-M99: Doenças do sistema osteomuscular e do tecido conjuntivo")
-#                 if re.match('N', causa):
-#                     cid.append("N00-N99: Doenças do aparelho geniturinário")
-#                 if re.match('O', causa):
-#                     cid.append("O00-O99: Gravidez, parto e puerpério")
-#                 if re.match('P', causa):
-#                     cid.append("P00-P96: Algumas afecções originadas no período perinatal")
-#                 if re.match('Q', causa):
-#                     cid.append("Q00-Q99: Malformações congênitas, deformidades e anomalias cromossômicas")
-#                 if re.match('R', causa):
-#                     cid.append("R00-R99: Sintomas, sinais e achados anormais de exames clínicos e de laboratório, não classificados em outra parte")
-#                 if re.match('S|T', causa):
-#                     cid.append("S00-T98: Lesões, envenenamentos e algumas outras consequências de causas externas")
-#                 if re.match('[V-Y]', causa):
-#                     cid.append("V01-Y98: Causas externas de morbidade e de mortalidade")
-#                 if re.match('Z', causa):
-#                     cid.append("Z00-Z99: Fatores que influenciam o estado de saúde e o contato com os serviços de saúde")
-#                 if re.match('U', causa):
-#                     cid.append("U00-U99: Códigos para propósitos especiais")
-#     return cid
+def get_cid_list():
+    cid_list = []
+    for index, row in suicide_df.iterrows():
+        if str(row["LINHAII"]) != "nan":
+            causa2 = str(row["LINHAII"])
+            x = causa2.split("*")
+            x.pop(0)
+            for causa in x:
+                for cid in dictionaries.linha_ii_dict.keys():
+                    if re.match(cid, causa):
+                        cid_list.append(dictionaries.linha_ii_dict[cid])
+    return cid_list
 
-# def plot_linha_ii():
-#     cid = get_cid_list()
-#     w = Counter(cid)
-#     fig, ax = plt.subplots()
-#     plt.xticks(rotation='vertical')
-#     plt.bar(w.keys(), w.values())
-#     plt.title("CID da LINHA II em casos de suicídio", loc="center", pad=10.0)
-#     plt.ylabel("Número de ocorrências")
-#     plt.xlabel("CID")
-#     st.pyplot(fig,bbox_inches="tight")
+def plot_linha_ii():
+    cid = get_cid_list()
+    counter = Counter(cid)
+    cids = []
+    count = []
+    for k,v in counter.items():
+        cids.append(k)
+        count.append(v)
+
+    source = pd.DataFrame({'CIDS': cids, 'COUNT': count})
+    graph = alt.Chart(source, title="CID da LINHAII em casos de suicídio (2008-2018)").mark_bar().encode(
+        x=alt.X('COUNT', title="Quantidade"),
+        color=alt.Color('CIDS:N', legend=None),
+        y=alt.Y('CIDS', title="CID da Linha II", sort='-x'),
+        tooltip=[alt.Tooltip('CIDS', title='CID da Linha II'), alt.Tooltip('COUNT', title='Quantidade')]
+    )
+    st.altair_chart((graph).properties(width=700, height=410))
+
+
+def get_causabas():
+    causabas_list = []
+    for index, row in suicide_df.iterrows():
+        if str(row["CAUSABAS"]) != "nan":
+            causabas = str(row["CAUSABAS"])
+            causabas_list.append(dictionaries.dict_causabas[causabas])
+    return causabas_list
+
+def plot_causabas():
+    causabas_list = get_causabas()
+    counter = Counter(causabas_list)
+    cids = []
+    count = []
+    for i in counter.most_common(20):
+        cids.append(i[0])
+        count.append(i[1])
+
+    source = pd.DataFrame({'CIDS': cids, 'COUNT': count})
+    graph = alt.Chart(source, title="CID da CAUSABAS em casos de suicídio (2008-2018)").mark_bar().encode(
+        x=alt.X('COUNT', title="Quantidade"),
+        color=alt.Color('CIDS:N', legend=None),
+        y=alt.Y('CIDS', title="CID da CAUSABAS", sort='-x'),
+        tooltip=[alt.Tooltip('CIDS', title='CID da CAUSABAS'), alt.Tooltip('COUNT', title='Quantidade')]
+    )
+    st.altair_chart((graph).properties(width=700, height=410))
 
 def plot_dtobito():
     suicide_df['DTOBITO'] = pd.to_datetime(suicide_df['DTOBITO'])
@@ -223,22 +219,25 @@ def plot_column(column):
         )
         st.altair_chart((graph).properties(width=700, height=410))
 
-def plot_codmunres():
-    gdf = gpd.read_file(root + 'Maps/BRMUE250GC_SIR.shp')
-    cadmun = pd.read_csv(root + 'CSV/Cadmun/CADMUN.csv')
-    cadmun = cadmun[["MUNCOD", "MUNCODDV"]]
+# def plot_codmunres():
+#     gdf = gpd.read_file('BRMUE250GC_SIR.shp')
+#     choro_json = json.loads(gdf.to_json())
+#     choro_data = alt.Data(values=choro_json['features'])
+    
+#     cadmun = pd.read_csv('CADMUN.csv')
+#     cadmun = cadmun[["MUNCOD", "MUNCODDV"]]
   
-    gdf["CD_GEOCMU"] = gdf["CD_GEOCMU"].astype(int)
-    gdf_city = pd.merge(gdf, cadmun, left_on="CD_GEOCMU", right_on="MUNCODDV", how="left")
+#     gdf["CD_GEOCMU"] = gdf["CD_GEOCMU"].astype(int)
+#     gdf_city = pd.merge(gdf, cadmun, left_on="CD_GEOCMU", right_on="MUNCODDV", how="left")
 
-    counter = Counter(list(suicide_df["CODMUNRES"]))
-    codmunres_df = pd.DataFrame({'MUNCOD': list(dict(counter).keys()),
-                           'COUNT': list(dict(counter).values())})
-    result = pd.merge(gdf_city, codmunres_df, left_on="MUNCOD", right_on="MUNCOD", how="left")
-    result = result[["NM_MUNICIP", "CD_GEOCMU", "geometry", "COUNT"]]
-    fig, ax = plt.subplots()
-    result.plot(ax=ax, column='COUNT', cmap =    
-                                'YlGnBu', figsize=(15,9),   
-                                 scheme='quantiles', k=4, legend=True)
-    plt.title("Quantidade de suicídios por município de residência")
-    st.pyplot(fig)
+#     counter = Counter(list(suicide_df["CODMUNRES"]))
+#     codmunres_df = pd.DataFrame({'MUNCOD': list(dict(counter).keys()),
+#                            'COUNT': list(dict(counter).values())})
+#     result = pd.merge(gdf_city, codmunres_df, left_on="MUNCOD", right_on="MUNCOD", how="left")
+#     result = result[["NM_MUNICIP", "CD_GEOCMU", "geometry", "COUNT"]]
+#     fig, ax = plt.subplots()
+#     result.plot(ax=ax, column='COUNT', cmap =    
+#                                 'YlGnBu', figsize=(15,9),   
+#                                  scheme='quantiles', k=4, legend=True)
+#     plt.title("Quantidade de suicídios por município de residência")
+#     st.pyplot(fig)
