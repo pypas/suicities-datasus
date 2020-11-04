@@ -19,59 +19,32 @@ def present_eda():
   suicide_df = dt.get_suicide_data()
   st.write(suicide_df.head())
 
-
   st.markdown(
     """
-    ## Análise por data de óbito
-    """
-
-    """
-    Abaixo, pode-se observar o número de suicídios por data de óbito.
+    ## Análises por coluna
     """
   )
 
-  dt.plot_dtobito()
-
-  st.markdown(
-    """
-    ## Análise por LINHAII
-    """
-
-    """
-    A linha II da declaração de óbito corresponde às condições mórbidas pré-existentes no indivíduo e sem relação direta com sua morte.
-    """
-
-  )
-
-  dt.plot_linha_ii()
-
-  st.markdown(
-    """
-    ## Análise por CAUSABAS
-    """
-
-    """
-    A coluna CAUSABAS da corresponde à doença ou lesão que iniciou a cadeia de acontecimentos patológicos que conduziram diretamente à morte, ou as circunstâncias do acidente ou violência que produziram a lesão fatal.
-    """
-
-  )
-
-  dt.plot_causabas()
-
-  st.markdown(
-    """
-    ## Análise por coluna
-    """
-  )
-
-  options = np.append(['Selecione uma análise'], ["Idade", "Sexo", "Estado Civil", "Raça/Cor", "Ocupação", "Escolaridade"])
+  options = np.append(['Selecione uma análise'], ["Data de Óbito", "Causa Básica", "Linha II", "Município de Residência","Idade", "Sexo", "Estado Civil", "Raça/Cor", "Ocupação", "Escolaridade"])
   column = st.selectbox('Selecione uma análise:', options)
+  
+
+  if column == "Data de Óbito":
+    st.markdown(
+      """
+      Abaixo, pode-se observar o número de suicídios por data de óbito.
+      """
+    )
+  elif column == "Causa Básica":
+    st.markdown(
+      """
+      A coluna CAUSABAS da declaração de óbito corresponde à doença ou lesão que iniciou a cadeia de acontecimentos patológicos que conduziram diretamente à morte, ou as circunstâncias do acidente ou violência que produziram a lesão fatal.
+      """
+    )
+  elif column == "Linha II":
+    st.markdown(
+      """
+      A linha II da declaração de óbito corresponde às condições mórbidas pré-existentes no indivíduo e sem relação direta com sua morte.
+      """
+    )
   dt.plot_column(column)
-
-  # st.markdown(
-  #    """
-  #    ## Análise por município de residência
-  #    """
-  # )
-
-  # dt.plot_codmunres()
