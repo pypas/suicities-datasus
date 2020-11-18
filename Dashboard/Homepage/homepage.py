@@ -20,15 +20,19 @@ def present_homepage():
         """
 
         """
-        Este Dashboard é constituído de três painéis distintos, que sumarizam dados da análise do suicídio nos municípios brasileiros:
+        Este Dashboard é constituído de quatro painéis distintos, que sumarizam dados da análise do suicídio nos municípios brasileiros:
         """
 
         """
-        - **EDA:** Análise exploratória dos dados contidos nas Declarações de Óbito do DATASUS.
+        - **Análise Exploratória de Dados:** Análise exploratória dos dados contidos nas Declarações de Óbito do DATASUS.
 
-        - **Bivariate Moran's I:** Análise espacial com a métrica Bivariate Moran's I.
+        - **Análise de Autocorrelação Espacial:** Análise espacial das taxas de suicídio e de doenças.
 
-        - **Spearman:** Análise de correlação de Spearman.
+        - **Análise de Correlação de Spearman:** Correlação de Spearman entre as taxas de doenças e a ocorrência de suicídios.
+
+        - **Determinação de Clusters de Suicídio:** Clusters de suicídio identificados pelo software *SatScan*.
+
+        - **Modelos Preditivos:** Modelos de Classificação e Regressão para a previsão de informações sobre as taxas de suicídio nos municípios brasileiros.
         """
 
         """
